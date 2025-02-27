@@ -1,0 +1,2001 @@
+Store Type,City,Gender,Age,Age Group,Q1 Expenditure,Q2 Expenditure,Q3 Expenditure,Q4 Expenditure,Discount Used
+Merchandise,Jaipur,Male,52,Senior,16668.44,23173.14,4386.33,6856.98,No
+Grocery,Pune,Female,26,Adult,13122.75,9907.19,15248.86,17762.46,Yes
+Grocery,Pune,Female,34,Adult,11033.7,5391.2,19807.35,17867.18,No
+Grocery,Delhi,Male,61,Senior,12558.13,22441.13,13168.87,9524.58,No
+Grocery,Mumbai,Male,60,Senior,5342.54,,16459.41,3565.23,No
+Merchandise,Indore,Female,24,Young Adult,822.12,21637.28,10482.71,12038.71,Yes
+Grocery,Kolkata,Male,23,Young Adult,7423.52,12449.06,19149.46,12812.18,Yes
+Merchandise,Lucknow,Male,19,Young Adult,10731.11,19018.43,,15942.13,Yes
+Merchandise,Delhi,Female,57,Senior,16167.2,4229.32,,8379.74,Yes
+Merchandise,Chennai,Female,62,Senior,10382.99,23502.18,4370.27,-7464.83,No
+Merchandise,Bangalore,Male,26,Adult,18834.4,647.13,11588.87,7223.19,Yes
+Grocery,Delhi,Male,20,Young Adult,1042.31,6654.75,5295.1,3889.81,No
+Merchandise,Jaipur,Male,30,Adult,7439.32,24863.9,16677.0,8378.99,No
+Grocery,Hyderabad,Male,28,Adult,10394.12,1692.66,14592.55,14813.22,No
+Grocery,Kolkata,Male,21,Young Adult,16755.49,,9785.47,4181.91,Yes
+Merchandise,Bangalore,Male,40,Middle Age,8483.05,13152.87,12775.33,3477.84,No
+Grocery,Lucknow,Female,49,Middle Age,17985.43,12229.14,,,No
+Merchandise,Chennai,Male,42,Middle Age,2218.95,,16905.88,,Yes
+Grocery,Delhi,Female,47,Middle Age,6344.31,-8114.35,,14776.28,Yes
+Grocery,Mumbai,Male,20,Young Adult,7902.32,2380.05,1097.69,7210.38,No
+Merchandise,Delhi,Male,15,Teen,2149.64,21851.69,12606.78,,Yes
+Merchandise,Hyderabad,Female,44,Middle Age,9900.22,12543.43,1117.01,17146.94,Yes
+Merchandise,Delhi,Male,48,Middle Age,13290.49,5861.73,12437.41,14325.52,No
+Grocery,Chennai,Female,30,Adult,532.01,3942.74,11213.7,11790.33,Yes
+Grocery,Chennai,Female,29,Adult,12604.0,,3552.12,13917.46,Yes
+Merchandise,Pune,Male,39,Middle Age,-12256.53,22992.03,18704.08,16039.08,Yes
+Grocery,Hyderabad,Female,20,Young Adult,-8927.04,15452.54,15646.29,16919.16,Yes
+Grocery,Chennai,Female,57,Senior,3217.51,21587.13,1686.58,8567.04,No
+Merchandise,Bangalore,Female,50,Middle Age,19445.21,14395.9,11875.8,4745.79,No
+Grocery,Jaipur,Female,37,Middle Age,2705.9,2190.32,17131.28,-11876.38,No
+Grocery,Hyderabad,Female,37,Middle Age,10499.53,9049.76,4576.08,,Yes
+Grocery,Kolkata,Male,33,Adult,13122.69,14836.87,-11549.38,12373.08,Yes
+Merchandise,Mumbai,,28,Adult,3596.11,,18994.41,17693.06,No
+Grocery,Jaipur,Female,22,Young Adult,16988.32,3375.3,-12715.17,-6911.46,Yes
+Merchandise,Lucknow,Male,55,Senior,6279.75,17554.87,16161.86,15658.44,No
+Grocery,Lucknow,Male,28,Adult,11657.23,6840.5,19679.62,15607.64,Yes
+Merchandise,Hyderabad,Female,45,Middle Age,11923.17,5314.61,10194.74,16775.88,No
+Merchandise,Delhi,Female,44,Middle Age,7467.82,22635.83,2390.86,8724.99,No
+,Mumbai,Female,19,Young Adult,18739.92,24464.1,5366.3,10199.56,No
+Grocery,Indore,Male,-1,Teen,1588.51,9386.59,6839.88,1874.19,Yes
+Grocery,Jaipur,Male,28,Adult,7487.47,23667.26,20366.39,1825.23,Yes
+Grocery,Delhi,Male,29,Adult,11585.62,16604.75,7614.48,2284.29,No
+Merchandise,Mumbai,Female,34,Adult,4262.91,16038.97,13073.18,13692.96,Yes
+Grocery,Hyderabad,Male,55,Senior,10237.16,9966.38,1032.71,13877.93,Yes
+Merchandise,Pune,Female,52,Senior,1112.25,5849.65,16662.35,1975.24,Yes
+Grocery,Indore,Male,62,Senior,15538.8,14792.05,976.1,9675.34,Yes
+Grocery,Chennai,Female,20,Young Adult,7789.9,8239.98,17310.36,12359.43,Yes
+Merchandise,Bangalore,Male,62,Senior,7981.09,,19775.18,6279.71,Yes
+Merchandise,Kolkata,Male,17,Teen,13402.56,20372.94,16615.34,17559.89,No
+Grocery,Kolkata,Female,18,Young Adult,16515.99,21953.75,3236.8,6061.66,Yes
+Grocery,Chennai,Female,32,Adult,19200.46,3143.0,19916.63,12602.86,No
+Grocery,Delhi,Female,54,Senior,13116.59,,17503.53,1190.43,No
+Merchandise,Chennai,,43,Middle Age,8217.68,21157.77,18161.31,15354.11,Yes
+Merchandise,Jaipur,Male,26,Adult,13276.79,14326.58,4238.23,17151.21,Yes
+Merchandise,Delhi,Male,33,Adult,1215.09,10180.7,10738.44,,No
+Grocery,Indore,Male,22,Young Adult,977.7,10863.62,15642.9,15218.85,Yes
+Grocery,Kolkata,Female,60,Senior,16695.85,13768.5,5273.8,5168.53,No
+Grocery,Pune,Female,56,,8146.2,-23302.93,17812.83,5738.45,No
+Merchandise,Bangalore,Male,46,Middle Age,8375.16,21938.56,,11994.23,No
+Grocery,Jaipur,Female,17,Teen,6446.22,2004.51,20268.48,11729.11,No
+Grocery,Jaipur,Male,62,Senior,13507.65,17112.32,14372.66,11894.5,No
+Merchandise,Kolkata,Male,41,Middle Age,6184.27,1615.61,18232.57,1084.49,No
+Merchandise,Lucknow,Female,37,Middle Age,-13891.35,9933.5,8447.23,16012.5,Yes
+Grocery,Mumbai,Male,57,Senior,19773.71,7789.55,2636.62,12112.73,No
+Grocery,Chennai,Male,20,Young Adult,773.38,22325.65,20997.41,15717.13,No
+Merchandise,Delhi,Male,35,Adult,19079.79,24227.43,13214.36,-12486.88,No
+Merchandise,Chennai,Female,21,Young Adult,11335.47,12648.51,7692.52,2925.01,No
+Merchandise,Indore,Male,38,Middle Age,12626.61,24237.13,16488.57,5403.01,No
+Merchandise,Chennai,Female,51,Senior,19263.75,15192.41,17447.94,13359.05,No
+Grocery,Indore,Female,23,Young Adult,15574.85,5869.62,10510.02,5222.62,No
+Grocery,Kolkata,Male,29,Adult,13950.34,10671.48,10587.6,14795.57,Yes
+Merchandise,Pune,Male,60,Senior,15462.3,14188.66,14421.19,12469.59,Yes
+Grocery,Indore,Male,20,Young Adult,7849.25,19678.79,13966.71,12046.98,No
+Merchandise,Hyderabad,Male,33,Adult,18058.34,22198.85,19848.73,8742.35,Yes
+Merchandise,Lucknow,Female,40,Middle Age,7025.91,677.14,8447.04,,No
+Merchandise,Jaipur,Male,40,Middle Age,17567.14,,12192.78,9585.16,No
+Merchandise,Kolkata,Male,26,Adult,6709.01,23928.14,21560.2,6971.55,No
+Grocery,Pune,Male,25,Young Adult,4754.34,7896.77,20541.19,14369.31,Yes
+Merchandise,Chennai,Female,44,Middle Age,5165.09,7524.45,13453.95,6775.7,Yes
+Grocery,Kolkata,Male,15,Teen,3051.12,18819.84,14031.92,16865.88,No
+Merchandise,Lucknow,Male,34,Adult,13310.71,4122.17,2469.69,6759.81,Yes
+Merchandise,Mumbai,Male,-1,Teen,,,7817.0,3506.91,Yes
+Merchandise,Chennai,Male,54,Senior,2978.3,10240.99,4933.67,4931.57,Yes
+Grocery,Bangalore,Male,57,Senior,15484.86,,18099.0,6009.36,No
+Grocery,Lucknow,Female,38,Middle Age,2189.41,5403.72,17415.85,10584.47,No
+Merchandise,Mumbai,Female,38,Middle Age,15285.62,17991.36,21869.85,1631.66,No
+Merchandise,Indore,Female,57,Senior,19733.26,,19493.09,10913.48,Yes
+Grocery,Hyderabad,Male,54,Senior,11661.47,17029.77,11136.52,10513.83,Yes
+Merchandise,Jaipur,Male,46,Middle Age,8322.22,20139.68,5775.0,16620.41,No
+Merchandise,Delhi,Female,24,Young Adult,5271.52,24175.37,16086.02,16318.07,Yes
+Grocery,Mumbai,Male,15,Teen,4818.92,19523.84,16105.86,7011.26,Yes
+,Hyderabad,Female,30,Adult,14831.82,4335.36,21872.28,8856.62,No
+Merchandise,Kolkata,Female,18,Young Adult,4150.98,18554.53,-10227.22,3676.95,No
+Grocery,Kolkata,Female,-1,Teen,3104.75,21443.72,10549.41,15919.75,Yes
+Grocery,Pune,Male,28,Adult,8840.24,23818.71,10506.09,16824.14,No
+Merchandise,Mumbai,Female,41,Middle Age,1529.82,24560.22,16257.08,6458.12,Yes
+Grocery,Pune,Male,49,Middle Age,15679.09,6603.88,13659.62,3821.57,Yes
+Grocery,Bangalore,Female,57,Senior,16055.43,12743.68,5098.7,13007.87,Yes
+Grocery,Indore,Male,40,Middle Age,15832.75,3544.93,6240.87,3171.89,Yes
+Grocery,Indore,Female,56,Senior,4785.63,1693.01,,9231.35,Yes
+Grocery,Lucknow,Female,26,Adult,7541.34,20754.83,12196.71,1016.26,No
+Grocery,Kolkata,Female,57,Senior,15940.14,19257.22,13282.07,3868.4,Yes
+Grocery,Bangalore,Male,35,Adult,7519.29,24740.3,18320.85,10374.59,No
+Merchandise,Bangalore,Female,46,Middle Age,3081.64,19790.35,1742.81,-13585.83,No
+Merchandise,Indore,Female,45,Middle Age,1303.77,8354.4,18537.95,-1081.16,Yes
+Grocery,Indore,Female,-1,Teen,5951.21,12906.01,3966.04,,Yes
+Merchandise,Chennai,Female,20,Young Adult,,13850.48,18202.66,7106.53,No
+Grocery,,,39,Middle Age,,15876.2,7637.24,2496.7,Yes
+Grocery,Chennai,Female,41,Middle Age,15326.11,22568.43,20086.77,,No
+Merchandise,Jaipur,Male,41,Middle Age,15656.68,-1130.1,10216.16,2346.39,No
+Merchandise,Mumbai,Male,28,Adult,12323.82,16797.34,20093.17,12415.52,Yes
+Merchandise,Hyderabad,Female,49,Middle Age,,4989.88,18189.87,14630.74,No
+Merchandise,Indore,Male,23,Young Adult,-8045.67,19879.92,,2387.46,No
+Merchandise,Hyderabad,Male,64,Senior,18145.87,19941.75,,1319.02,Yes
+Merchandise,Bangalore,Female,32,Adult,13981.82,10850.47,21365.96,1785.94,Yes
+Merchandise,Pune,Female,56,Senior,10435.54,2369.99,4455.14,6582.29,Yes
+Grocery,Bangalore,Female,49,Middle Age,13580.76,7260.36,1622.63,16858.09,Yes
+Merchandise,Hyderabad,Male,57,Senior,,6956.33,5695.07,,No
+Grocery,Kolkata,Male,36,Middle Age,3281.68,10041.67,12732.63,11257.76,No
+Grocery,Bangalore,Male,46,Middle Age,4034.43,3578.7,7230.61,10518.68,No
+Grocery,Indore,Male,42,Middle Age,1184.91,4991.53,18207.23,9730.53,Yes
+Grocery,Chennai,Male,47,Middle Age,18863.28,1440.27,10424.63,4413.32,Yes
+Merchandise,Jaipur,Male,58,Senior,4248.82,9899.11,2757.54,3545.1,Yes
+Grocery,Chennai,Male,28,Adult,13900.64,9754.23,,17057.1,Yes
+Merchandise,Jaipur,Male,43,Middle Age,15566.1,14696.88,21804.45,1234.83,Yes
+Grocery,Lucknow,Male,44,,14314.0,,18994.18,-9518.32,No
+Grocery,Kolkata,Male,46,Middle Age,11128.31,17265.89,1767.97,621.35,Yes
+Grocery,,Male,63,Senior,18286.58,14214.51,21294.44,7876.41,No
+Grocery,Kolkata,Female,25,Young Adult,18843.44,5360.86,15591.9,5713.32,No
+Merchandise,Kolkata,Female,16,Teen,13023.45,17002.63,14870.32,14761.64,No
+Grocery,Bangalore,Male,22,Young Adult,-9305.36,23287.99,,-3075.92,No
+Grocery,Kolkata,Female,20,Young Adult,12965.7,20542.65,6834.02,13778.79,Yes
+Grocery,Delhi,Female,24,Young Adult,11407.3,19449.4,19013.77,8331.54,No
+Merchandise,Kolkata,Male,63,Senior,9544.01,23970.65,16284.42,9708.62,No
+Merchandise,Delhi,Male,21,Young Adult,4423.55,13626.46,15325.07,7949.86,No
+Merchandise,Mumbai,Female,52,Senior,8040.12,12582.24,6739.45,11761.15,Yes
+Merchandise,Delhi,Female,24,Young Adult,10160.62,18926.84,10223.29,8008.52,No
+Grocery,Chennai,Male,45,Middle Age,17017.91,1379.67,21522.66,9109.98,Yes
+Grocery,Bangalore,Male,47,Middle Age,13208.99,18122.75,12396.09,10870.23,Yes
+Grocery,Chennai,Male,57,Senior,17241.03,23005.67,10696.33,17471.18,Yes
+Merchandise,Lucknow,Male,55,Senior,2858.96,16209.06,13189.0,12803.67,No
+Merchandise,Hyderabad,Male,52,Senior,2066.61,6269.04,1347.03,14326.88,No
+Merchandise,Hyderabad,Male,32,Adult,19775.19,17643.62,17146.86,,Yes
+Grocery,Chennai,Male,40,Middle Age,12804.56,,5317.4,14889.14,Yes
+Grocery,Pune,Female,-1,Teen,7000.87,14174.83,5156.71,15293.76,Yes
+Grocery,Jaipur,Male,53,Senior,15952.79,13681.09,12356.56,11403.96,Yes
+Merchandise,Indore,Male,23,Young Adult,1014.74,,-15766.29,6146.38,No
+Grocery,Chennai,Female,60,Senior,17860.11,15479.38,6459.88,14167.75,No
+Grocery,Pune,Female,56,Senior,17213.52,15722.26,15489.22,5326.91,Yes
+Grocery,Bangalore,Male,53,Senior,10993.11,18067.32,16145.8,17689.65,Yes
+Grocery,Hyderabad,Male,40,Middle Age,17015.3,5131.75,502.09,11548.87,Yes
+Grocery,Mumbai,Female,64,Senior,17484.15,11917.69,15007.69,13002.4,No
+Grocery,Chennai,Female,34,Adult,1798.07,23058.76,14375.87,5306.4,Yes
+Grocery,Pune,Female,57,Senior,,6717.33,18542.67,5753.8,Yes
+Grocery,Jaipur,Female,17,Teen,13468.63,-10227.11,1685.67,866.91,Yes
+Grocery,Indore,Male,50,,14537.86,6948.56,6431.98,5446.69,Yes
+Merchandise,Chennai,Female,23,Young Adult,4799.15,12974.44,18736.31,3719.14,Yes
+Grocery,Pune,Female,64,Senior,6365.71,15405.05,12354.05,5174.68,Yes
+Grocery,Mumbai,Female,52,Senior,538.79,16088.65,-9651.54,15075.33,Yes
+Grocery,Indore,,44,Middle Age,15847.88,,2653.9,13651.6,Yes
+Grocery,Hyderabad,Female,15,Teen,5702.99,16445.56,15569.78,5392.04,No
+Merchandise,Pune,Female,63,Senior,,7544.47,13242.73,14370.76,Yes
+Merchandise,Kolkata,Male,39,Middle Age,5380.65,3338.44,13159.18,6048.99,Yes
+Grocery,Mumbai,Male,20,Young Adult,5618.67,20891.71,18921.23,2943.06,No
+Merchandise,Pune,Male,45,Middle Age,13847.93,9411.89,16549.23,6294.51,No
+Grocery,Indore,Female,22,Young Adult,9263.09,11953.58,17581.15,6829.85,Yes
+Grocery,Delhi,Male,20,Young Adult,16888.22,898.87,8271.03,4453.77,No
+Grocery,Kolkata,Female,18,Young Adult,15343.79,13006.46,11707.4,12341.94,No
+Merchandise,Hyderabad,Male,150,Senior,17069.72,,21776.46,2923.57,No
+Grocery,Bangalore,Female,59,Senior,7609.13,7919.18,-4427.11,13834.61,Yes
+Merchandise,Hyderabad,Female,60,Senior,16834.8,8964.99,5005.95,,Yes
+Merchandise,Chennai,Male,40,Middle Age,8665.96,10419.33,4130.59,16243.1,No
+Grocery,Mumbai,Male,54,Senior,4175.16,19061.37,15875.99,4967.17,Yes
+Grocery,Jaipur,Female,45,Middle Age,17443.21,5632.37,15419.96,3654.78,No
+Merchandise,Pune,Female,44,Middle Age,9276.04,12792.45,13177.03,12977.67,No
+Grocery,Jaipur,Female,52,Senior,6118.24,19274.03,19713.91,10173.23,Yes
+Merchandise,Mumbai,Male,54,Senior,11149.57,11812.49,9986.61,14975.2,No
+Merchandise,Mumbai,Male,56,Senior,8835.53,19694.97,-17863.26,6157.25,No
+Grocery,Kolkata,Male,60,Senior,1711.1,21887.12,9726.8,,No
+Grocery,Indore,Female,62,Senior,11059.37,3209.88,18541.65,4859.81,No
+Merchandise,Pune,Female,40,Middle Age,,8934.59,9531.75,14593.9,No
+Merchandise,Lucknow,Male,21,Young Adult,17910.4,2893.71,17215.68,10573.16,No
+Merchandise,Chennai,Female,27,Adult,8321.99,8175.85,11522.89,7591.49,No
+Merchandise,Pune,Female,63,Senior,12606.24,21900.4,10804.91,593.78,No
+Merchandise,Hyderabad,Male,22,Young Adult,10953.45,16734.26,1286.78,9037.46,No
+Merchandise,Bangalore,Male,-1,Teen,16106.69,18412.72,3295.86,8078.78,No
+,Mumbai,Male,38,Middle Age,,22497.27,16879.22,15316.93,No
+Merchandise,Mumbai,Female,28,Adult,16342.25,3860.89,902.05,6233.36,No
+Merchandise,Mumbai,Female,23,Young Adult,4680.63,3658.1,20430.45,12826.4,Yes
+Grocery,Mumbai,Male,16,Teen,19531.09,14193.1,12241.75,13769.62,No
+Grocery,Kolkata,Female,18,,18349.32,17776.43,18090.75,5198.64,No
+Merchandise,Delhi,Male,64,Senior,12624.14,15176.23,17972.62,8581.43,No
+Grocery,Hyderabad,Female,58,Senior,14242.6,18111.67,-16779.98,1448.6,No
+Merchandise,Lucknow,Female,16,Teen,18909.0,,5781.93,7209.5,No
+Grocery,Lucknow,Male,58,Senior,15078.93,7287.63,16636.63,1164.11,No
+Grocery,Pune,Male,44,Middle Age,1360.2,8729.16,7069.22,1473.97,No
+Merchandise,,Male,30,Adult,10341.01,-22080.45,7551.08,990.05,No
+Grocery,Jaipur,Female,-1,Teen,3861.29,23641.44,2329.67,1984.51,No
+Grocery,Lucknow,Male,35,Adult,3713.7,4493.72,15013.18,14603.95,Yes
+Merchandise,Mumbai,Male,20,Young Adult,7300.95,13753.25,10215.61,-11305.85,No
+Grocery,Bangalore,Male,45,Middle Age,9284.43,3016.8,12715.38,2277.23,Yes
+Grocery,Indore,Female,59,Senior,5724.32,15478.64,1581.47,16388.41,Yes
+Merchandise,Pune,Female,49,Middle Age,,13809.17,9182.82,12941.13,Yes
+Grocery,Chennai,Male,39,Middle Age,7567.96,23682.65,6363.44,6550.56,No
+Merchandise,Bangalore,Female,26,Adult,15439.49,1439.11,4817.05,8227.5,Yes
+Merchandise,Mumbai,Male,29,Adult,6675.22,,15487.49,3207.43,No
+Grocery,Bangalore,Female,-1,Teen,1366.11,16635.13,17510.5,12990.29,Yes
+Merchandise,Bangalore,Male,46,Middle Age,9468.19,22258.81,14417.61,9228.63,No
+Grocery,Hyderabad,Male,45,Middle Age,,5186.37,20933.35,4133.04,Yes
+Merchandise,,Male,40,Middle Age,8572.3,4829.61,17850.61,5474.15,No
+Merchandise,Indore,Female,29,Adult,4001.59,23224.89,990.66,14553.99,Yes
+Grocery,Jaipur,Female,35,Adult,19222.85,7921.71,14638.49,9994.9,Yes
+Merchandise,Bangalore,Male,55,Senior,10054.53,7085.13,,2195.22,No
+Merchandise,Indore,Male,53,Senior,1574.98,4742.03,14173.31,4861.78,No
+Grocery,Kolkata,Female,16,Teen,16652.48,10548.72,19984.94,10268.75,Yes
+Grocery,Hyderabad,Female,61,Senior,19463.09,1152.31,21602.19,14536.6,No
+Grocery,Mumbai,Female,25,Young Adult,12397.35,11859.14,19596.24,-7058.54,No
+Merchandise,Hyderabad,Male,39,Middle Age,13673.48,18251.77,18937.86,,No
+Merchandise,Hyderabad,Female,54,Senior,,7184.42,14843.81,16483.5,No
+Merchandise,Bangalore,Male,37,Middle Age,-12509.84,4104.86,14396.23,-8337.62,Yes
+Merchandise,Kolkata,Male,40,Middle Age,12212.75,-1884.69,19830.05,784.97,Yes
+Grocery,Pune,Female,15,Teen,9641.45,15825.17,18659.77,11485.09,No
+Merchandise,Lucknow,Male,63,Senior,19788.49,6886.88,3241.13,8276.82,No
+Merchandise,Pune,Male,57,Senior,16336.06,22694.18,21980.68,6237.6,Yes
+Merchandise,Bangalore,Male,64,Senior,12019.16,3745.63,9816.24,2715.02,Yes
+Grocery,Jaipur,Female,39,Middle Age,15865.43,-3223.77,12442.92,-9587.45,Yes
+Grocery,Jaipur,Male,50,Middle Age,2013.71,19390.92,10923.87,4014.31,No
+Merchandise,Hyderabad,Male,34,Adult,1956.0,18217.84,2649.0,6043.71,No
+Merchandise,Mumbai,Male,59,Senior,,7646.46,4913.39,6035.41,Yes
+Merchandise,Mumbai,Female,43,Middle Age,9772.11,4010.8,,16490.7,Yes
+Merchandise,Kolkata,Male,38,Middle Age,18944.86,13853.24,14362.97,12538.71,Yes
+Merchandise,Lucknow,Female,26,Adult,6895.28,12287.57,4706.72,10447.37,Yes
+Merchandise,Indore,Male,150,Senior,14549.51,10196.25,10448.74,16989.43,No
+Grocery,Pune,Male,51,Senior,15011.82,6914.0,16584.17,4547.41,Yes
+Merchandise,Kolkata,Female,31,Adult,10751.31,11164.76,18205.74,17021.66,Yes
+Grocery,Jaipur,Female,48,Middle Age,5298.84,16963.75,17569.01,3747.33,No
+Grocery,Mumbai,Female,34,,14678.59,12188.48,9663.06,17146.21,Yes
+Merchandise,Hyderabad,Male,58,Senior,13584.39,,12448.68,14697.18,Yes
+Merchandise,Bangalore,Female,49,Middle Age,,24301.66,6085.6,5563.25,Yes
+Merchandise,Hyderabad,Female,27,Adult,8413.04,20297.05,19947.77,6030.69,Yes
+Grocery,Lucknow,Male,18,Young Adult,7470.15,18335.87,11131.25,2219.97,Yes
+Grocery,Bangalore,Female,18,Young Adult,1403.17,23751.25,2084.46,,Yes
+Merchandise,Chennai,Male,51,Senior,4695.54,15537.67,8116.74,13968.46,Yes
+Grocery,Lucknow,Male,52,Senior,16995.3,,9304.4,16385.36,Yes
+Grocery,Bangalore,Male,15,Teen,10620.97,14897.85,18292.17,4604.9,No
+Grocery,Bangalore,Female,52,,7230.86,14452.57,17479.83,16198.48,Yes
+Merchandise,Lucknow,Male,22,Young Adult,10836.25,17840.75,21227.73,6122.56,Yes
+Merchandise,Jaipur,,27,Adult,8266.9,13042.94,17663.63,16060.45,No
+Merchandise,Hyderabad,Female,33,Adult,12619.85,2507.04,4637.98,4820.88,No
+Merchandise,Delhi,Male,25,Young Adult,18318.63,18361.28,17277.11,9951.23,Yes
+Merchandise,Chennai,Female,150,Senior,19424.2,2323.81,16581.62,8744.99,Yes
+Merchandise,Chennai,Female,49,Middle Age,4490.04,23930.86,3437.33,15442.18,No
+Grocery,Lucknow,Female,42,Middle Age,19994.91,1802.29,5654.3,8797.97,Yes
+Merchandise,Bangalore,Male,38,Middle Age,10086.65,24818.78,20433.15,953.94,No
+Grocery,Chennai,Male,30,Adult,18000.37,18690.91,15757.13,9885.12,No
+Merchandise,Indore,Female,20,Young Adult,9695.88,2085.86,10714.68,9210.72,No
+Merchandise,Indore,Male,46,Middle Age,5048.14,21013.31,15698.9,16256.01,Yes
+Merchandise,Bangalore,Female,55,Senior,8885.98,23966.33,11928.81,9247.95,Yes
+Merchandise,Pune,Female,43,Middle Age,19681.66,14973.32,17087.84,16828.96,Yes
+Merchandise,Jaipur,Male,42,Middle Age,5804.0,14458.87,16326.99,13156.14,Yes
+Grocery,Pune,Female,48,,1491.79,23015.65,-2802.94,1166.54,No
+Grocery,Indore,Male,28,Adult,2534.33,1553.09,,2520.57,Yes
+Merchandise,Bangalore,Male,15,Teen,17887.94,23776.34,19583.35,10245.02,Yes
+Merchandise,Pune,Male,-1,Teen,19578.12,14877.54,2679.89,1307.46,No
+Grocery,Delhi,Female,40,Middle Age,5435.61,4034.56,18528.34,17043.09,No
+Merchandise,,Male,43,Middle Age,2110.29,19256.04,8655.71,11576.34,No
+Merchandise,Lucknow,,25,Young Adult,12073.81,3266.55,7448.95,9425.8,Yes
+Merchandise,Mumbai,Male,45,Middle Age,16369.66,23681.3,604.57,14272.46,Yes
+Merchandise,Jaipur,Female,21,Young Adult,3979.8,6020.13,5773.43,-17789.14,Yes
+Grocery,Pune,Male,51,Senior,1070.86,10645.47,13449.38,15380.53,Yes
+Merchandise,Hyderabad,Male,52,Senior,4768.73,24381.25,11569.85,16016.32,Yes
+Merchandise,Kolkata,Female,24,Young Adult,16585.22,6929.91,18861.38,1558.32,No
+Grocery,Kolkata,Male,54,Senior,14800.5,13074.5,4325.61,12758.18,No
+Grocery,Lucknow,Female,19,Young Adult,2474.74,16758.12,21268.43,2836.83,No
+Merchandise,Hyderabad,Female,20,Young Adult,11863.55,-22479.57,19488.14,,Yes
+Grocery,Jaipur,Male,19,,18633.96,21954.54,,4278.27,No
+Merchandise,Jaipur,Male,24,Young Adult,13122.87,19378.23,10440.44,12265.27,Yes
+Grocery,Bangalore,Male,30,Adult,5877.61,18851.83,18638.82,6567.0,No
+Grocery,Delhi,Female,40,Middle Age,,14337.27,12844.81,15830.05,No
+Merchandise,Delhi,Male,51,Senior,4572.84,2716.93,15918.58,516.44,Yes
+Merchandise,Chennai,Male,38,Middle Age,15000.29,6755.25,7261.37,14047.8,Yes
+Merchandise,Jaipur,Female,-1,Teen,,22439.28,2813.56,868.91,No
+Merchandise,Chennai,Male,150,Senior,7268.81,20999.73,13499.68,12930.96,Yes
+Merchandise,Indore,Female,25,Young Adult,6947.96,5345.46,18305.67,17092.01,Yes
+Merchandise,Bangalore,Female,27,Adult,18410.85,3918.04,16386.96,10407.5,Yes
+Merchandise,Chennai,Female,46,Middle Age,14639.59,16583.12,5745.57,10857.52,No
+Merchandise,Mumbai,Male,17,Teen,16991.94,2261.57,2939.15,14207.12,No
+Merchandise,Indore,Male,36,Middle Age,6022.45,3190.41,803.21,13801.0,No
+Merchandise,Lucknow,Female,45,Middle Age,11937.99,16496.95,17187.22,1296.86,No
+Merchandise,Mumbai,Female,61,Senior,5010.92,16584.92,1828.99,16827.32,Yes
+Grocery,Kolkata,Female,20,Young Adult,11720.08,17265.24,7641.29,12282.26,Yes
+Grocery,Kolkata,Male,18,Young Adult,19981.35,4142.02,13245.57,8940.29,No
+Merchandise,Chennai,Female,30,Adult,5220.49,12256.81,8513.25,5834.69,Yes
+Merchandise,Kolkata,Female,-1,Teen,13722.87,5310.72,6277.93,6723.2,No
+Grocery,,Male,17,Teen,14315.18,1274.61,,11417.1,No
+Merchandise,Mumbai,Male,53,Senior,12081.23,18779.22,2501.7,10645.47,No
+Merchandise,Lucknow,Female,40,Middle Age,,4524.91,12608.6,15214.96,Yes
+Merchandise,Kolkata,Male,18,Young Adult,2934.52,5571.32,18721.8,17161.26,Yes
+Merchandise,Hyderabad,Female,16,Teen,11451.95,1081.72,1273.55,12848.48,Yes
+Merchandise,Hyderabad,Female,45,Middle Age,1748.41,22025.83,15481.34,12983.0,Yes
+Grocery,Mumbai,Male,26,Adult,5202.8,2227.47,1886.08,5423.93,Yes
+Merchandise,Mumbai,Female,39,Middle Age,11679.6,9220.45,18394.25,,Yes
+Merchandise,Mumbai,Male,64,Senior,9760.11,-11271.67,21486.17,14991.27,No
+Grocery,Hyderabad,Female,31,Adult,12509.66,,5588.25,7968.15,No
+Merchandise,Delhi,Male,48,Middle Age,939.15,23387.5,11773.44,4656.69,Yes
+Grocery,Mumbai,Female,28,Adult,18075.87,3026.7,,2194.3,No
+Merchandise,Indore,Female,42,Middle Age,19293.14,16969.92,19706.16,9184.07,No
+Grocery,Delhi,Female,44,Middle Age,7481.18,6426.75,-14674.8,14660.76,Yes
+Merchandise,Hyderabad,Male,22,Young Adult,17480.24,,-15107.07,5845.14,No
+Grocery,Chennai,Female,50,Middle Age,13277.52,7333.96,15796.2,13752.99,Yes
+Merchandise,Hyderabad,Female,41,Middle Age,17692.12,-18004.35,2552.97,8748.73,No
+Merchandise,Bangalore,Male,53,Senior,6867.01,7784.17,1104.09,11484.6,No
+Grocery,Bangalore,Male,16,Teen,18342.29,873.73,20437.36,16682.27,No
+Grocery,Kolkata,Male,25,Young Adult,10736.0,1083.21,7661.29,14189.6,Yes
+Merchandise,Indore,Male,49,Middle Age,14797.08,10742.5,12901.51,3911.44,No
+Merchandise,Kolkata,Female,36,Middle Age,,11261.55,,14199.97,No
+Merchandise,Bangalore,Male,25,Young Adult,19638.2,10199.99,8682.74,15960.46,No
+Merchandise,Hyderabad,Female,33,Adult,8526.59,4939.46,6333.46,5485.64,No
+Merchandise,Indore,Male,64,Senior,,21675.92,-16923.91,,No
+Merchandise,Bangalore,Male,26,Adult,10079.7,3358.81,5193.22,4981.67,No
+Grocery,Chennai,Female,57,Senior,16271.22,3150.95,,5330.63,No
+Grocery,Kolkata,Male,19,Young Adult,14804.71,11528.24,10036.25,5165.21,No
+Grocery,Chennai,Female,33,Adult,8980.65,11615.76,11390.29,1710.19,Yes
+Merchandise,Hyderabad,Female,64,Senior,10033.86,14159.24,4728.88,10603.03,No
+Merchandise,Chennai,Female,60,Senior,5115.31,,5030.41,14972.78,No
+Grocery,Pune,Male,62,Senior,1824.17,-23302.94,4019.66,9831.58,No
+Grocery,Lucknow,Female,22,Young Adult,6326.99,12935.57,6698.0,4095.33,Yes
+Grocery,Bangalore,Female,41,Middle Age,6254.83,11394.83,14356.19,679.35,Yes
+Merchandise,Chennai,Male,61,Senior,13836.93,-5885.17,9502.52,4356.03,Yes
+Grocery,Pune,Female,25,Young Adult,11772.92,,11189.61,3440.71,Yes
+Grocery,Lucknow,Female,57,Senior,11167.33,1570.44,7873.85,3998.36,No
+Grocery,Indore,Male,56,Senior,17319.18,17703.64,7009.2,15069.58,Yes
+Grocery,Delhi,Male,32,Adult,13132.49,-958.28,1233.22,10742.31,No
+Merchandise,Hyderabad,Female,49,Middle Age,4358.26,23379.3,5338.67,8811.55,Yes
+Grocery,Hyderabad,Female,41,Middle Age,8745.53,9464.77,7719.04,17573.52,Yes
+Grocery,Bangalore,Female,30,Adult,14104.58,22850.15,4020.87,11069.56,No
+Merchandise,Delhi,Female,46,Middle Age,9632.4,22801.6,15393.82,5595.74,No
+Merchandise,Indore,Female,29,Adult,2527.06,805.51,8298.88,11284.6,Yes
+Grocery,Bangalore,Female,20,Young Adult,5587.75,3853.61,15984.22,1018.36,No
+Merchandise,Jaipur,Female,24,Young Adult,1912.58,18783.12,7897.19,2741.86,No
+Grocery,Delhi,Male,36,Middle Age,11765.35,11503.89,3758.48,11955.19,No
+Grocery,Jaipur,Male,15,Teen,8638.99,11678.8,12848.36,1945.11,No
+Merchandise,Lucknow,Male,59,Senior,13124.35,12672.64,6657.43,5227.5,Yes
+Merchandise,Hyderabad,Male,41,Middle Age,16944.35,13720.41,11457.53,12786.35,No
+Grocery,Jaipur,Female,46,Middle Age,10058.1,22012.05,6728.64,,No
+Merchandise,Bangalore,Female,36,Middle Age,6591.14,17352.39,1609.12,9849.31,Yes
+Merchandise,Pune,Female,52,Senior,12379.22,5844.9,16840.41,17563.79,No
+Merchandise,Mumbai,Female,15,Teen,7368.33,2742.33,11068.61,9156.96,No
+Grocery,Bangalore,Female,47,Middle Age,10350.71,16082.18,14177.75,11148.25,Yes
+Merchandise,Indore,Female,58,Senior,3247.3,9873.14,2533.69,6641.61,No
+Grocery,Bangalore,Female,28,Adult,6456.31,4479.67,14860.34,13933.33,Yes
+Merchandise,Pune,Male,44,Middle Age,8002.47,14789.96,13954.6,13343.37,No
+Merchandise,Delhi,Male,63,Senior,11537.51,3063.8,10330.06,11686.82,Yes
+Merchandise,Bangalore,Male,39,Middle Age,,4990.0,11720.32,14355.08,No
+,Delhi,Male,57,Senior,16218.64,6138.41,16726.83,7457.58,Yes
+Merchandise,Jaipur,Female,25,Young Adult,978.37,16759.23,948.76,7385.95,No
+Grocery,Mumbai,Male,38,Middle Age,15529.51,24508.2,19268.08,17085.17,Yes
+Grocery,Pune,Female,35,Adult,17951.8,8722.81,9613.07,3058.71,No
+Grocery,Indore,Female,46,Middle Age,9088.79,2075.84,18310.51,10269.32,Yes
+Merchandise,Jaipur,Female,43,Middle Age,16335.86,1432.89,11236.39,14302.96,Yes
+Merchandise,Kolkata,Male,20,Young Adult,1650.04,19346.93,7283.89,11576.18,No
+Grocery,Delhi,Male,36,Middle Age,12838.37,16039.5,4359.92,5763.11,Yes
+Merchandise,Chennai,Male,37,Middle Age,16298.44,20101.44,6215.04,9907.75,Yes
+Merchandise,Lucknow,Male,44,Middle Age,18280.46,628.36,20945.52,11672.54,No
+Grocery,Indore,Male,63,Senior,18552.01,10184.89,19061.69,7594.66,No
+Grocery,Jaipur,Female,23,Young Adult,7281.22,13564.5,14408.39,-10705.32,No
+Grocery,Chennai,Female,25,Young Adult,19298.28,,13909.35,16136.83,No
+Merchandise,Pune,Male,50,Middle Age,5343.19,16181.59,14355.41,16209.53,No
+Merchandise,Kolkata,Male,64,Senior,9307.07,,9206.84,11292.84,No
+Merchandise,Jaipur,Male,41,Middle Age,,8419.71,10696.62,6896.51,No
+Grocery,Chennai,Male,54,Senior,16710.09,21832.43,777.82,13662.71,No
+Merchandise,Jaipur,Female,63,Senior,15889.34,17334.42,1252.8,7637.8,No
+Grocery,Hyderabad,Female,-1,Teen,15260.53,8289.54,16619.4,14965.81,No
+Merchandise,Lucknow,Male,28,Adult,1778.42,8833.26,21922.47,11095.6,Yes
+Merchandise,Mumbai,Male,18,Young Adult,15469.31,5769.42,,8594.02,Yes
+Merchandise,Mumbai,Female,59,Senior,9403.35,17869.1,15344.74,13419.36,No
+Merchandise,Jaipur,Female,53,Senior,7095.55,22661.54,20546.84,3406.57,Yes
+Merchandise,Mumbai,Male,56,Senior,18378.0,19572.92,9398.03,15316.54,No
+Merchandise,Mumbai,Female,64,Senior,15232.56,21473.03,2581.27,8381.41,No
+,Chennai,Male,46,Middle Age,6788.29,18437.85,11193.86,7139.16,No
+Merchandise,Kolkata,Male,37,Middle Age,7426.01,9357.99,5936.58,11982.32,No
+Merchandise,Bangalore,Male,25,Young Adult,8337.74,21329.03,11974.7,11019.48,No
+Grocery,Bangalore,Female,45,Middle Age,9872.4,4746.87,20536.52,9493.71,No
+Grocery,Chennai,Female,56,Senior,7396.1,13156.32,6623.64,4778.29,No
+Merchandise,Delhi,Male,28,Adult,17501.17,14783.7,19423.75,1038.83,No
+Grocery,Delhi,Female,18,Young Adult,12352.81,,4394.03,1617.36,Yes
+Grocery,Mumbai,,52,Senior,12487.19,6543.21,15678.98,5855.76,No
+Grocery,Hyderabad,Male,29,Adult,3958.65,2612.8,18628.6,2689.79,Yes
+Merchandise,Indore,Male,58,Senior,6724.53,7927.88,15177.11,940.8,No
+Merchandise,Jaipur,Female,59,Senior,6234.11,15778.1,21147.78,12271.05,Yes
+Grocery,Hyderabad,Male,21,Young Adult,7728.71,1896.83,16261.21,8788.35,No
+Merchandise,Mumbai,Male,26,Adult,5393.28,6045.32,17181.54,14686.27,Yes
+Merchandise,Delhi,Male,22,Young Adult,4294.31,14533.52,2207.39,7979.4,No
+Grocery,Chennai,Male,37,Middle Age,18509.65,1019.89,-18392.67,15050.86,No
+Grocery,Pune,Male,25,Young Adult,15009.2,18753.42,3278.99,7903.33,Yes
+Merchandise,Mumbai,Male,24,Young Adult,7750.71,5822.22,17563.7,,Yes
+Grocery,Jaipur,Female,15,Teen,12773.14,23703.68,18313.8,1291.94,Yes
+Grocery,Indore,Male,19,Young Adult,4332.74,16456.38,4982.61,1716.38,Yes
+Merchandise,Hyderabad,Female,53,Senior,5719.4,24262.6,8409.27,12342.46,No
+Merchandise,Lucknow,,45,Middle Age,8675.65,6768.27,,1661.36,No
+Merchandise,Hyderabad,Female,52,Senior,865.49,23122.99,12155.41,13789.37,No
+Grocery,Bangalore,Male,27,Adult,11540.57,5003.87,1926.71,1499.24,No
+Grocery,Pune,Female,55,Senior,3263.67,23313.77,8359.85,2035.09,Yes
+Grocery,Jaipur,Female,34,Adult,13359.46,14118.12,3588.01,12825.46,Yes
+Merchandise,Hyderabad,Female,63,Senior,907.2,5788.22,6560.71,9250.12,No
+Grocery,Indore,Female,-1,Teen,12012.49,24841.38,10717.54,12405.37,No
+Merchandise,Delhi,Male,58,Senior,5334.89,7909.54,6651.48,5695.57,No
+Merchandise,Chennai,Male,39,Middle Age,10008.64,14713.37,18770.54,16833.48,Yes
+Grocery,Chennai,Female,53,Senior,-5162.28,20224.64,993.71,1300.11,Yes
+Grocery,Mumbai,Male,54,Senior,10717.08,19911.56,18082.84,654.48,Yes
+Merchandise,Bangalore,Male,29,Adult,15540.4,5788.49,19742.42,1552.96,No
+Grocery,Chennai,Male,33,Adult,15416.39,11904.94,16546.11,8244.78,No
+Merchandise,Lucknow,Male,46,Middle Age,12481.95,18492.5,7529.52,5896.87,Yes
+Grocery,Delhi,,16,Teen,13997.86,10676.93,8480.05,5473.44,No
+Merchandise,Bangalore,Male,38,Middle Age,16988.5,17506.7,4733.17,13551.15,Yes
+Merchandise,Hyderabad,Male,31,Adult,18582.95,18911.55,10944.55,13628.44,No
+Merchandise,Mumbai,Male,25,Young Adult,5689.23,2908.11,15337.3,7531.52,No
+Grocery,Mumbai,Female,47,Middle Age,3587.09,19407.83,-9495.39,1271.96,Yes
+Grocery,Mumbai,Female,34,Adult,10920.27,10598.63,813.25,12743.96,Yes
+Merchandise,,Male,26,Adult,586.9,19791.19,15678.44,13591.89,Yes
+Merchandise,Kolkata,Male,28,Adult,3287.87,22047.72,14615.91,5522.2,Yes
+Grocery,Jaipur,Male,30,Adult,1115.89,20424.51,17686.67,9635.51,No
+Merchandise,Kolkata,Female,21,Young Adult,17980.07,21073.19,16353.89,13219.26,Yes
+Grocery,Indore,Male,-1,Teen,,9518.08,12337.83,15824.4,No
+Grocery,Kolkata,Male,64,Senior,8553.41,2269.27,4960.19,15110.18,Yes
+Grocery,,Female,36,Middle Age,19769.05,2071.14,6787.82,13480.4,No
+Grocery,Mumbai,Male,25,Young Adult,5755.87,,3657.1,5572.42,No
+Grocery,Hyderabad,Female,42,Middle Age,8395.66,12978.91,9014.76,4811.29,No
+Merchandise,Delhi,Male,28,Adult,11571.43,14117.15,13588.62,14906.96,No
+Grocery,Mumbai,Male,18,Young Adult,10997.47,10223.11,10142.31,13041.98,Yes
+Merchandise,Pune,,36,Middle Age,16880.22,5825.32,5090.58,14517.87,No
+Grocery,Pune,Female,54,Senior,11414.0,7615.47,1263.59,,Yes
+Grocery,Bangalore,Male,49,Middle Age,6506.21,9255.34,15103.89,1881.41,No
+Grocery,Kolkata,Male,18,Young Adult,14947.75,17063.64,3231.14,15684.32,No
+Grocery,Jaipur,Male,31,Adult,714.36,6391.25,10620.0,12410.16,No
+Merchandise,Kolkata,Female,-1,Teen,9914.67,17274.75,16463.4,5083.35,No
+Grocery,Kolkata,Male,56,Senior,10595.76,13452.02,15132.22,,No
+Merchandise,,Female,24,Young Adult,2840.45,17348.46,17307.6,5143.24,Yes
+Merchandise,Lucknow,Male,22,Young Adult,17114.13,17241.12,10698.65,5672.09,Yes
+Grocery,Pune,Male,52,Senior,15642.09,19421.57,3020.0,12837.72,No
+Merchandise,Hyderabad,Male,36,Middle Age,5046.27,10339.85,15129.28,2161.8,Yes
+Merchandise,Chennai,Male,37,Middle Age,1701.2,22342.92,9081.73,14554.94,No
+Grocery,Bangalore,Female,31,Adult,15741.77,15639.86,9437.76,4855.01,Yes
+Grocery,Kolkata,Female,50,Middle Age,16213.9,7458.34,20935.27,13517.39,No
+Merchandise,Delhi,Male,58,Senior,13130.51,10976.38,14765.4,4799.97,No
+Grocery,Kolkata,Male,42,Middle Age,9360.41,13133.96,17664.69,7762.55,No
+Merchandise,Kolkata,Female,44,Middle Age,7976.8,23658.52,15878.98,10762.14,No
+Merchandise,Indore,Male,29,Adult,,5836.47,1994.41,7063.15,Yes
+Grocery,Indore,Male,54,Senior,3679.64,14730.14,5652.54,14814.45,No
+Grocery,Mumbai,Female,29,Adult,16069.59,,10543.87,2887.86,No
+Grocery,Mumbai,Female,17,Teen,4668.93,11410.92,6266.88,5539.46,Yes
+Merchandise,Pune,Male,47,Middle Age,11470.66,14604.67,17202.15,12778.75,Yes
+Merchandise,Hyderabad,Female,59,Senior,2012.06,24428.14,,14441.65,Yes
+Merchandise,Mumbai,Male,25,Young Adult,,22026.12,12882.09,13265.19,No
+Grocery,Chennai,Female,22,Young Adult,6682.09,11699.5,8048.98,5727.17,No
+Merchandise,Jaipur,Male,17,Teen,19326.86,22975.07,5571.51,8661.66,No
+Merchandise,Lucknow,Female,54,Senior,13501.0,3217.44,14413.95,13612.66,No
+Merchandise,Pune,Female,41,Middle Age,10268.17,6189.64,7352.03,14166.46,Yes
+Grocery,Lucknow,Female,38,Middle Age,-7006.89,21458.53,19775.32,9241.23,No
+Merchandise,Mumbai,Female,45,Middle Age,15627.41,,2594.74,10573.22,No
+Merchandise,Kolkata,Male,17,Teen,8210.97,5458.1,9643.4,8252.06,Yes
+Grocery,Chennai,Female,58,Senior,17245.88,13395.29,14867.52,14070.55,No
+Merchandise,Lucknow,Female,54,Senior,,15485.59,3010.95,4648.44,No
+Grocery,,Female,27,Adult,6310.61,13585.86,-11696.42,2400.26,No
+Merchandise,Delhi,Male,51,Senior,13308.7,24309.07,10199.73,6238.81,Yes
+Merchandise,Chennai,Female,150,Senior,6864.07,3639.94,9429.95,8872.47,No
+Grocery,Indore,Male,60,Senior,8745.7,14641.69,3926.21,14183.55,No
+Grocery,Indore,Male,59,Senior,13441.93,4872.73,12751.15,1239.41,Yes
+Merchandise,Jaipur,Female,150,Senior,11686.5,7878.77,10385.71,6375.49,Yes
+Grocery,Pune,,43,Middle Age,17338.49,8738.77,15995.79,16133.84,No
+Merchandise,Lucknow,Male,20,Young Adult,18325.5,2981.32,20695.62,4326.14,Yes
+Grocery,Jaipur,,25,Young Adult,9996.59,10925.42,9726.29,5945.93,Yes
+Grocery,Bangalore,Female,34,Adult,6396.72,,18816.3,17595.28,Yes
+Merchandise,Kolkata,Female,56,Senior,14669.9,8478.03,,13406.93,No
+Merchandise,Indore,Male,18,Young Adult,11407.65,16501.53,15784.3,4219.91,No
+Grocery,Mumbai,Male,45,Middle Age,7946.61,19170.14,10761.16,12511.42,No
+Grocery,Hyderabad,Male,59,Senior,8789.89,14133.93,13097.85,4234.89,Yes
+Grocery,,Female,53,Senior,5802.33,5163.15,18287.93,14240.84,Yes
+Grocery,Pune,Female,52,Senior,6831.86,15517.72,2177.26,17612.79,Yes
+Grocery,Lucknow,Male,54,Senior,12355.77,14705.56,1624.82,,Yes
+Merchandise,Mumbai,Female,43,Middle Age,-10294.23,20115.68,4922.89,10489.15,No
+Grocery,Bangalore,Male,31,Adult,13754.73,15340.56,16349.77,17282.92,Yes
+Grocery,Hyderabad,Female,45,Middle Age,8500.78,8158.45,2511.18,2957.89,Yes
+Grocery,Hyderabad,Female,38,Middle Age,16204.53,9348.1,7951.01,12988.62,No
+Merchandise,Kolkata,Male,52,Senior,5031.28,7298.32,17536.78,10016.47,No
+Grocery,Jaipur,Female,-1,Teen,17304.4,15454.66,9155.64,,Yes
+Grocery,Mumbai,Male,53,Senior,17737.83,4337.45,9006.38,3661.82,Yes
+Merchandise,Lucknow,Male,52,Senior,7411.8,5829.1,12176.18,3622.7,No
+Merchandise,Bangalore,Female,-1,Teen,5562.01,6800.66,17520.58,2756.24,Yes
+Grocery,Hyderabad,Male,40,Middle Age,1189.59,9558.43,17747.53,2102.89,Yes
+Merchandise,Mumbai,Male,43,Middle Age,8355.66,4757.54,16911.11,16821.65,Yes
+Merchandise,Bangalore,Female,37,Middle Age,14567.93,21307.99,16051.95,7987.78,Yes
+Grocery,Indore,Female,31,Adult,5816.12,21282.33,12558.51,16323.13,No
+Merchandise,Kolkata,Male,46,Middle Age,18102.16,17953.29,-19865.13,17194.24,Yes
+Grocery,Jaipur,Male,150,Senior,16667.82,10624.34,8239.04,12538.16,No
+Grocery,Chennai,Male,-1,Teen,10520.48,4676.86,-19280.41,1654.46,No
+Merchandise,Jaipur,Female,38,Middle Age,809.85,15974.55,12820.41,16503.37,Yes
+Merchandise,Jaipur,Female,32,Adult,,4049.99,9859.96,,Yes
+Merchandise,Chennai,Male,27,Adult,4776.98,8655.21,3859.84,652.24,Yes
+Merchandise,Bangalore,Male,19,Young Adult,16060.6,4870.46,1674.33,12144.27,No
+Merchandise,Mumbai,,29,Adult,1861.28,,5531.31,8968.53,No
+Grocery,Bangalore,Female,41,Middle Age,6875.04,14443.6,1068.91,14320.94,No
+Grocery,Pune,Male,23,Young Adult,13482.27,12775.02,4513.99,2500.04,Yes
+Grocery,Lucknow,Female,43,Middle Age,8527.55,9729.05,6512.06,8008.35,No
+Merchandise,Pune,Female,64,Senior,9921.4,19180.71,2817.43,10530.23,Yes
+Merchandise,Kolkata,Male,56,Senior,-4869.41,,11130.86,5286.66,Yes
+Grocery,Pune,Female,46,Middle Age,4849.37,20566.25,9306.06,2944.69,Yes
+Merchandise,Indore,Female,20,Young Adult,4079.85,16756.14,8340.86,5099.01,No
+Merchandise,Indore,Male,48,Middle Age,17222.59,12070.11,19066.09,10036.18,No
+Grocery,Kolkata,Male,32,Adult,6140.7,1103.49,13561.62,8820.08,Yes
+Merchandise,Jaipur,Male,47,Middle Age,12474.68,1393.47,18259.16,16071.96,No
+Merchandise,Mumbai,Male,61,Senior,9164.17,1526.14,-11333.24,9559.13,Yes
+Grocery,Lucknow,Female,48,Middle Age,3468.11,15810.76,,675.07,No
+Grocery,Delhi,Female,59,Senior,2006.25,8539.76,3368.85,16618.22,No
+Grocery,Jaipur,Male,26,Adult,14079.08,19902.4,7273.1,2221.95,No
+Merchandise,Kolkata,Female,150,Senior,2486.8,7749.79,17588.18,8471.34,Yes
+Merchandise,Kolkata,Male,24,Young Adult,4425.79,1875.93,18519.41,17983.63,No
+Grocery,Bangalore,Female,59,Senior,2772.49,23352.45,1578.04,,Yes
+,Pune,Male,48,Middle Age,13376.16,5224.72,13882.79,8070.57,Yes
+Merchandise,Delhi,Male,31,Adult,9834.95,13158.8,13955.66,932.31,Yes
+Merchandise,Pune,Female,41,Middle Age,12517.69,,-6455.69,9914.07,No
+Merchandise,Bangalore,Male,-1,Teen,9188.56,18354.17,3566.67,14734.68,Yes
+Merchandise,Jaipur,Female,25,,4200.69,11825.05,4367.3,4148.55,Yes
+Grocery,Kolkata,Female,29,Adult,8925.3,17343.41,4152.15,15570.34,Yes
+Grocery,Pune,Male,19,Young Adult,15267.72,11280.24,16246.58,6937.68,Yes
+Merchandise,Delhi,Female,52,Senior,12699.95,14740.2,12015.79,5230.61,No
+Grocery,Indore,Male,63,Senior,6520.77,9871.26,5517.8,16756.64,Yes
+Merchandise,Delhi,Male,25,Young Adult,5439.19,16925.09,9639.63,7167.22,Yes
+Grocery,Delhi,Male,53,Senior,11123.17,23807.08,19049.81,10395.58,No
+Grocery,Kolkata,Female,49,Middle Age,17181.75,10276.71,3799.29,-9108.28,No
+Grocery,Pune,Female,150,Senior,12947.38,11437.06,20207.57,8635.6,Yes
+Grocery,Bangalore,Male,44,Middle Age,3707.07,9779.39,,1931.63,Yes
+Grocery,Delhi,Male,43,Middle Age,714.8,8233.6,2163.42,12799.23,No
+Grocery,Indore,Male,19,Young Adult,5039.87,8324.35,21506.94,16420.0,No
+Merchandise,Delhi,Female,59,Senior,15611.34,3728.91,9355.15,8798.88,No
+Merchandise,Chennai,Male,22,Young Adult,11224.48,2770.12,21215.29,16825.82,Yes
+Merchandise,Hyderabad,Female,58,Senior,13941.98,4391.24,-2489.99,1509.03,Yes
+Merchandise,Delhi,Male,23,Young Adult,19993.44,9009.3,1557.73,15056.89,Yes
+Merchandise,Chennai,Male,53,Senior,5820.23,6288.41,3728.71,14208.73,No
+Grocery,Lucknow,Female,63,Senior,17046.27,22822.04,18976.59,5532.81,No
+Merchandise,Chennai,Male,150,Senior,15305.94,13560.54,17663.64,-15080.2,No
+Grocery,Chennai,Female,19,Young Adult,1050.75,13813.13,4970.92,12551.32,No
+Grocery,Jaipur,Male,15,Teen,-12668.53,18581.2,13185.43,12207.69,No
+Merchandise,,Male,59,Senior,7232.5,20494.1,11358.49,14617.92,No
+Grocery,Hyderabad,Male,60,Senior,4030.79,10762.58,13049.59,2997.72,No
+Merchandise,Kolkata,Male,61,Senior,18718.37,12621.45,3098.72,5028.67,Yes
+Grocery,,Male,60,Senior,2127.39,6750.91,12705.0,12506.46,No
+Grocery,Pune,Female,30,Adult,11005.77,9498.64,14211.22,16085.97,No
+Merchandise,Jaipur,Female,150,Senior,6194.27,16536.12,15030.76,17112.75,Yes
+Grocery,Indore,Male,54,Senior,6712.73,4687.13,13156.45,,Yes
+Merchandise,Kolkata,Female,55,Senior,19779.93,2343.16,,9811.84,No
+Merchandise,Lucknow,Female,55,Senior,4712.22,4411.44,21577.82,17070.48,No
+Grocery,Jaipur,Female,40,Middle Age,5989.58,13466.8,6288.62,-13649.65,No
+Merchandise,Pune,Female,48,Middle Age,14721.45,19752.08,12539.13,1205.53,Yes
+Grocery,Pune,Male,54,Senior,18605.58,7385.96,6793.57,-10641.62,Yes
+Merchandise,Hyderabad,Male,33,Adult,5282.27,6688.65,,9240.63,No
+Merchandise,Mumbai,Male,61,Senior,18896.79,1787.41,8610.26,7452.1,No
+Merchandise,Hyderabad,Female,18,Young Adult,6472.74,4718.3,18113.73,5784.93,No
+Grocery,Kolkata,Female,51,Senior,17196.89,17546.53,16569.11,9550.76,Yes
+Merchandise,Pune,Male,30,Adult,8702.89,,957.12,6943.33,Yes
+Merchandise,Indore,Male,22,Young Adult,12177.05,20342.29,20554.07,17986.64,No
+Grocery,Kolkata,Male,49,Middle Age,2177.22,14558.15,785.3,16589.38,No
+Merchandise,Pune,Male,60,Senior,9135.85,4265.91,10642.89,14306.07,Yes
+Merchandise,Mumbai,Female,150,Senior,7892.31,7901.31,-2800.75,,Yes
+Merchandise,Mumbai,Male,16,Teen,6863.05,14813.58,17560.56,1480.87,No
+Merchandise,Jaipur,Female,24,Young Adult,,,803.48,7907.66,Yes
+Grocery,Chennai,Male,45,Middle Age,14684.31,23482.4,15337.79,13100.92,No
+Merchandise,Delhi,Female,31,,14985.95,24737.89,12669.4,17483.48,No
+Grocery,Delhi,Female,41,Middle Age,18663.42,12063.96,3160.98,9081.22,Yes
+Grocery,Lucknow,Male,38,Middle Age,4690.81,12187.79,13857.28,2880.02,No
+Grocery,Kolkata,Female,28,Adult,5913.1,16508.8,1018.97,3022.24,No
+Merchandise,Lucknow,Female,23,Young Adult,5737.44,21967.6,12429.98,,No
+Merchandise,Kolkata,Female,62,Senior,10210.36,1220.68,15569.37,4736.21,No
+Merchandise,Hyderabad,Male,32,Adult,19821.63,7413.48,11350.97,4952.3,No
+Grocery,Bangalore,Female,27,Adult,,7702.21,10973.63,9077.69,No
+Merchandise,Kolkata,Female,59,Senior,11278.64,15887.04,-8196.12,13612.17,Yes
+Grocery,Mumbai,Female,45,Middle Age,2511.21,1819.12,1901.3,1086.31,No
+Merchandise,Kolkata,Female,49,Middle Age,2172.42,16630.76,4499.78,1362.27,No
+Merchandise,Chennai,Female,58,Senior,9680.27,21490.87,8429.11,8115.33,Yes
+Merchandise,Bangalore,Male,56,Senior,5716.88,2553.93,10286.81,10079.96,Yes
+Merchandise,Pune,Female,25,Young Adult,8699.05,9845.02,17552.34,3070.84,No
+Merchandise,Jaipur,Female,18,Young Adult,16288.36,21240.98,13509.59,5251.54,No
+Merchandise,Bangalore,Female,64,Senior,12428.57,,-5299.63,16721.0,Yes
+Merchandise,Hyderabad,Male,52,Senior,17848.91,23814.09,9440.6,17730.58,No
+Merchandise,Chennai,Female,29,Adult,11224.67,16162.66,15558.48,11689.32,No
+Merchandise,Bangalore,Male,60,Senior,10858.76,,-6561.22,,No
+Merchandise,Delhi,Female,20,Young Adult,17128.37,17673.19,17348.72,15682.01,No
+Grocery,Lucknow,Male,42,Middle Age,17631.28,18705.54,20377.93,-9274.33,No
+Merchandise,Delhi,Male,53,Senior,18107.78,17087.83,9759.36,5059.67,Yes
+Grocery,Mumbai,Male,57,Senior,1807.35,15741.45,9547.67,16264.64,Yes
+Merchandise,Delhi,Female,56,Senior,5055.13,23813.46,19979.44,9539.84,No
+Grocery,Lucknow,Male,44,Middle Age,9036.53,6709.68,10853.93,966.08,No
+Grocery,Hyderabad,Male,28,Adult,-14937.73,15484.87,4015.76,6910.52,No
+Grocery,Lucknow,Male,63,Senior,11153.25,7492.72,21366.54,13632.18,No
+Grocery,Hyderabad,Female,28,,7713.55,23366.13,6866.89,7187.37,No
+Grocery,Chennai,Male,37,,,705.99,12525.24,6679.54,Yes
+Merchandise,Lucknow,Female,62,Senior,1047.1,20706.41,11377.0,8910.95,No
+Merchandise,Hyderabad,Female,61,Senior,,10270.08,2863.94,7833.57,No
+Merchandise,Jaipur,Male,34,Adult,7683.86,6134.89,6450.49,11339.0,Yes
+Merchandise,Delhi,Female,49,Middle Age,577.95,,7961.97,11645.92,Yes
+Grocery,Kolkata,Male,53,Senior,13618.84,1845.9,9742.96,8994.51,Yes
+Grocery,Indore,Male,22,Young Adult,14484.93,19897.03,5711.36,16344.71,Yes
+Grocery,Jaipur,Female,53,Senior,19143.81,9684.58,556.69,6408.36,No
+Grocery,Chennai,Female,35,Adult,1820.98,13644.99,6958.07,15445.61,Yes
+Merchandise,Chennai,Male,16,Teen,8953.37,9864.36,-17978.64,1677.44,Yes
+Merchandise,Delhi,Female,42,Middle Age,8189.69,13346.76,4175.45,569.52,Yes
+Merchandise,Mumbai,Male,17,Teen,10244.84,,5741.74,14428.15,Yes
+Grocery,Kolkata,Female,18,Young Adult,16877.79,12714.2,1088.42,17922.57,No
+Grocery,Kolkata,Male,17,Teen,18011.67,-1453.12,4782.61,12026.9,No
+Merchandise,Delhi,Female,60,Senior,10671.29,16293.77,11723.56,6606.5,No
+Grocery,Pune,Female,21,Young Adult,3887.35,22265.17,15493.55,7116.88,No
+Grocery,,Male,50,Middle Age,19811.44,2424.39,19056.73,4146.36,No
+Grocery,Lucknow,Female,61,Senior,4734.09,1967.58,4831.01,13993.52,No
+Grocery,Pune,Female,29,Adult,18011.55,20865.2,7320.67,6244.45,Yes
+Grocery,Mumbai,Female,41,Middle Age,,23090.11,20971.71,14476.71,Yes
+Merchandise,Delhi,Female,51,Senior,15102.25,19215.68,11435.4,10227.66,Yes
+Merchandise,Kolkata,Male,40,Middle Age,8890.1,14239.55,-4794.22,2521.72,Yes
+Grocery,Hyderabad,Female,57,Senior,6474.5,21489.48,1947.18,13748.13,No
+Grocery,Delhi,,20,Young Adult,13334.26,7173.8,14575.41,1506.08,Yes
+Grocery,Pune,Male,51,,14439.47,8247.71,4063.37,10537.3,Yes
+Grocery,Bangalore,Male,30,Adult,2049.71,,9292.21,16320.9,Yes
+Merchandise,Indore,Female,58,Senior,12900.27,12422.15,5072.69,3283.3,No
+Grocery,Bangalore,Male,39,Middle Age,7009.13,2971.23,8488.68,8496.1,Yes
+Grocery,Bangalore,Male,38,Middle Age,16416.62,10914.01,20841.24,7214.31,No
+Merchandise,Delhi,Male,40,Middle Age,11067.84,18677.36,18192.27,11285.74,Yes
+Merchandise,Chennai,Male,16,Teen,19561.9,8655.78,8202.08,15403.09,No
+Merchandise,Delhi,Male,46,Middle Age,15425.23,22209.7,20248.68,2757.87,Yes
+Merchandise,Mumbai,Male,35,Adult,19272.8,15981.05,21554.57,8578.17,Yes
+Grocery,Jaipur,Male,28,Adult,-12528.19,9937.99,20311.89,9262.22,Yes
+Merchandise,Chennai,Male,17,Teen,8673.95,18122.64,11053.03,10774.63,Yes
+Merchandise,Indore,Female,53,Senior,6906.67,18550.54,4588.78,5303.59,No
+Grocery,Jaipur,Male,15,Teen,2762.02,11002.18,12796.83,,Yes
+Merchandise,Mumbai,Female,39,Middle Age,16977.62,616.14,15556.36,9635.94,No
+Merchandise,Jaipur,Male,35,Adult,7681.24,14726.4,8365.58,14527.31,Yes
+Merchandise,Mumbai,Male,23,Young Adult,19858.8,4066.03,5752.01,9989.46,No
+Grocery,Mumbai,Male,28,Adult,,6154.04,19248.95,6176.32,No
+Grocery,Chennai,Male,41,Middle Age,-8518.74,18419.19,12513.61,17670.28,Yes
+Grocery,Kolkata,Male,49,Middle Age,7659.16,4205.87,10095.72,6269.74,Yes
+Grocery,Kolkata,Male,45,Middle Age,650.21,17812.77,7406.33,10426.61,Yes
+Merchandise,Chennai,Female,28,Adult,8114.21,23236.73,5229.65,,Yes
+Grocery,Hyderabad,Female,60,Senior,14875.62,19284.79,4672.25,17418.29,No
+Merchandise,Chennai,Female,41,Middle Age,13927.75,20110.84,5213.31,2729.52,Yes
+,Jaipur,Female,37,Middle Age,9696.61,5684.88,6752.64,14489.74,Yes
+Grocery,Indore,Female,53,Senior,4998.21,22105.36,5797.04,-16917.89,No
+Grocery,Pune,Female,51,Senior,14909.17,4689.68,15527.99,12410.05,Yes
+Grocery,Indore,Male,46,Middle Age,11463.45,6601.52,910.96,4534.18,No
+,Hyderabad,Female,-1,Teen,18445.89,20368.64,5640.19,,Yes
+Merchandise,Chennai,Female,44,Middle Age,13434.7,4626.73,4001.99,13239.03,Yes
+Merchandise,Mumbai,Male,18,Young Adult,8869.04,18649.55,11918.2,11247.79,Yes
+Grocery,Bangalore,Female,41,Middle Age,13808.7,11642.5,4030.13,14094.44,No
+Grocery,Bangalore,Male,34,Adult,6404.93,12792.33,20262.16,6338.88,No
+Merchandise,Jaipur,Female,41,Middle Age,5414.44,,15584.8,17258.58,No
+Merchandise,Chennai,Male,52,Senior,11928.44,17400.3,9282.31,8846.78,Yes
+Grocery,Chennai,Female,51,Senior,11467.94,16851.82,11017.94,12187.36,Yes
+Merchandise,Pune,Male,31,Adult,3248.04,23542.3,10190.99,15419.49,No
+Merchandise,Jaipur,Male,20,Young Adult,6830.14,24864.47,9284.49,7665.82,Yes
+Grocery,Kolkata,Male,17,Teen,16734.81,1743.74,7010.72,12849.08,No
+,Lucknow,Male,41,Middle Age,10076.78,,6341.12,8216.02,No
+Merchandise,Delhi,Male,36,Middle Age,8127.1,5157.15,4340.66,11540.21,Yes
+Grocery,Delhi,Female,46,Middle Age,8329.61,6923.98,13927.94,4890.38,No
+Merchandise,Jaipur,Female,59,Senior,4067.74,22222.19,1827.35,14813.76,Yes
+Grocery,Kolkata,Male,58,Senior,16688.04,1759.82,1964.27,8151.08,Yes
+Grocery,Chennai,Female,39,Middle Age,15352.9,23927.68,-18467.78,17809.98,Yes
+Grocery,Jaipur,Female,50,Middle Age,15891.31,20646.93,12321.92,12355.12,No
+Merchandise,Mumbai,Male,28,Adult,13923.89,22357.54,9687.48,4000.73,No
+Merchandise,Pune,Male,61,Senior,-11253.8,8541.17,12569.99,9464.37,No
+Merchandise,Bangalore,Female,64,Senior,10191.76,19577.28,13238.19,16200.25,No
+Grocery,Chennai,Male,29,Adult,19141.0,6905.24,1833.73,7989.77,No
+Merchandise,Delhi,Male,27,Adult,15623.79,8746.05,,2016.77,No
+Merchandise,Bangalore,Female,27,Adult,8810.76,,10136.6,,Yes
+,Pune,Female,33,Adult,9537.13,,19458.8,5780.78,Yes
+Merchandise,Delhi,Female,15,Teen,,,17354.73,7032.48,Yes
+Merchandise,Lucknow,Male,42,Middle Age,6942.27,11373.58,4606.31,15050.17,Yes
+Grocery,Hyderabad,Female,60,Senior,10038.43,22800.94,2131.45,2792.01,No
+Grocery,Mumbai,Female,-1,Teen,15489.85,,5300.56,7656.94,No
+Merchandise,Jaipur,Female,41,Middle Age,5865.26,18913.79,576.1,1185.17,No
+Merchandise,Kolkata,Female,62,Senior,13276.48,-14505.25,20103.42,15214.87,Yes
+Grocery,Lucknow,Male,34,Adult,10313.78,11951.2,8959.93,6980.92,Yes
+Grocery,Delhi,Female,17,Teen,15034.96,18711.38,10699.09,12168.58,No
+Merchandise,Lucknow,Female,60,Senior,10218.51,-17793.43,2576.94,13796.85,No
+Grocery,Delhi,Male,39,Middle Age,5389.3,4126.56,3738.04,6755.94,Yes
+Grocery,Hyderabad,Male,42,Middle Age,2774.25,2791.21,19786.8,6560.4,No
+Merchandise,Chennai,Female,-1,Teen,12525.03,18457.75,13079.25,6621.67,No
+Grocery,Jaipur,Female,25,Young Adult,19101.18,22496.14,5421.43,-9190.02,No
+Grocery,Jaipur,Female,19,Young Adult,9456.21,,3212.14,12618.23,Yes
+Grocery,Bangalore,Male,51,Senior,16591.28,9479.92,11238.04,14683.41,No
+Merchandise,Bangalore,Female,20,Young Adult,,21197.56,6942.71,2785.66,Yes
+Grocery,Indore,,35,Adult,11709.88,16611.23,12573.49,11704.0,No
+Merchandise,Mumbai,Male,23,Young Adult,15053.27,-7575.07,4876.12,13926.72,Yes
+Merchandise,Mumbai,Female,36,Middle Age,,14279.39,16406.25,8324.31,No
+Grocery,Delhi,Female,59,Senior,,,6618.69,15087.95,Yes
+Merchandise,Mumbai,Female,20,Young Adult,12808.5,18794.8,19165.53,2250.77,No
+Grocery,Pune,Female,58,Senior,11030.04,13997.88,16138.29,8478.68,Yes
+Grocery,Delhi,Female,44,Middle Age,5207.4,21378.74,5919.89,12905.55,Yes
+Grocery,Lucknow,Male,33,Adult,17898.82,12167.5,21868.77,5407.06,No
+Merchandise,Delhi,Female,37,Middle Age,11408.32,16858.67,12846.24,1842.81,No
+Grocery,Chennai,Female,51,Senior,,11608.09,-14325.98,3304.11,No
+Merchandise,Indore,Male,15,Teen,17991.88,1493.06,1529.42,6905.76,Yes
+Grocery,Indore,Male,64,Senior,16006.71,12991.93,20989.91,631.99,No
+Grocery,Delhi,Female,61,Senior,-16783.85,,11190.95,7837.17,No
+Merchandise,Mumbai,Female,62,Senior,17310.6,6145.47,12015.85,4903.71,Yes
+Grocery,Chennai,Male,16,Teen,10137.36,18140.86,989.12,11412.25,Yes
+Merchandise,Jaipur,Male,37,Middle Age,14652.36,-5973.43,4325.61,5906.13,Yes
+Grocery,Chennai,Female,57,Senior,13937.78,20099.44,17184.81,3569.84,No
+Merchandise,Chennai,Female,26,Adult,16661.32,2063.99,11383.57,12938.01,Yes
+Merchandise,Indore,Female,35,Adult,7409.78,7611.68,6810.84,3623.24,Yes
+Grocery,Jaipur,Female,28,Adult,17854.21,15917.1,6256.91,9284.12,No
+Grocery,Lucknow,Female,-1,Teen,19989.38,6711.03,11139.22,2635.41,Yes
+,Kolkata,Female,61,Senior,14495.66,24443.95,11686.81,2003.36,No
+Merchandise,Hyderabad,Female,21,Young Adult,15034.72,18151.64,11161.0,9091.42,Yes
+Grocery,Chennai,Female,50,Middle Age,,6162.99,17216.7,7835.46,No
+Grocery,Delhi,Male,54,Senior,607.62,20644.88,7918.6,1473.64,No
+Merchandise,Lucknow,Male,27,Adult,17101.55,19029.72,14818.66,13780.17,No
+Grocery,Kolkata,Female,37,Middle Age,16477.81,17691.28,12804.51,5811.91,No
+Grocery,Bangalore,Female,55,Senior,16127.6,16623.7,10918.45,8657.77,Yes
+Merchandise,Bangalore,Female,150,Senior,1883.55,818.99,8363.67,5679.67,No
+Grocery,Lucknow,Male,15,Teen,7943.98,16172.79,18398.15,12860.87,No
+Merchandise,Chennai,Male,34,Adult,3905.57,12425.57,20745.48,2301.61,No
+Grocery,Hyderabad,Female,52,Senior,13846.49,3644.85,2789.2,17599.65,No
+Merchandise,Chennai,Male,32,Adult,2471.69,11591.3,16180.38,3089.0,Yes
+Merchandise,Hyderabad,Female,30,Adult,10770.44,,17446.65,15349.32,No
+Merchandise,Bangalore,Male,33,,2622.12,21408.72,7055.13,12430.11,Yes
+Grocery,Delhi,Female,15,Teen,4640.77,14636.63,6390.31,7551.68,No
+Merchandise,Hyderabad,Female,24,Young Adult,12144.27,24928.67,7913.04,4528.97,Yes
+Merchandise,Indore,Male,58,Senior,2210.4,1983.22,813.82,5423.9,No
+Merchandise,Mumbai,Female,32,Adult,12614.68,12727.94,21336.36,15187.34,No
+Grocery,Lucknow,Female,23,Young Adult,5698.61,21316.64,19736.78,8843.11,Yes
+Merchandise,Hyderabad,Male,55,Senior,13523.44,11682.83,5893.5,8038.95,Yes
+Grocery,Jaipur,Female,28,Adult,3629.49,21158.93,10371.03,6596.98,No
+Merchandise,Mumbai,Male,38,Middle Age,2873.13,12203.45,14137.63,1331.63,No
+Grocery,Bangalore,Female,43,Middle Age,5770.86,20229.26,1250.02,9998.48,No
+Merchandise,Hyderabad,Female,26,Adult,12220.9,19399.39,21321.87,3859.87,Yes
+Merchandise,Mumbai,Male,50,Middle Age,5647.13,,18326.97,-13668.96,No
+Merchandise,Delhi,Male,-1,Teen,15463.06,7776.94,12568.81,4453.68,Yes
+Grocery,Hyderabad,Male,54,Senior,4705.99,10019.74,5982.05,11266.67,Yes
+Grocery,Jaipur,Male,21,Young Adult,18106.03,6818.98,19486.8,5511.81,No
+Merchandise,Lucknow,Female,-1,Teen,15767.63,24821.28,19471.06,826.71,No
+Grocery,Indore,Female,37,Middle Age,8664.29,11678.18,16023.21,12417.74,No
+Merchandise,Kolkata,Female,41,Middle Age,4676.69,19507.52,7228.16,16452.69,No
+Grocery,,Female,16,Teen,2422.74,17791.4,9109.0,10116.83,No
+Merchandise,Pune,Female,37,Middle Age,905.77,,,13562.27,No
+Grocery,Indore,Female,60,Senior,1348.43,20604.88,3908.85,4376.69,Yes
+Merchandise,Kolkata,Female,29,Adult,3009.67,21683.9,9034.91,5024.6,No
+Grocery,Bangalore,Female,30,Adult,19169.23,14792.48,-3282.4,,Yes
+Grocery,Pune,Female,17,Teen,14884.83,2458.18,1192.15,10966.43,Yes
+,Bangalore,Female,32,Adult,5341.69,,18711.8,13889.47,No
+Grocery,Delhi,Male,20,Young Adult,4513.54,22072.73,20956.87,8094.06,Yes
+Merchandise,Delhi,Female,50,Middle Age,-11282.61,8240.12,20176.71,12611.51,No
+Grocery,Kolkata,Female,33,Adult,2271.91,21355.82,7791.86,1873.5,No
+Grocery,Mumbai,Female,24,Young Adult,3183.69,16239.73,16979.84,17455.67,Yes
+Grocery,Mumbai,Female,30,Adult,9592.4,22635.23,12476.68,6894.71,No
+Merchandise,Bangalore,Female,45,Middle Age,13847.98,5680.51,590.22,2118.09,No
+Grocery,Lucknow,Female,30,Adult,1383.82,13669.86,9284.14,12228.8,No
+Grocery,Bangalore,Female,59,Senior,10657.92,23161.64,18674.17,7306.73,Yes
+Grocery,Bangalore,Female,16,Teen,19760.25,16446.87,16475.77,-4504.5,Yes
+Grocery,Jaipur,Female,38,Middle Age,8017.66,16006.74,,7701.22,No
+Grocery,Delhi,Male,57,Senior,,4644.42,10973.71,13976.28,No
+Merchandise,Lucknow,Male,31,Adult,3558.68,11239.22,13642.34,11028.41,No
+Merchandise,Indore,Female,28,Adult,7048.98,,10141.43,13659.77,No
+Merchandise,Chennai,Male,63,Senior,13848.02,4698.64,10180.65,17352.29,No
+Merchandise,Jaipur,Female,30,Adult,5585.41,18629.8,12645.5,15706.12,No
+Merchandise,,Male,45,Middle Age,19664.5,1150.86,11054.06,9300.4,No
+Grocery,Hyderabad,Male,56,Senior,15668.16,24609.74,7047.18,714.66,Yes
+Grocery,Chennai,Female,45,Middle Age,2100.76,15681.08,19934.99,6802.12,No
+Merchandise,Bangalore,Female,17,Teen,9508.74,21005.63,15993.37,9849.44,Yes
+Merchandise,Kolkata,Male,58,Senior,9570.79,21117.9,15649.67,17390.6,No
+Grocery,Mumbai,Male,64,Senior,16567.67,7285.59,5540.41,17047.65,Yes
+Grocery,Indore,Female,33,Adult,10039.38,13782.87,12630.6,2427.13,Yes
+Grocery,Indore,Male,47,Middle Age,14735.19,3666.04,16992.42,12428.37,No
+Grocery,Pune,Male,53,Senior,,10098.0,8527.86,10907.58,No
+Merchandise,Delhi,Male,18,Young Adult,10913.0,20377.49,,16861.89,Yes
+Merchandise,Jaipur,Male,18,Young Adult,11854.26,9869.32,9156.9,9619.06,Yes
+Merchandise,Pune,Male,25,Young Adult,3284.27,18338.73,,11968.06,No
+Grocery,Mumbai,Male,40,Middle Age,11355.54,9833.01,11885.37,7461.21,Yes
+Merchandise,Kolkata,Female,60,Senior,17206.17,22437.11,13605.06,2200.19,Yes
+Merchandise,Indore,Female,37,Middle Age,4170.25,-16759.21,6718.22,13407.1,No
+Merchandise,Kolkata,Male,45,Middle Age,5170.65,19829.15,21245.36,7382.88,Yes
+Grocery,Delhi,Male,31,Adult,10027.32,18831.56,13795.27,17278.41,No
+Grocery,Kolkata,Male,38,Middle Age,6736.09,14590.32,2520.36,3884.0,Yes
+Merchandise,Pune,Female,62,Senior,3886.32,8649.46,13763.88,12600.04,Yes
+Merchandise,Delhi,Male,23,Young Adult,8523.3,16456.67,4339.71,2124.89,No
+Grocery,Mumbai,Female,32,Adult,1887.47,15419.04,11320.49,10739.14,No
+Merchandise,,Female,15,Teen,-14836.75,12797.2,21659.7,,No
+Grocery,Lucknow,Female,26,Adult,10871.62,12474.53,8188.92,557.43,No
+Merchandise,Kolkata,Male,63,Senior,11319.38,21838.02,10856.2,11801.28,Yes
+Merchandise,Indore,Female,63,Senior,7963.26,1859.13,17396.51,5573.08,Yes
+Grocery,Indore,Male,27,Adult,2172.0,11376.2,,1175.32,No
+Grocery,Pune,Female,28,,7810.59,1707.15,1309.27,2843.41,Yes
+Merchandise,Bangalore,Male,53,Senior,,2135.24,17189.41,8038.43,No
+Grocery,Delhi,Female,18,Young Adult,3944.49,18976.93,10921.37,10693.71,No
+Merchandise,Pune,Male,24,Young Adult,2425.61,19954.08,10791.14,9542.68,Yes
+Merchandise,Lucknow,Female,45,Middle Age,9920.15,10613.41,21569.36,10757.8,No
+Grocery,Mumbai,Male,37,Middle Age,9184.2,8045.23,-3697.75,,Yes
+Merchandise,Delhi,Male,21,Young Adult,16267.98,15005.94,8810.33,8484.57,Yes
+Merchandise,Kolkata,Male,41,Middle Age,18061.07,10465.94,7753.88,14446.3,No
+Merchandise,Pune,Male,29,Adult,11155.42,15453.93,,3385.53,Yes
+Merchandise,Lucknow,Female,22,Young Adult,16677.99,3576.73,,2144.43,Yes
+Grocery,Delhi,Male,59,Senior,10448.47,,5421.2,1754.21,No
+Grocery,Pune,Female,49,Middle Age,16400.18,6748.33,11519.84,5994.99,No
+,Chennai,Male,32,Adult,3208.58,15433.95,15145.4,17500.69,No
+Grocery,Mumbai,Female,38,Middle Age,,4952.44,18104.11,17982.78,Yes
+Merchandise,Mumbai,Female,42,Middle Age,19277.1,19456.71,10328.99,9796.59,Yes
+Merchandise,Pune,Female,44,Middle Age,2259.53,14288.03,14388.48,,Yes
+Grocery,Pune,Male,-1,Teen,15944.9,16602.72,9183.39,4214.3,Yes
+Merchandise,Lucknow,Male,37,Middle Age,7144.6,12833.98,10892.04,12678.09,No
+Merchandise,Lucknow,Male,45,Middle Age,17796.9,7216.53,20023.8,1130.9,Yes
+Grocery,Hyderabad,Male,33,Adult,,22435.84,1869.29,10645.63,Yes
+Grocery,Chennai,Male,50,Middle Age,12215.24,19131.77,7818.34,9709.9,No
+Grocery,Pune,Female,21,Young Adult,9452.94,6276.08,21506.7,15008.11,Yes
+Merchandise,Indore,Female,52,Senior,15141.91,15923.51,3061.96,,Yes
+Grocery,Kolkata,Female,41,Middle Age,9910.18,21927.06,16551.45,11906.72,No
+Merchandise,Bangalore,Male,52,Senior,1318.07,,-1033.1,17941.6,Yes
+Merchandise,Mumbai,Female,53,Senior,4514.69,7985.28,8601.06,9904.76,Yes
+Grocery,Indore,Female,-1,Teen,17559.86,3485.41,15753.63,9855.19,Yes
+Merchandise,Mumbai,Male,29,Adult,18439.12,5644.16,20090.98,9975.86,Yes
+Grocery,Bangalore,Female,48,Middle Age,10287.61,4080.74,17264.91,5478.23,No
+Merchandise,Indore,Female,45,Middle Age,797.15,,9027.64,17030.24,Yes
+Merchandise,Pune,Female,31,Adult,1620.78,3402.8,,-12821.76,Yes
+Merchandise,Indore,Female,40,Middle Age,6019.31,2079.53,12391.46,13395.94,No
+Grocery,Chennai,Female,54,Senior,3878.51,11585.29,14442.88,7225.4,Yes
+Grocery,Chennai,Male,36,Middle Age,18099.67,3116.45,18744.5,11327.73,Yes
+Grocery,Lucknow,Female,62,Senior,4922.6,12661.36,,8256.49,Yes
+Merchandise,Chennai,Female,34,Adult,,3911.93,10345.66,17501.11,No
+Merchandise,Delhi,Female,55,Senior,19618.04,1970.82,11064.18,17672.89,No
+Grocery,Hyderabad,Male,57,Senior,1242.24,20267.11,10498.42,11991.13,Yes
+Merchandise,Hyderabad,Male,24,Young Adult,18472.05,19318.67,,7314.94,No
+Merchandise,Kolkata,Female,27,Adult,3718.57,5307.35,9204.73,8000.55,No
+Grocery,Delhi,Female,30,Adult,6219.77,10749.91,,11701.92,No
+Merchandise,Chennai,Female,58,Senior,4948.03,9129.38,18915.89,13064.84,No
+Merchandise,Mumbai,Male,38,Middle Age,4154.12,8549.52,4427.67,2063.12,Yes
+Merchandise,Delhi,Female,40,Middle Age,4201.86,7215.64,5001.01,5333.75,Yes
+Grocery,Delhi,Male,51,Senior,,6818.12,5527.22,1046.87,Yes
+Merchandise,Bangalore,Female,59,Senior,5254.28,11851.3,4224.36,5292.42,Yes
+Grocery,Hyderabad,Male,19,Young Adult,,20123.17,-5908.61,4823.94,No
+Merchandise,Bangalore,Female,51,Senior,1610.8,9226.66,1593.99,11279.24,Yes
+Grocery,Delhi,Male,22,Young Adult,2433.67,4329.55,,867.61,Yes
+Grocery,Chennai,Male,25,Young Adult,16886.38,19348.23,10523.81,,Yes
+Grocery,Chennai,Female,56,Senior,3835.85,3905.4,4546.54,1851.79,No
+Merchandise,Kolkata,Female,42,Middle Age,3880.27,23723.31,5966.53,6315.58,No
+Merchandise,Kolkata,Male,56,Senior,2178.1,14323.53,15163.05,552.93,No
+Grocery,Lucknow,Female,19,Young Adult,13610.18,,5434.85,6897.0,No
+Grocery,Indore,Female,30,Adult,2031.25,23999.39,7505.31,,No
+Merchandise,Hyderabad,Female,24,Young Adult,3575.69,-22532.25,20929.05,2875.55,Yes
+Grocery,Bangalore,Male,49,Middle Age,,14145.52,12951.09,,No
+Grocery,Kolkata,Male,60,Senior,4394.32,14357.89,2573.76,12377.15,No
+Merchandise,Lucknow,Female,20,Young Adult,1125.87,24192.9,14460.25,3655.81,No
+Grocery,Pune,Female,21,Young Adult,3044.74,13157.69,15865.81,6401.98,No
+Merchandise,Jaipur,Female,30,Adult,13124.4,9773.46,8733.01,2192.66,No
+Merchandise,Indore,Female,60,Senior,17678.16,23618.21,9480.38,1878.72,Yes
+Merchandise,Kolkata,Female,63,Senior,16575.6,13681.13,14112.66,13285.41,Yes
+Grocery,Mumbai,Female,46,Middle Age,16701.19,12926.43,18950.19,9009.95,Yes
+Merchandise,Indore,Female,36,Middle Age,8178.17,23841.42,2448.81,13039.52,No
+Merchandise,Bangalore,Male,50,Middle Age,19567.87,4757.61,9776.2,11256.66,Yes
+Grocery,Kolkata,Male,48,Middle Age,5322.02,12664.64,13013.6,15313.66,No
+Grocery,Hyderabad,Female,-1,Teen,19164.6,,2911.54,6708.48,No
+Grocery,Lucknow,Female,17,Teen,16533.04,15237.77,5602.95,8834.58,Yes
+Grocery,Hyderabad,Male,22,Young Adult,6918.38,5805.39,19454.22,1341.9,No
+Merchandise,Jaipur,Male,24,Young Adult,16197.68,4798.55,18123.67,6557.0,No
+Merchandise,Bangalore,Male,15,Teen,11458.13,3432.08,15961.51,-16690.18,No
+Grocery,Delhi,Male,46,Middle Age,7598.18,5379.6,16243.12,-4769.45,No
+Merchandise,Lucknow,Male,28,Adult,-18154.88,7416.67,,15816.51,No
+Grocery,Chennai,Female,54,Senior,8774.03,23796.22,15434.26,17530.23,No
+Merchandise,Delhi,Male,41,Middle Age,-5562.7,1965.21,13922.72,14127.24,No
+Merchandise,Indore,Female,21,Young Adult,9899.42,10480.17,16406.66,12990.89,No
+Merchandise,Pune,Female,60,Senior,12266.89,20369.2,17756.2,11008.39,No
+Merchandise,Lucknow,Female,38,Middle Age,14140.73,905.48,16251.76,5830.82,Yes
+Merchandise,Pune,Female,16,Teen,,11685.62,7467.79,3242.25,No
+Merchandise,Hyderabad,Male,48,Middle Age,,17420.63,,8599.48,No
+Merchandise,,Male,45,Middle Age,8898.22,8995.01,4513.82,4463.11,No
+Grocery,Chennai,Male,51,Senior,11987.29,9842.86,,15420.82,No
+Grocery,Chennai,Female,41,Middle Age,15506.09,16211.02,4011.69,9236.31,No
+Grocery,Bangalore,Male,50,Middle Age,1761.23,10468.66,19690.12,4479.72,Yes
+Grocery,Pune,,53,Senior,2734.64,15235.02,11640.61,11926.81,Yes
+Merchandise,Pune,Male,33,Adult,11197.46,18615.66,506.98,12828.73,No
+Merchandise,Jaipur,Female,52,Senior,2853.89,16777.65,20271.7,1892.99,Yes
+Merchandise,Bangalore,Male,43,Middle Age,7235.37,,19880.28,2129.21,No
+Merchandise,Kolkata,Male,150,Senior,651.28,14611.71,9800.83,12343.82,No
+Merchandise,Indore,Female,43,Middle Age,13691.15,,13003.72,8786.18,No
+Grocery,Hyderabad,Female,54,Senior,5466.99,9554.23,8122.64,17205.76,Yes
+,Chennai,Female,60,Senior,4588.98,14690.24,17285.35,6103.05,Yes
+Merchandise,Pune,Female,31,Adult,15723.49,6675.03,20362.54,5177.15,No
+Grocery,Indore,Male,22,Young Adult,-8560.68,11816.98,6679.59,2006.22,Yes
+Grocery,Pune,Male,35,Adult,15851.91,13449.76,7695.23,11805.68,No
+Merchandise,Hyderabad,Female,61,Senior,8922.08,14531.99,11774.93,2628.48,No
+Grocery,Bangalore,Female,43,Middle Age,4963.69,4478.15,13856.06,11218.48,Yes
+Merchandise,Chennai,Female,59,Senior,3116.08,-19549.84,7816.26,6229.1,No
+Merchandise,Lucknow,Male,33,Adult,14113.55,915.36,15045.42,6951.93,Yes
+Grocery,Kolkata,Female,150,Senior,1171.17,18345.97,14985.21,3797.27,Yes
+Merchandise,Bangalore,Female,29,Adult,5159.19,16208.13,-3805.05,13439.6,Yes
+Grocery,Jaipur,Male,46,Middle Age,16063.72,8127.95,14000.45,13260.27,No
+Merchandise,Jaipur,Female,20,Young Adult,19769.07,24609.98,1924.65,16690.84,Yes
+Merchandise,Hyderabad,Female,41,Middle Age,19578.49,24887.26,6589.01,9759.09,No
+Grocery,Indore,Female,59,Senior,9074.12,12018.85,14143.75,8608.41,No
+Merchandise,Bangalore,Female,20,Young Adult,17125.45,6292.98,14330.03,6589.94,No
+Grocery,Lucknow,Female,40,Middle Age,14684.9,1744.75,4817.34,5519.9,No
+Grocery,Mumbai,Female,33,Adult,10076.02,1509.78,19294.56,5406.04,No
+Grocery,Pune,Female,51,,-10171.25,5593.21,8953.73,16913.51,No
+Grocery,,Male,58,Senior,,21966.74,1958.83,13456.76,Yes
+Grocery,Hyderabad,Male,16,Teen,17520.89,6459.71,17640.09,12825.87,No
+Grocery,Mumbai,Female,39,Middle Age,2311.63,11646.33,21716.53,15305.47,Yes
+Merchandise,Chennai,Female,59,Senior,12865.92,15756.7,3003.76,10180.86,Yes
+Merchandise,Pune,Male,32,Adult,16611.57,-8982.51,16966.02,7683.63,Yes
+Merchandise,Pune,Male,49,Middle Age,628.51,24159.68,3193.21,9184.59,Yes
+Merchandise,Kolkata,Female,19,Young Adult,7840.65,17504.21,14929.76,17629.27,Yes
+Grocery,Delhi,Male,53,Senior,,4672.96,5056.7,946.55,Yes
+Merchandise,Lucknow,Male,30,Adult,10440.87,8784.01,,4372.55,Yes
+Merchandise,Chennai,Female,62,Senior,14800.21,8312.97,8585.1,17215.01,No
+Merchandise,Lucknow,Male,52,Senior,4949.59,3494.68,9480.83,6766.69,No
+Grocery,Mumbai,Male,51,Senior,1895.19,19946.17,2123.12,1305.11,No
+Grocery,Chennai,Female,56,Senior,792.31,19042.7,8403.03,11703.27,Yes
+Merchandise,Indore,Male,56,Senior,19085.49,7288.59,2066.07,10269.0,Yes
+Grocery,Chennai,Male,36,Middle Age,-9918.94,14466.13,5098.54,3651.32,Yes
+Grocery,Mumbai,Female,26,Adult,3673.9,15914.96,10002.77,7458.12,No
+Merchandise,Mumbai,Female,18,Young Adult,15491.47,9598.56,5689.82,4703.34,Yes
+Merchandise,Mumbai,Male,25,Young Adult,18291.86,,5636.44,16953.26,No
+Grocery,Delhi,Male,25,Young Adult,11760.62,1012.47,8393.78,10094.25,Yes
+Grocery,,Male,30,Adult,7880.92,11918.16,13840.37,3629.24,No
+Grocery,Lucknow,Male,20,Young Adult,-8215.14,12613.49,16754.17,-9416.07,No
+Merchandise,Pune,Female,62,Senior,3273.44,4271.33,13379.88,7582.33,Yes
+Merchandise,Bangalore,Male,64,Senior,,18543.97,5879.31,11864.4,No
+Merchandise,Chennai,Female,43,Middle Age,6538.54,9098.61,2923.46,1912.96,Yes
+Grocery,Jaipur,Female,150,Senior,17420.39,,12970.02,15730.97,Yes
+Merchandise,Hyderabad,Female,25,Young Adult,17721.36,4723.43,7901.39,15915.0,No
+Grocery,Delhi,Female,17,Teen,6290.1,20397.5,13139.76,6029.2,Yes
+Grocery,Jaipur,Female,47,Middle Age,,20985.57,11188.68,15576.0,Yes
+Grocery,Lucknow,Female,25,Young Adult,2044.79,7871.5,18473.34,13133.27,Yes
+Grocery,Hyderabad,Male,22,Young Adult,13553.22,12825.44,6348.74,12795.39,No
+Grocery,Lucknow,Female,55,Senior,3666.64,2526.25,21216.14,14493.96,No
+Merchandise,Delhi,Female,55,Senior,5854.76,10776.32,13382.35,9749.45,No
+Merchandise,,Male,45,Middle Age,5217.0,8404.5,16737.4,1436.02,No
+Grocery,Jaipur,Male,150,Senior,15694.61,2275.91,13008.45,788.59,No
+Merchandise,Indore,Male,24,Young Adult,3823.83,14514.54,7008.35,3306.54,No
+Grocery,Jaipur,Male,62,Senior,17434.74,6266.52,8074.07,12044.16,No
+Grocery,Lucknow,Female,44,Middle Age,14946.03,18565.22,19057.34,2616.51,No
+Merchandise,Jaipur,Female,27,Adult,13538.95,10773.65,2851.41,13659.12,Yes
+Merchandise,Jaipur,Female,60,Senior,8263.56,5936.19,4331.82,15765.56,Yes
+Grocery,Delhi,Female,49,Middle Age,14262.18,12245.86,20798.28,1010.92,No
+Merchandise,Kolkata,Female,25,Young Adult,12593.09,12474.34,21510.73,9006.83,No
+Grocery,Chennai,Male,-1,Teen,13391.65,9713.8,14078.1,3647.82,Yes
+Merchandise,Jaipur,Female,32,Adult,6467.16,20924.97,5096.43,7154.17,Yes
+,Delhi,Female,59,Senior,18490.01,2288.24,8502.63,1836.89,Yes
+Merchandise,Kolkata,Male,35,Adult,3987.53,15851.92,13443.88,14086.95,Yes
+Grocery,Pune,Female,48,Middle Age,13271.81,20121.64,,13793.0,No
+Merchandise,Mumbai,Male,16,Teen,19243.35,1540.91,8504.35,,No
+Merchandise,Indore,Female,20,Young Adult,16754.59,24527.81,7566.74,9999.36,Yes
+Merchandise,Chennai,Male,27,Adult,18275.93,20860.96,4416.03,,No
+Grocery,Lucknow,Male,40,Middle Age,13815.47,4287.46,3732.51,3861.7,Yes
+Merchandise,Chennai,Male,16,Teen,3889.55,2237.34,10113.93,15508.4,No
+Merchandise,Hyderabad,Male,15,Teen,13985.25,7445.39,21513.73,7536.2,Yes
+Merchandise,Chennai,Female,41,Middle Age,9782.0,9560.03,3101.4,17912.77,Yes
+Grocery,Hyderabad,Male,21,Young Adult,2080.59,10952.81,-7522.35,1632.27,No
+Merchandise,Chennai,Male,17,Teen,13412.17,16337.69,7381.85,10943.39,Yes
+Grocery,Bangalore,Male,18,Young Adult,1132.22,2626.67,12028.06,641.79,Yes
+Grocery,Mumbai,Male,35,Adult,13582.01,709.85,16249.3,2710.3,No
+Merchandise,Kolkata,Female,45,Middle Age,12405.14,16180.07,4497.91,7301.17,No
+Merchandise,Mumbai,Male,49,Middle Age,4780.46,23678.41,16565.72,7084.78,No
+Merchandise,Delhi,Male,150,Senior,11338.27,12319.28,15385.68,9299.0,Yes
+Grocery,Indore,Female,42,Middle Age,2782.96,,5853.34,17589.37,No
+Merchandise,Chennai,Male,22,Young Adult,1218.06,21404.13,10152.58,9879.89,No
+Grocery,Delhi,Male,50,Middle Age,,15998.6,-2350.88,11677.05,Yes
+Merchandise,Kolkata,Female,54,Senior,1682.98,11745.44,3869.58,4388.86,Yes
+Merchandise,Mumbai,Female,17,Teen,4840.83,12652.93,14320.53,10705.39,Yes
+,Hyderabad,Male,24,Young Adult,9520.81,14105.39,14282.64,10455.71,No
+Merchandise,Lucknow,Male,23,Young Adult,8447.57,19505.78,5967.58,14832.98,Yes
+,Indore,,64,Senior,10244.81,18712.77,15425.36,17004.6,No
+Merchandise,Indore,Male,49,Middle Age,18773.94,6131.54,15922.12,8376.46,No
+Merchandise,Lucknow,Female,150,Senior,11319.43,10173.18,5898.17,14327.56,No
+Merchandise,Pune,Female,26,,10569.75,19373.71,8003.86,15687.62,No
+Grocery,Indore,Female,31,Adult,5317.95,21895.05,2715.83,1560.78,No
+Merchandise,Delhi,Female,62,Senior,1741.16,11347.4,5557.88,17350.03,Yes
+Grocery,Chennai,Female,40,Middle Age,2112.2,22582.42,-5721.48,6452.3,Yes
+Merchandise,Mumbai,Female,52,Senior,19100.06,4538.57,5835.97,3032.78,Yes
+Grocery,Pune,Female,27,Adult,7822.3,12800.94,1059.48,630.93,Yes
+Grocery,Hyderabad,Male,150,Senior,4712.25,22611.64,13127.39,769.66,Yes
+Grocery,Lucknow,Male,32,Adult,4761.01,18834.71,16211.24,2246.25,No
+Merchandise,Mumbai,Male,59,,15960.37,22033.79,16420.97,17120.2,Yes
+Grocery,Jaipur,Male,22,Young Adult,803.46,962.62,20865.24,,No
+Merchandise,Pune,Female,47,Middle Age,19295.44,,10329.63,16459.16,Yes
+Grocery,Bangalore,Female,27,Adult,8302.81,22859.02,7651.57,11306.4,Yes
+Merchandise,Hyderabad,Male,57,Senior,9077.07,22000.33,947.84,7817.7,Yes
+Grocery,Hyderabad,Male,31,Adult,16674.05,18935.13,3512.79,7048.4,Yes
+Grocery,Lucknow,Male,38,Middle Age,14144.7,19464.93,7848.74,13179.53,No
+Merchandise,Kolkata,Female,18,Young Adult,5777.4,18164.89,19196.52,9558.61,No
+Merchandise,Bangalore,Female,35,Adult,3028.87,24689.32,2246.15,15650.63,No
+Grocery,Hyderabad,Male,18,Young Adult,1995.68,,14400.28,16518.73,Yes
+Grocery,Mumbai,Male,18,Young Adult,5316.32,10599.95,11980.95,12387.79,No
+Grocery,Lucknow,Male,34,Adult,7399.25,14058.52,2405.89,8625.33,Yes
+Grocery,Bangalore,Female,28,Adult,4691.92,19486.8,8923.37,,No
+Merchandise,Jaipur,Female,52,Senior,16695.28,16373.05,14384.66,16470.24,Yes
+Grocery,Indore,Male,64,Senior,13013.14,11620.54,19270.79,15301.85,Yes
+Grocery,Indore,Female,38,Middle Age,3525.78,10737.08,18722.0,10314.82,Yes
+Grocery,Kolkata,Female,49,Middle Age,5403.07,2343.6,545.72,9913.7,No
+Grocery,Kolkata,Female,57,Senior,10470.9,20877.24,11449.83,7691.71,No
+Grocery,Bangalore,Male,-1,Teen,2549.83,7181.46,7386.46,11358.6,No
+Merchandise,Hyderabad,Male,60,Senior,18359.42,23092.95,-958.17,11138.09,Yes
+Grocery,Bangalore,Female,-1,Teen,1178.62,23737.85,10835.57,6416.38,No
+Grocery,Bangalore,Male,33,Adult,9049.51,8013.06,6400.99,6947.14,Yes
+Merchandise,Pune,Male,51,Senior,1992.42,12482.55,6083.87,3983.23,No
+,Indore,Female,17,Teen,11167.1,11360.81,11261.32,13417.92,No
+Grocery,Mumbai,Male,28,Adult,6749.72,3458.67,15309.07,-13739.03,Yes
+Grocery,Jaipur,Male,63,Senior,-3368.27,11021.21,15302.46,,No
+Grocery,Bangalore,Male,54,Senior,5592.07,23031.89,-2741.6,10888.78,No
+Grocery,Delhi,Male,45,Middle Age,12135.26,3007.18,3518.07,6146.85,Yes
+Grocery,Delhi,Male,42,Middle Age,3576.41,4952.35,13089.99,12405.16,Yes
+Merchandise,Chennai,Male,49,Middle Age,-821.55,8334.23,12884.31,857.62,No
+Merchandise,Chennai,Female,50,Middle Age,5269.73,5253.06,19202.72,2633.72,No
+Grocery,Lucknow,Female,26,Adult,5634.61,2374.73,13877.32,11291.57,No
+Grocery,Delhi,Female,32,Adult,2992.5,20407.03,15459.35,8543.68,Yes
+Merchandise,Mumbai,Female,24,Young Adult,2960.36,-21154.62,15879.74,9810.86,Yes
+Grocery,Bangalore,Male,34,Adult,10825.12,12627.91,5893.37,,No
+Merchandise,Chennai,Female,20,Young Adult,4320.6,5954.72,17807.7,7225.36,Yes
+Grocery,Kolkata,Male,64,Senior,6892.62,13540.3,,6177.81,Yes
+Grocery,Hyderabad,Female,35,Adult,8360.53,2397.7,17364.0,15578.08,No
+Grocery,Delhi,Female,41,Middle Age,16673.77,6329.14,1924.39,10901.93,Yes
+Merchandise,Kolkata,,42,Middle Age,6326.81,8186.94,15899.19,11142.19,No
+Merchandise,Chennai,Male,47,Middle Age,18396.71,4817.27,18185.27,3944.35,Yes
+Grocery,Pune,Female,32,Adult,12022.42,10790.17,1645.37,4893.97,Yes
+Merchandise,Kolkata,Female,15,Teen,2673.91,18966.62,,7911.85,Yes
+Grocery,Bangalore,Male,47,Middle Age,3367.59,,18912.9,15786.88,No
+Grocery,Chennai,Female,45,Middle Age,9295.44,22431.91,2894.53,16795.47,Yes
+Grocery,Lucknow,Female,-1,Teen,,5046.35,10238.36,5319.95,No
+Merchandise,Kolkata,Female,44,Middle Age,3495.58,18886.69,18568.04,9448.81,Yes
+Grocery,Indore,Female,150,Senior,6369.88,19843.02,20225.66,6365.29,No
+Merchandise,Jaipur,Female,35,Adult,7901.26,5960.74,17571.01,16859.5,No
+Grocery,Mumbai,Female,-1,Teen,10113.42,16961.93,,14721.68,No
+Grocery,Bangalore,Male,54,Senior,16931.58,21912.45,12721.84,10079.82,Yes
+Merchandise,Delhi,Female,-1,Teen,14712.26,22538.53,8564.03,2705.04,No
+Merchandise,Delhi,,22,Young Adult,3644.08,21734.09,14449.2,8517.44,Yes
+Merchandise,Mumbai,Female,31,Adult,12803.74,5775.72,21298.3,2324.46,Yes
+Grocery,Kolkata,Male,34,Adult,5768.86,16672.52,21290.4,16798.4,No
+Grocery,Bangalore,Female,23,Young Adult,17784.04,13647.53,4090.21,12193.24,Yes
+Grocery,Chennai,Female,56,Senior,11014.87,17349.28,6454.28,8341.75,Yes
+Grocery,Delhi,Male,54,Senior,4591.17,8151.04,-7620.37,5224.51,No
+Grocery,Bangalore,Male,56,Senior,-7483.68,6475.97,18557.89,7236.45,No
+Merchandise,Pune,Male,150,Senior,10609.14,,6947.0,1419.73,No
+Grocery,Delhi,Female,29,Adult,15178.78,17233.61,5056.04,10746.6,Yes
+Merchandise,Mumbai,,38,Middle Age,19292.89,12950.3,1309.94,13195.83,Yes
+Merchandise,Hyderabad,Male,31,Adult,13940.53,10533.35,17048.9,13167.19,Yes
+Grocery,Chennai,Male,40,,14741.63,16267.49,4904.94,15757.79,Yes
+Grocery,Bangalore,Female,36,Middle Age,2488.92,24526.04,-21160.53,-16997.75,Yes
+Merchandise,Hyderabad,Male,20,Young Adult,4946.95,12007.99,13994.72,10268.49,Yes
+Merchandise,Jaipur,Female,23,Young Adult,14300.1,4001.76,21447.53,3094.98,Yes
+Merchandise,Indore,,17,Teen,5372.26,16349.44,10270.02,10576.88,No
+Merchandise,Bangalore,Male,18,Young Adult,11153.16,11287.62,18407.83,6029.74,Yes
+Merchandise,Delhi,Male,49,Middle Age,7364.72,24792.73,12476.31,8282.52,No
+Merchandise,Mumbai,Male,37,Middle Age,13182.92,11371.7,-10949.62,17354.3,Yes
+Grocery,Pune,Male,48,Middle Age,5911.66,20457.19,14065.31,5414.33,Yes
+Merchandise,Chennai,Male,60,Senior,12724.08,8566.98,17140.19,10048.52,Yes
+Merchandise,Jaipur,Male,20,Young Adult,5923.54,7439.92,10171.71,5013.9,No
+Merchandise,Kolkata,Female,16,Teen,13472.13,19263.7,16738.82,5154.65,No
+Merchandise,Bangalore,Female,31,Adult,9637.77,14736.03,14262.63,14208.95,No
+Merchandise,Jaipur,,20,Young Adult,-8037.28,6152.37,14245.58,17257.61,No
+Merchandise,Chennai,Female,55,Senior,12130.01,3576.44,928.21,9686.65,No
+Grocery,Mumbai,Female,16,Teen,2399.15,1820.0,3805.49,14400.52,No
+Merchandise,Delhi,Male,63,Senior,7115.89,20515.65,20540.53,7796.49,No
+Merchandise,Delhi,Female,59,Senior,19354.82,1463.35,8392.49,3889.08,No
+Merchandise,Kolkata,Male,15,Teen,6070.43,8880.13,6659.46,9862.96,Yes
+Merchandise,Hyderabad,Female,27,Adult,4132.5,11227.89,5143.6,2848.28,Yes
+Grocery,Indore,Female,28,Adult,7266.72,7932.25,8350.54,9823.33,No
+,Bangalore,Female,29,Adult,7071.99,7555.03,3238.75,12327.5,No
+Merchandise,Kolkata,Female,41,Middle Age,5957.86,20018.44,14873.75,12158.02,Yes
+Merchandise,Kolkata,Male,31,Adult,19767.24,18332.47,1892.8,11556.13,No
+Grocery,Mumbai,Male,52,Senior,14769.08,7812.57,15255.57,4487.66,Yes
+Merchandise,Hyderabad,Female,15,Teen,17842.43,652.57,16448.65,7264.02,Yes
+Merchandise,Bangalore,Female,41,Middle Age,10808.93,,2160.11,2963.89,No
+Grocery,Bangalore,Male,37,Middle Age,,18074.94,3833.96,9212.68,Yes
+Grocery,Bangalore,Male,50,Middle Age,9624.91,7690.88,4401.85,12943.82,No
+Grocery,Delhi,Male,41,Middle Age,10034.13,7126.33,8839.65,13090.49,No
+Merchandise,Chennai,Female,64,Senior,10335.07,15025.79,1772.51,16318.98,No
+Grocery,Lucknow,Male,54,Senior,2925.3,14922.39,1926.64,15243.5,No
+Merchandise,Indore,Female,32,Adult,17262.88,,3784.56,5625.67,No
+Grocery,Mumbai,Male,29,Adult,3298.56,18585.64,18166.03,5982.19,No
+Grocery,Kolkata,Male,26,Adult,,5521.16,16037.22,14095.25,Yes
+Merchandise,Pune,Male,57,Senior,12165.9,12888.43,6906.04,1528.51,No
+Grocery,Delhi,Female,44,Middle Age,15974.58,11028.78,13446.99,1545.07,Yes
+Merchandise,Mumbai,Male,29,Adult,5307.98,-22115.1,19892.57,4794.57,No
+Merchandise,Jaipur,Female,35,Adult,11753.73,,17291.09,7133.27,Yes
+Merchandise,Hyderabad,Female,43,Middle Age,,1453.54,16979.26,6964.36,Yes
+Merchandise,,Female,58,Senior,14942.02,6567.68,3955.11,7726.12,Yes
+Grocery,Lucknow,Female,63,Senior,14053.45,3444.97,9332.55,6870.5,Yes
+Merchandise,Hyderabad,Male,22,Young Adult,15367.55,11981.87,21325.28,16673.61,Yes
+Merchandise,Lucknow,Male,44,Middle Age,1954.35,2841.71,14244.32,3630.57,Yes
+Merchandise,Bangalore,Female,150,Senior,12298.25,16083.7,9701.92,2711.84,No
+Merchandise,Hyderabad,Female,64,Senior,11260.92,4340.07,6369.36,11857.11,Yes
+Grocery,Indore,Male,23,Young Adult,19430.45,22151.57,2867.34,12782.79,Yes
+Merchandise,Chennai,Male,44,Middle Age,15540.48,2340.32,8350.1,4677.11,No
+Grocery,Kolkata,Female,22,Young Adult,18479.4,17792.71,10319.59,8059.53,Yes
+Grocery,Delhi,Female,22,Young Adult,3101.65,18445.55,,,No
+Merchandise,Chennai,Male,39,Middle Age,,23798.89,13031.72,925.83,No
+Merchandise,Hyderabad,Female,52,Senior,,,9890.17,9759.19,Yes
+Merchandise,Hyderabad,Female,21,Young Adult,13110.38,23688.92,3571.01,13721.28,Yes
+Merchandise,Jaipur,Male,64,,15564.57,22943.51,18028.07,7050.66,No
+Grocery,Delhi,Male,59,Senior,,3297.34,8430.34,16723.82,Yes
+Grocery,Lucknow,Female,26,Adult,4039.5,16989.06,18383.8,1382.03,No
+Merchandise,Hyderabad,Male,34,Adult,3360.82,1720.39,15646.84,6707.95,Yes
+Grocery,Indore,Male,32,Adult,15593.07,23155.11,4018.31,6425.55,Yes
+Merchandise,Mumbai,Male,40,Middle Age,4894.95,12450.33,20157.89,5569.88,Yes
+Merchandise,Mumbai,,33,Adult,5228.23,24860.71,8359.42,14074.91,No
+Grocery,Jaipur,Female,62,Senior,19652.46,9546.87,17972.79,8058.27,Yes
+Merchandise,Mumbai,Male,42,Middle Age,-9879.58,7602.88,7993.69,9307.59,No
+Grocery,Lucknow,Male,48,Middle Age,8795.09,5838.03,14842.81,17765.43,Yes
+Merchandise,Lucknow,Female,32,Adult,13089.95,20974.27,-21690.82,8911.61,Yes
+Grocery,Bangalore,Male,52,Senior,17282.54,10639.61,7804.57,10144.32,No
+Merchandise,Delhi,Female,61,Senior,8655.87,11967.39,12216.37,10560.03,No
+Grocery,Lucknow,Female,26,Adult,14630.98,19216.06,8236.79,16215.83,No
+Grocery,Pune,Male,50,Middle Age,,6221.68,,3289.52,Yes
+Grocery,Indore,Male,19,Young Adult,16071.38,17765.07,1921.34,9340.02,Yes
+Grocery,Indore,Female,24,Young Adult,8647.83,23282.16,3924.55,10162.17,No
+Merchandise,,Male,46,Middle Age,15674.29,12461.03,17534.46,7752.74,Yes
+Grocery,Indore,Female,42,Middle Age,16649.03,5669.48,20374.35,3532.08,No
+Grocery,Delhi,Female,31,Adult,7224.47,13257.28,1127.63,3358.6,Yes
+Merchandise,Kolkata,Male,21,Young Adult,,1225.23,9912.87,4005.0,Yes
+Grocery,Indore,Female,38,Middle Age,15875.41,5968.15,7608.87,11746.36,Yes
+Grocery,Jaipur,Female,28,Adult,,8254.24,17822.79,2878.08,Yes
+Grocery,Chennai,,52,Senior,-13798.82,11585.86,21008.82,3096.62,Yes
+Merchandise,Jaipur,Male,54,Senior,11387.32,16301.42,14030.11,11324.22,No
+Grocery,Indore,Female,41,Middle Age,2770.5,3886.68,8827.89,-1045.95,Yes
+Grocery,Chennai,Female,-1,Teen,645.34,24001.06,14836.1,12184.34,Yes
+Grocery,Jaipur,Female,30,Adult,7388.69,20117.8,,,No
+Merchandise,Lucknow,Female,46,Middle Age,6812.26,3035.47,12704.28,6402.08,Yes
+Merchandise,Lucknow,Male,150,,5311.6,-8552.82,17378.98,5664.37,No
+Grocery,Chennai,Female,48,Middle Age,15809.34,19163.13,5323.05,1249.37,Yes
+Merchandise,Kolkata,Male,28,Adult,1473.21,20804.65,519.55,6851.0,No
+Merchandise,Indore,Female,-1,Teen,16941.97,4373.01,2545.27,11940.38,No
+Merchandise,Chennai,Male,43,Middle Age,3901.36,18586.78,7642.48,7830.06,Yes
+Grocery,Kolkata,Male,31,Adult,4353.81,23933.8,6922.25,11718.19,Yes
+,Delhi,Male,64,Senior,,1215.52,10426.49,9110.5,Yes
+Merchandise,Delhi,Male,51,Senior,10806.56,4274.48,8339.39,15624.79,No
+Grocery,Delhi,Female,28,Adult,8548.54,16425.32,19315.16,1310.18,Yes
+Grocery,Kolkata,Female,25,Young Adult,2797.98,3775.42,19966.67,17094.45,No
+Grocery,Jaipur,Male,62,Senior,-12560.84,9031.6,11543.98,9423.11,No
+Merchandise,Kolkata,Male,16,Teen,17254.25,2080.96,10128.47,14449.89,No
+Grocery,Jaipur,Female,49,,,11009.12,18262.64,7299.16,Yes
+Grocery,Bangalore,Female,47,Middle Age,4872.22,23248.79,,,Yes
+Merchandise,Indore,Female,23,Young Adult,7270.82,9975.91,6222.69,10808.05,No
+Grocery,Hyderabad,Female,42,Middle Age,12775.84,22837.23,6662.97,,Yes
+Merchandise,Hyderabad,Female,62,Senior,4866.61,10613.5,,2751.07,No
+Grocery,Mumbai,Male,18,Young Adult,5156.88,20670.44,6196.92,5513.35,Yes
+Merchandise,Delhi,Female,33,Adult,3215.54,8125.39,15530.75,,Yes
+Merchandise,Jaipur,Female,42,Middle Age,13360.68,20395.39,20644.37,,No
+Merchandise,Kolkata,Male,33,Adult,19115.6,18739.4,2640.75,1368.26,No
+Merchandise,Indore,Male,42,Middle Age,3959.0,10680.03,7871.69,10211.5,Yes
+Merchandise,Indore,Male,23,Young Adult,11640.88,21918.17,5248.85,16722.87,No
+Grocery,Indore,Male,44,Middle Age,5336.9,-5578.06,5469.8,13608.06,Yes
+Merchandise,Indore,Male,41,Middle Age,2531.53,18609.92,7804.96,15072.25,No
+Merchandise,Mumbai,Male,43,Middle Age,10045.94,6653.59,12455.54,3363.0,No
+Merchandise,Jaipur,Male,58,Senior,14728.73,1400.77,683.12,2382.25,No
+Merchandise,Mumbai,Female,36,Middle Age,5458.35,13564.09,14722.4,7444.15,Yes
+Merchandise,Bangalore,Male,17,Teen,4924.59,18555.0,4519.51,6689.18,No
+Merchandise,Hyderabad,Male,34,Adult,13153.33,3903.85,19506.28,10349.86,No
+Grocery,Jaipur,Female,21,Young Adult,18463.08,790.05,10330.56,7791.98,Yes
+Merchandise,Chennai,Female,49,Middle Age,-2884.65,17383.68,6183.61,10489.53,No
+Grocery,Bangalore,Female,31,Adult,1520.33,12178.0,14993.28,4056.01,No
+Grocery,Chennai,Male,33,Adult,17246.76,10869.21,10883.94,17130.58,No
+Merchandise,Bangalore,Male,23,Young Adult,-866.82,2385.21,11985.43,4274.41,Yes
+Grocery,Hyderabad,Female,20,Young Adult,2810.49,13307.3,15829.48,2310.08,No
+Merchandise,Indore,Female,47,,16088.81,10721.08,12637.72,8085.79,No
+Merchandise,Chennai,Male,16,Teen,12478.7,9239.92,5276.65,9371.26,No
+Grocery,Jaipur,Male,63,Senior,16456.86,18862.97,12954.45,2257.19,Yes
+,Pune,Female,48,Middle Age,3174.57,21692.7,5581.81,3958.48,Yes
+Grocery,Indore,Female,44,Middle Age,8564.3,3678.48,15818.29,11658.55,Yes
+Merchandise,Kolkata,Male,44,Middle Age,9949.01,17816.51,19714.39,12002.84,Yes
+Grocery,Hyderabad,Male,37,Middle Age,,21888.32,18343.02,10739.21,No
+Grocery,Jaipur,Female,48,Middle Age,15217.02,,8147.67,16144.44,Yes
+Grocery,Lucknow,Female,48,Middle Age,11487.61,20395.65,970.86,11649.17,No
+Merchandise,Lucknow,Female,36,Middle Age,15744.14,4135.67,-8707.99,11534.06,Yes
+Grocery,Indore,Female,44,Middle Age,3281.75,23167.59,-678.9,9346.79,No
+Grocery,Lucknow,Female,55,Senior,14505.4,19418.69,,12068.18,Yes
+Merchandise,Lucknow,Male,35,Adult,19593.56,9471.8,1025.15,3628.41,No
+Grocery,Jaipur,Male,51,Senior,16172.94,1860.07,9019.33,1690.17,No
+Grocery,Jaipur,Female,46,Middle Age,2678.28,5292.35,2313.2,12902.0,No
+Grocery,Jaipur,Female,21,Young Adult,14821.11,20210.46,8741.41,8911.8,No
+Merchandise,Lucknow,Male,37,Middle Age,15247.47,18722.43,14616.89,9634.2,Yes
+Merchandise,,Male,64,Senior,14132.21,13181.82,18243.1,14953.05,Yes
+,Chennai,Male,52,Senior,8815.83,13685.76,15089.79,17042.98,Yes
+Merchandise,Kolkata,Male,38,Middle Age,10681.12,22415.73,15036.24,10640.66,No
+Merchandise,Kolkata,Female,16,Teen,12944.63,23210.11,6083.68,,Yes
+Grocery,Bangalore,Male,150,Senior,1501.7,,7393.01,9616.12,No
+Grocery,Indore,Female,38,Middle Age,18241.27,9368.1,11710.03,9372.75,No
+Grocery,Bangalore,Female,43,Middle Age,15127.48,23147.39,14209.78,3279.44,No
+Merchandise,Chennai,Male,49,Middle Age,16847.34,14923.6,8933.54,17619.54,Yes
+Merchandise,Chennai,Male,28,Adult,16384.49,18964.74,937.32,11905.68,No
+Grocery,Bangalore,Female,17,Teen,12053.78,7216.82,3342.02,2678.86,No
+Merchandise,Kolkata,Female,38,Middle Age,3186.49,12586.63,20343.66,,No
+Grocery,Delhi,Male,49,Middle Age,18593.98,24446.54,8650.64,6532.82,No
+Grocery,Delhi,Female,41,Middle Age,4758.98,24259.58,5440.75,,Yes
+Grocery,Jaipur,Female,41,Middle Age,8378.07,19191.27,21445.77,8490.77,No
+Merchandise,Mumbai,Male,46,Middle Age,9870.98,17796.81,8471.55,14062.93,No
+Merchandise,Bangalore,Male,20,Young Adult,5953.68,1769.69,9938.93,17570.95,No
+Grocery,Kolkata,Male,58,Senior,16475.09,1873.62,9174.21,9946.66,No
+Merchandise,Kolkata,Female,24,Young Adult,2662.02,20003.17,6114.12,15284.98,No
+Merchandise,Hyderabad,Female,28,Adult,13677.69,17511.98,2399.68,7425.88,Yes
+Grocery,Chennai,Male,32,Adult,12106.88,12445.07,18795.39,5403.84,No
+Merchandise,Pune,Male,53,Senior,15031.12,3317.06,4940.72,4970.99,No
+Merchandise,Hyderabad,Female,-1,Teen,-15206.48,21788.59,5689.92,13222.11,No
+Grocery,,Male,40,Middle Age,7953.18,5629.28,6019.31,10922.56,No
+Merchandise,Jaipur,Female,63,Senior,3434.38,3477.8,12635.4,2421.39,Yes
+Merchandise,Hyderabad,Female,50,Middle Age,548.88,24090.06,16728.56,11916.15,Yes
+Merchandise,Bangalore,Male,42,Middle Age,,19675.83,4615.43,9245.29,No
+Merchandise,Mumbai,Female,17,Teen,,12746.71,13838.06,15749.17,Yes
+Grocery,Lucknow,Male,46,Middle Age,,10352.61,14981.32,15778.26,Yes
+Grocery,Kolkata,Male,62,Senior,,2994.18,10233.95,13841.91,No
+Grocery,Mumbai,Female,37,Middle Age,4435.13,9557.9,7394.76,2205.98,Yes
+Grocery,Pune,Female,35,Adult,2800.91,24829.3,19379.65,3088.39,Yes
+Grocery,Kolkata,,27,,15122.48,14021.2,2121.31,7937.51,No
+Grocery,Bangalore,Female,30,Adult,12309.04,21674.49,6921.66,14278.17,Yes
+Grocery,Lucknow,Female,34,,5222.29,5572.98,12430.45,5007.06,Yes
+Grocery,Jaipur,Male,39,Middle Age,13302.51,14929.42,4872.9,3349.3,No
+Merchandise,Lucknow,Female,25,Young Adult,,12944.62,15506.23,-4910.15,No
+Merchandise,Hyderabad,Male,51,Senior,13693.67,15237.12,17785.17,16197.92,Yes
+Grocery,Hyderabad,Female,39,Middle Age,12368.8,15093.61,-13259.79,7021.28,Yes
+Grocery,Chennai,Male,45,Middle Age,4734.46,8668.75,12244.46,3056.49,Yes
+Grocery,Jaipur,Female,17,Teen,14957.79,4320.23,16616.3,,No
+Merchandise,Hyderabad,Female,25,Young Adult,12382.84,1596.53,9642.35,6961.09,No
+Merchandise,Mumbai,Female,150,Senior,4951.03,16650.98,20575.62,,No
+Grocery,Pune,Female,42,Middle Age,-5570.99,24162.82,11157.41,7238.01,No
+Grocery,Bangalore,Male,25,Young Adult,16539.49,15033.62,7917.94,7707.74,Yes
+Grocery,Delhi,Female,56,Senior,4422.36,15110.12,9301.32,651.33,No
+Merchandise,Kolkata,Male,51,Senior,1452.49,14917.94,4136.63,1653.63,Yes
+Merchandise,Kolkata,Female,59,Senior,9925.42,10837.33,17236.12,10175.03,Yes
+Merchandise,Indore,Male,35,Adult,5835.24,20081.69,13768.5,,Yes
+Grocery,Delhi,Female,19,Young Adult,8909.89,18860.41,,4732.25,Yes
+Grocery,Indore,Female,50,Middle Age,7748.99,10199.6,,2046.55,No
+Grocery,Indore,Male,23,,9994.07,8260.71,6283.61,15351.61,No
+Grocery,Lucknow,Female,51,Senior,,2930.96,1803.03,11388.81,Yes
+Grocery,Pune,Female,38,Middle Age,9500.3,1884.11,4473.58,10343.62,No
+Merchandise,Pune,Female,45,Middle Age,16905.79,23741.42,2684.91,11530.63,No
+Grocery,Jaipur,Female,24,Young Adult,1073.06,18696.89,2234.3,13725.63,No
+Merchandise,Indore,Male,50,Middle Age,13144.14,3894.79,18940.59,3757.28,No
+Merchandise,Indore,Male,43,Middle Age,9187.96,3550.0,19016.18,14674.93,Yes
+Merchandise,Delhi,Male,21,Young Adult,-13381.4,10799.41,20133.3,17122.2,No
+,Jaipur,Male,40,,19239.11,24818.93,21125.41,,Yes
+Merchandise,Chennai,Male,24,Young Adult,9044.92,24165.96,9325.57,14921.79,Yes
+Grocery,Jaipur,Female,18,Young Adult,3889.02,4167.56,915.96,-12895.34,Yes
+Grocery,Delhi,Female,20,Young Adult,7227.0,22943.04,12430.98,7393.18,No
+Grocery,Jaipur,Female,49,Middle Age,2210.27,1708.35,16982.87,12447.07,Yes
+Merchandise,Chennai,Female,45,Middle Age,2921.0,20605.4,14917.82,14274.38,No
+Merchandise,Bangalore,Female,23,Young Adult,15657.03,4297.78,10216.93,12221.01,No
+Grocery,Bangalore,Male,32,Adult,13143.72,15916.48,13507.22,3310.3,Yes
+Merchandise,Lucknow,Female,45,Middle Age,2215.38,,19192.85,17001.37,No
+Grocery,Hyderabad,Female,35,Adult,4620.29,11730.25,19528.78,7067.54,Yes
+Merchandise,Lucknow,Female,57,Senior,7941.83,13007.12,538.15,17666.84,No
+Merchandise,Jaipur,Female,46,Middle Age,12098.3,5264.05,-19431.13,17817.49,No
+Merchandise,Kolkata,Male,23,Young Adult,14790.15,24488.44,18382.79,13160.44,Yes
+Merchandise,Mumbai,Female,46,Middle Age,14160.23,20916.21,12036.39,8378.54,Yes
+Grocery,Hyderabad,Female,50,Middle Age,17046.31,2974.74,12585.92,12328.74,Yes
+Grocery,Chennai,Male,20,Young Adult,15595.8,12297.82,13488.36,5347.7,Yes
+Grocery,Kolkata,Female,23,Young Adult,19392.18,8374.92,5547.87,2539.97,Yes
+Merchandise,Delhi,Female,52,Senior,6057.86,9845.39,19549.73,7875.24,Yes
+Grocery,Indore,Male,64,Senior,4899.92,15587.63,13617.29,12890.6,Yes
+Merchandise,Chennai,,27,Adult,10585.02,10467.98,7483.07,5059.88,No
+Grocery,Pune,Male,58,Senior,7233.64,4079.62,,1600.99,No
+Merchandise,Bangalore,,48,Middle Age,16275.21,5946.23,517.17,15375.22,Yes
+Grocery,Mumbai,Male,36,Middle Age,13667.3,21850.82,10283.65,17550.76,Yes
+Merchandise,Pune,Female,22,Young Adult,,9581.82,7917.86,4188.28,No
+Merchandise,Jaipur,Male,48,Middle Age,-11832.83,4214.16,10945.47,14192.55,No
+Merchandise,Delhi,Male,17,Teen,2965.91,8115.0,11940.92,12524.88,No
+Grocery,Kolkata,Male,38,Middle Age,5366.74,,20433.52,,No
+Grocery,Jaipur,Female,48,Middle Age,17256.8,10981.54,,1071.24,Yes
+Merchandise,Chennai,Male,37,Middle Age,9126.51,,9121.22,9006.66,No
+Merchandise,Delhi,Male,18,Young Adult,3859.52,4335.48,8666.57,9237.24,Yes
+Merchandise,Delhi,Female,54,Senior,10582.04,7527.49,9816.1,737.66,Yes
+Grocery,Jaipur,Female,29,Adult,2481.86,6768.25,8974.24,11512.04,Yes
+Grocery,Mumbai,Female,45,Middle Age,,20423.31,11986.35,9161.12,Yes
+Grocery,Chennai,Male,40,Middle Age,3349.02,7622.07,12538.59,12912.55,No
+Grocery,Bangalore,Female,27,Adult,10451.25,23150.79,6878.77,669.75,No
+Merchandise,Mumbai,Male,56,Senior,13816.15,23986.13,7536.0,14405.51,No
+Grocery,Chennai,Male,22,Young Adult,16623.46,22649.81,4330.87,4615.81,Yes
+Grocery,Kolkata,Female,60,Senior,7782.12,,20096.47,14034.16,No
+Merchandise,Bangalore,Female,28,Adult,8502.83,7233.18,,,Yes
+Grocery,Pune,Female,28,Adult,19913.26,18494.52,8728.41,13233.84,No
+Grocery,Kolkata,Female,58,Senior,18005.86,16268.02,20741.84,16619.4,Yes
+,Delhi,Male,26,Adult,4533.65,17190.29,,10403.75,Yes
+Merchandise,Lucknow,Male,48,Middle Age,1197.94,-5153.75,15659.73,15099.61,No
+Merchandise,Chennai,Female,36,Middle Age,18063.64,1289.31,4596.36,14202.79,Yes
+Merchandise,Delhi,Male,19,Young Adult,8551.31,24790.39,12043.78,7548.38,Yes
+Grocery,Mumbai,Female,53,Senior,18341.92,16302.57,16695.07,3893.78,Yes
+Grocery,Lucknow,Female,-1,Teen,4452.91,6499.57,5210.26,12990.6,Yes
+Merchandise,Bangalore,Female,62,Senior,5064.43,7073.58,-1119.48,2552.01,No
+Grocery,Hyderabad,Male,25,Young Adult,14316.2,617.24,2612.51,5050.4,Yes
+Grocery,Delhi,Female,41,Middle Age,,13729.33,18010.61,1191.75,No
+Grocery,Mumbai,Female,46,Middle Age,9998.69,24276.23,10820.88,10101.08,Yes
+Merchandise,Mumbai,Female,38,Middle Age,16433.79,17589.79,1458.96,9821.0,Yes
+Grocery,Jaipur,Female,38,Middle Age,,5752.18,8454.63,13975.06,Yes
+Merchandise,Mumbai,Female,30,Adult,6766.24,7086.37,16778.97,15693.53,Yes
+Grocery,Jaipur,Female,40,Middle Age,8416.32,18510.78,12804.19,2620.13,No
+Grocery,Pune,Male,28,Adult,,22599.46,9326.75,6382.26,Yes
+Grocery,Mumbai,Male,38,Middle Age,18629.04,4361.25,3713.49,1244.53,Yes
+Grocery,Mumbai,Female,45,Middle Age,10424.5,22232.16,3963.73,7011.83,Yes
+Grocery,Lucknow,Male,41,Middle Age,2837.41,5239.96,21476.84,631.27,No
+Merchandise,Lucknow,,42,Middle Age,7924.25,3045.13,18084.43,8064.93,No
+Merchandise,Chennai,Female,21,Young Adult,5203.85,3832.24,21538.64,3557.17,Yes
+Merchandise,Kolkata,Female,51,Senior,14505.73,,20129.62,5995.03,Yes
+Grocery,Lucknow,Male,31,Adult,,6844.81,11704.05,5109.99,No
+Merchandise,Pune,Male,61,Senior,19880.51,20949.7,4535.45,3185.89,No
+Grocery,Jaipur,Female,28,Adult,15021.68,6376.38,21194.68,10687.56,No
+Merchandise,Hyderabad,Male,39,Middle Age,3155.04,1816.96,14186.74,11035.72,No
+Grocery,Bangalore,Male,52,Senior,17629.01,7434.46,21566.6,10682.2,Yes
+Merchandise,Pune,Male,28,Adult,2401.46,17976.99,10428.85,7865.24,No
+Grocery,Kolkata,Female,47,Middle Age,15101.43,20449.86,6197.68,15769.61,No
+Merchandise,Pune,Male,49,Middle Age,11246.92,675.42,-537.6,13103.7,Yes
+Merchandise,Jaipur,Male,58,Senior,2469.59,1478.55,20859.07,10385.75,Yes
+Merchandise,Bangalore,Male,56,Senior,19891.19,3271.99,17719.34,7277.67,Yes
+Grocery,Indore,Female,39,Middle Age,18723.99,1338.85,17134.91,5804.97,No
+Grocery,Lucknow,Male,33,Adult,17318.08,13258.95,2485.31,6899.83,No
+Grocery,Jaipur,Male,41,Middle Age,1970.08,4000.85,1501.2,8302.28,Yes
+Grocery,Mumbai,Male,64,Senior,7100.6,17559.64,17215.99,3421.1,No
+Merchandise,Delhi,Female,41,,15344.93,24461.47,12736.92,15069.39,Yes
+Merchandise,Delhi,Female,60,Senior,986.89,21300.66,995.47,707.83,Yes
+Merchandise,Mumbai,Female,21,Young Adult,19683.11,15236.8,12371.57,14658.95,No
+Grocery,Bangalore,Female,36,Middle Age,8205.75,19153.89,15694.74,8873.32,Yes
+Merchandise,Bangalore,Male,37,Middle Age,10037.06,13501.57,-1748.57,11238.81,Yes
+Merchandise,Jaipur,Female,28,Adult,4638.81,6063.46,555.23,7843.57,No
+Grocery,Hyderabad,Female,53,Senior,,,19328.71,7968.95,Yes
+Merchandise,Pune,Female,30,Adult,,2156.57,19981.3,2457.18,No
+Merchandise,Indore,Female,35,Adult,4006.35,4025.41,16163.91,7652.85,Yes
+Merchandise,Jaipur,Female,48,Middle Age,3634.23,3863.52,2507.81,13547.95,Yes
+Grocery,Lucknow,,-1,Teen,1882.62,8589.08,17783.5,2194.55,No
+Grocery,Indore,Female,59,Senior,12062.67,3209.81,2591.79,4756.16,Yes
+Grocery,Bangalore,Male,28,Adult,11165.84,9616.64,9293.14,7295.85,No
+Grocery,Jaipur,Female,23,Young Adult,12472.42,16445.45,,10660.58,Yes
+Grocery,Pune,Male,39,Middle Age,5717.71,629.09,6796.46,6076.09,No
+Merchandise,Chennai,Female,22,Young Adult,5478.29,4615.49,12647.15,17251.61,No
+Merchandise,Mumbai,Female,38,Middle Age,14984.1,4068.75,5474.6,17206.68,No
+Grocery,Delhi,Male,-1,Teen,,22407.06,5298.38,8170.01,No
+Grocery,Lucknow,Male,51,Senior,13181.66,22365.39,10495.07,4013.16,Yes
+Merchandise,Hyderabad,Male,34,Adult,13042.06,5390.02,8694.4,11427.1,Yes
+Merchandise,Mumbai,Female,60,Senior,10418.16,11105.54,13433.68,,Yes
+Grocery,Chennai,Male,50,,16293.86,690.55,18235.1,4489.09,Yes
+Merchandise,Pune,Female,49,Middle Age,4383.37,7863.81,1621.65,17078.45,No
+Merchandise,Kolkata,Female,26,Adult,11302.0,24507.12,7216.07,14954.78,Yes
+Grocery,Delhi,Female,52,Senior,17987.23,15211.2,4506.72,5483.46,Yes
+Grocery,Mumbai,Male,58,Senior,19728.35,5116.96,8848.25,5841.76,Yes
+Grocery,Lucknow,Male,59,Senior,15850.09,20258.01,575.59,14726.77,Yes
+Merchandise,Chennai,Female,25,Young Adult,14322.76,10546.31,18544.91,8715.89,No
+Grocery,Chennai,Female,31,Adult,7880.95,17030.25,866.18,,Yes
+Grocery,Lucknow,Female,61,Senior,16956.24,14034.66,17352.49,15615.86,Yes
+Grocery,Lucknow,Female,42,Middle Age,1958.3,16901.17,16805.58,12496.69,Yes
+Merchandise,Lucknow,Female,53,Senior,3756.04,3610.51,6425.41,10520.02,No
+Merchandise,Pune,Male,150,Senior,18803.08,8408.95,11735.9,729.62,Yes
+Merchandise,Jaipur,Male,46,Middle Age,,18268.21,2277.73,1841.37,Yes
+Merchandise,Bangalore,Male,-1,Teen,16005.58,15475.5,20474.98,5497.95,No
+Merchandise,Chennai,Female,48,Middle Age,10465.79,6516.76,11854.7,6276.11,Yes
+Grocery,Kolkata,Female,61,Senior,8488.69,13156.92,18613.25,12795.51,No
+Merchandise,Pune,Female,44,Middle Age,12108.68,23444.96,16500.82,17938.01,No
+Grocery,Lucknow,Female,64,Senior,13005.33,,21438.73,10057.12,Yes
+Merchandise,Kolkata,Female,59,Senior,18190.92,14834.49,20558.93,7125.34,No
+Merchandise,Bangalore,Male,22,Young Adult,16630.77,10909.48,,692.39,No
+Merchandise,Hyderabad,,38,Middle Age,11989.98,7292.28,3681.25,17320.79,Yes
+Grocery,Kolkata,Male,32,Adult,14226.22,13641.72,5495.16,-12734.28,No
+Grocery,Bangalore,Female,50,Middle Age,7339.17,6784.61,11475.27,2056.49,No
+Grocery,Pune,Male,51,Senior,17627.49,17242.68,20970.03,8288.99,Yes
+Merchandise,Chennai,Male,26,Adult,10405.3,3918.22,18273.01,16277.66,Yes
+Grocery,Pune,Male,44,Middle Age,3289.07,1190.48,3455.02,,Yes
+Merchandise,Indore,Female,55,Senior,8794.55,8479.91,7867.47,1835.76,No
+Merchandise,Mumbai,Female,24,Young Adult,1756.49,22061.66,15928.63,11458.96,No
+Merchandise,Delhi,Male,30,Adult,,8911.41,7198.63,13207.88,Yes
+Merchandise,Pune,Female,26,Adult,19051.29,22758.53,12794.28,7744.66,No
+Grocery,Hyderabad,Female,20,Young Adult,16523.64,3969.18,15838.33,,No
+,Hyderabad,Female,57,Senior,9270.92,,14214.35,12622.47,Yes
+Grocery,Indore,Female,59,Senior,3484.36,7085.81,20840.89,8627.93,No
+Grocery,Chennai,Female,45,Middle Age,,,4352.64,9068.95,No
+Grocery,Jaipur,Female,42,Middle Age,8749.66,1224.16,-8396.72,14419.51,No
+Grocery,Lucknow,,62,Senior,5028.48,19054.47,2057.47,13415.82,No
+Merchandise,Chennai,Female,40,Middle Age,5804.25,11015.1,16879.24,,No
+Grocery,Pune,Male,54,Senior,,4562.95,10179.19,5923.82,No
+Merchandise,Bangalore,Male,23,Young Adult,,24756.52,15675.23,6629.35,No
+Grocery,Pune,Female,41,Middle Age,3779.4,4374.25,21195.09,2806.58,No
+Merchandise,Pune,Male,150,Senior,6971.67,20203.97,11449.13,3882.15,No
+Merchandise,Bangalore,Female,16,Teen,19916.58,6311.83,7500.71,17319.27,Yes
+Grocery,Mumbai,Male,64,Senior,16974.22,19236.71,16773.76,14421.35,Yes
+Grocery,Mumbai,Male,62,Senior,9987.88,1269.03,,9939.17,No
+Merchandise,Mumbai,Male,58,Senior,19310.55,8916.9,3206.21,14087.87,Yes
+Merchandise,Delhi,Female,57,Senior,16693.43,7595.16,15942.08,8096.53,No
+Grocery,Chennai,Female,20,Young Adult,1577.44,6750.23,13227.4,10946.21,No
+Grocery,Indore,Female,26,Adult,16108.83,13694.46,4202.35,13443.89,No
+Merchandise,Chennai,Male,150,Senior,-3443.0,7894.13,7232.63,1427.98,No
+Merchandise,Delhi,Male,49,Middle Age,1106.62,19227.81,1744.03,11974.88,No
+Grocery,Chennai,Male,17,Teen,12430.04,17064.98,20345.32,16289.47,No
+Merchandise,Lucknow,Male,27,Adult,11626.21,2492.1,13273.34,12263.05,No
+Merchandise,Hyderabad,Female,63,Senior,,9370.77,13847.86,3202.1,Yes
+Merchandise,Pune,Male,44,Middle Age,4719.17,585.22,6213.85,,No
+Grocery,Lucknow,Male,22,Young Adult,17378.52,23793.87,6763.87,,Yes
+Grocery,Chennai,Male,31,Adult,15440.28,20894.24,4509.9,5311.76,No
+Grocery,Pune,Female,16,Teen,11993.46,930.71,14535.56,17521.95,No
+Grocery,Delhi,Male,55,Senior,12015.18,18249.59,12777.8,964.59,No
+Grocery,Indore,Male,41,Middle Age,7590.18,3725.22,-6119.14,8615.58,Yes
+Merchandise,Indore,Male,25,Young Adult,16295.57,20693.92,15596.47,12881.05,No
+Merchandise,Indore,Female,24,Young Adult,9567.54,3450.26,2802.0,2743.36,No
+Grocery,Jaipur,,63,,12350.0,12543.85,1203.03,5007.08,Yes
+Grocery,Delhi,Male,15,Teen,7544.13,1545.08,14208.46,15430.68,No
+Merchandise,Kolkata,Male,53,Senior,1117.09,18334.19,16912.89,7307.06,No
+Grocery,Pune,Male,61,Senior,19553.29,5156.84,2053.83,2853.44,No
+Grocery,Bangalore,Female,60,Senior,18230.92,11686.09,20045.15,684.46,Yes
+Grocery,Indore,Female,45,Middle Age,12808.97,21110.36,6653.54,2372.41,Yes
+Merchandise,Mumbai,Male,44,Middle Age,18058.4,,6368.38,14121.0,Yes
+Grocery,Indore,Female,17,Teen,17271.26,10231.93,9486.62,9770.78,No
+Merchandise,Indore,Female,46,Middle Age,18699.03,20111.7,3198.9,3208.24,No
+Merchandise,Delhi,Male,16,Teen,18786.27,11144.59,18873.96,16094.01,Yes
+Grocery,Indore,Female,150,Senior,13452.21,1306.49,16388.35,15073.2,No
+Grocery,Kolkata,Female,46,Middle Age,19542.88,5580.36,-11392.64,,Yes
+Merchandise,Kolkata,Female,36,Middle Age,15239.06,23291.66,2947.79,12420.85,No
+Merchandise,Chennai,Male,49,Middle Age,15049.56,24165.4,5758.08,14274.28,Yes
+Grocery,Delhi,Female,22,Young Adult,12777.8,-8969.16,5678.23,4576.54,Yes
+Grocery,Indore,Female,30,Adult,10838.57,24322.88,4047.91,1915.85,Yes
+Grocery,Hyderabad,Male,58,Senior,5156.98,15670.4,16503.29,4259.81,Yes
+Grocery,Lucknow,Female,23,Young Adult,5291.38,20934.31,17577.21,11449.26,Yes
+Grocery,Jaipur,Male,59,Senior,3338.41,10348.54,4035.35,14297.34,No
+Merchandise,,Male,53,Senior,14613.16,15949.62,6526.76,10590.75,No
+Merchandise,Kolkata,Female,23,Young Adult,,,17065.79,4878.16,No
+Merchandise,Pune,Female,44,Middle Age,11580.28,-3309.87,18245.98,11287.93,Yes
+Grocery,Mumbai,Male,15,Teen,12607.32,19211.72,-12758.65,5264.67,Yes
+Merchandise,Mumbai,Female,17,Teen,10894.88,24086.77,17342.65,2505.32,No
+Grocery,Chennai,Female,45,Middle Age,16729.86,2970.55,15246.31,6290.02,No
+Grocery,Lucknow,Female,56,Senior,5166.93,7656.75,9865.96,1971.56,Yes
+Grocery,Lucknow,Male,44,Middle Age,,5946.11,12049.78,9717.65,Yes
+Merchandise,Kolkata,Female,32,Adult,6288.96,19604.35,17256.41,669.43,No
+Grocery,Lucknow,Male,48,Middle Age,6078.65,21775.56,16662.07,12284.29,Yes
+Merchandise,Indore,Female,21,Young Adult,8028.99,7733.62,19239.15,837.61,Yes
+Merchandise,Kolkata,Male,-1,Teen,7575.41,6831.34,8499.21,5156.68,No
+Grocery,Kolkata,Female,31,Adult,18632.45,12279.05,2274.66,5798.93,Yes
+Merchandise,Delhi,Male,54,Senior,1682.86,10942.33,7402.82,15922.9,No
+Merchandise,Delhi,Female,62,Senior,5740.18,-15573.06,14204.19,13655.89,Yes
+Merchandise,Bangalore,Male,28,Adult,5640.8,20651.7,13539.94,1577.08,No
+Grocery,Jaipur,Female,46,Middle Age,14209.02,14212.75,9949.17,12514.22,No
+Grocery,Chennai,Male,51,Senior,16169.14,20735.77,14550.62,1172.18,Yes
+Grocery,Bangalore,Female,61,Senior,8828.2,14482.45,18732.52,10688.99,No
+Grocery,Kolkata,Male,53,Senior,1715.21,6846.73,20445.21,5243.19,No
+Merchandise,Delhi,Female,45,Middle Age,8607.62,14898.73,14270.93,11495.75,Yes
+Grocery,Bangalore,Female,59,Senior,14007.76,7533.91,15784.5,14535.28,Yes
+Grocery,Delhi,Male,34,Adult,16025.48,13089.77,18248.13,990.2,Yes
+Merchandise,Hyderabad,Female,22,Young Adult,11711.95,7621.44,17620.92,,Yes
+Merchandise,Indore,Female,16,Teen,1795.02,10915.31,3548.78,2138.57,Yes
+Merchandise,Kolkata,Male,150,Senior,6644.84,11130.42,-9448.37,2464.86,Yes
+Merchandise,Jaipur,Male,64,Senior,16458.17,11424.05,4515.11,11700.76,Yes
+Grocery,Hyderabad,Male,33,Adult,,23674.87,14526.76,5051.13,No
+Grocery,Delhi,Male,57,Senior,8705.99,,3868.62,8019.15,No
+Grocery,Jaipur,Female,58,Senior,6245.07,18972.12,19810.44,1468.44,Yes
+Grocery,Jaipur,Female,-1,Teen,17009.18,7496.46,21645.64,5976.03,No
+Merchandise,Hyderabad,Female,42,Middle Age,7132.52,,20865.45,11441.92,Yes
+Grocery,Chennai,Female,33,Adult,16865.53,20713.25,-9734.06,3645.45,No
+Merchandise,Hyderabad,Female,27,Adult,7913.36,7195.54,14557.8,9076.59,No
+Merchandise,Delhi,Male,37,Middle Age,19698.67,7415.97,18669.46,2367.85,Yes
+Merchandise,Delhi,Female,20,Young Adult,1271.69,1541.07,8276.45,2938.2,No
+Grocery,Kolkata,Male,29,Adult,18242.18,-20648.89,620.62,,No
+Grocery,Indore,Female,39,Middle Age,13005.43,4832.57,13320.8,15655.72,No
+Merchandise,Chennai,Female,35,Adult,4619.87,11924.3,14452.37,631.38,Yes
+Grocery,Indore,Male,61,Senior,17827.68,20117.64,4819.95,11156.48,No
+Merchandise,Pune,Male,63,Senior,13030.26,-10265.53,14054.04,12097.06,No
+Merchandise,Indore,Female,64,Senior,12413.69,22277.86,19257.56,576.12,Yes
+Merchandise,Bangalore,Female,40,Middle Age,3093.41,16653.11,12517.82,7053.58,No
+Merchandise,Lucknow,Female,17,Teen,2107.12,10486.77,4862.36,16763.93,No
+Grocery,Pune,Male,61,Senior,6386.85,13727.56,17796.09,11640.38,No
+Merchandise,Pune,Male,50,Middle Age,17368.45,17265.03,17272.62,16362.34,No
+Merchandise,Indore,Male,29,Adult,1494.06,12495.01,4218.21,2053.53,Yes
+Grocery,Bangalore,Male,63,Senior,14736.87,7222.33,20455.68,1567.43,Yes
+Merchandise,Jaipur,Male,58,Senior,13792.27,8297.87,7307.02,3949.58,No
+Merchandise,Indore,Female,64,Senior,19258.89,20646.63,9213.88,15271.31,Yes
+Grocery,Mumbai,Female,56,Senior,3767.64,12564.83,17818.09,6221.97,Yes
+Merchandise,Kolkata,Female,42,Middle Age,2955.25,7982.83,5977.9,16268.35,Yes
+Merchandise,Pune,Female,58,Senior,5945.66,10906.28,20206.19,11269.98,Yes
+Merchandise,Indore,Male,23,Young Adult,4219.47,18555.25,2558.6,5979.15,No
+Merchandise,Mumbai,Male,56,Senior,10504.9,8671.71,21283.19,12571.21,Yes
+Merchandise,Bangalore,,39,Middle Age,11867.88,16164.15,18218.16,6281.63,Yes
+Grocery,,Female,48,Middle Age,,11071.97,10945.78,4151.93,Yes
+Grocery,Indore,Female,45,Middle Age,4440.24,4065.4,7859.77,9307.24,No
+Merchandise,Kolkata,Female,25,Young Adult,3911.48,23537.97,8055.15,16835.13,No
+Grocery,Kolkata,Female,57,Senior,7611.47,23534.59,15021.41,3761.67,Yes
+Grocery,Mumbai,Female,43,Middle Age,17527.94,9389.08,7438.33,13770.27,No
+Merchandise,Chennai,Female,25,Young Adult,7349.01,18145.33,4534.04,16740.59,No
+Merchandise,Indore,Female,38,Middle Age,17540.05,9374.7,11781.64,15704.42,No
+Merchandise,Bangalore,Male,58,Senior,2298.8,1776.15,-9100.69,12815.82,Yes
+Merchandise,Jaipur,Female,36,Middle Age,12370.62,6064.52,12358.57,6732.61,Yes
+Grocery,Pune,Male,63,Senior,4483.86,16212.5,4167.85,8686.96,No
+Merchandise,Pune,Female,42,Middle Age,8557.51,22745.95,18946.44,17736.64,No
+Grocery,Kolkata,Female,17,Teen,4749.62,6292.59,4978.09,973.55,No
+Grocery,Kolkata,Female,150,Senior,11314.44,15402.06,17229.86,8475.7,Yes
+Merchandise,Kolkata,Male,41,Middle Age,19067.5,3556.1,17211.76,12674.35,Yes
+Grocery,Pune,Female,39,Middle Age,18995.64,17928.19,1697.94,,No
+Merchandise,Hyderabad,Male,64,Senior,10186.08,8682.3,6973.96,13240.15,No
+Grocery,Chennai,Female,150,Senior,2956.35,7630.96,5527.71,11956.77,No
+Grocery,Kolkata,Female,34,Adult,1944.81,16414.62,5910.8,3594.54,No
+Grocery,Kolkata,Male,60,Senior,4736.02,8293.53,9148.34,11736.07,No
+Merchandise,Kolkata,Male,61,Senior,3254.14,7925.88,5103.19,4130.71,No
+Grocery,Mumbai,Male,60,Senior,18647.24,7834.01,7785.25,565.74,Yes
+Grocery,Hyderabad,Female,25,Young Adult,14429.96,10730.89,20181.3,12087.11,Yes
+Grocery,,,33,Adult,6983.74,1054.91,9465.79,13122.66,No
+Grocery,Hyderabad,Male,48,Middle Age,11067.1,13443.21,21212.25,11927.12,Yes
+Grocery,Hyderabad,Male,37,Middle Age,14879.92,14875.92,19035.13,15039.19,No
+Merchandise,Indore,Female,16,Teen,4539.33,9507.83,13698.62,3948.51,No
+Merchandise,Mumbai,Male,64,Senior,1695.42,14007.49,20747.25,5457.92,Yes
+Merchandise,Kolkata,Female,18,Young Adult,19604.83,23330.74,16413.11,17568.84,No
+Grocery,,Female,55,Senior,11751.78,15378.31,,3135.97,No
+Grocery,Hyderabad,Female,38,Middle Age,5894.4,12997.59,21829.15,1954.37,Yes
+Grocery,Delhi,Female,30,Adult,17599.44,23502.32,10295.09,4980.1,Yes
+Merchandise,Lucknow,Female,60,Senior,19457.59,3899.92,9569.0,10001.8,No
+,Chennai,Female,30,Adult,15291.33,2900.25,12333.42,8930.62,Yes
+Grocery,Bangalore,Female,36,Middle Age,12986.68,4655.57,3199.42,5124.66,No
+Merchandise,Chennai,Female,18,Young Adult,7592.02,24546.42,8325.99,5911.61,Yes
+Grocery,Jaipur,Male,24,Young Adult,6042.7,15161.0,20250.92,7891.39,Yes
+Grocery,Pune,Male,19,Young Adult,7387.65,22925.86,17650.39,15233.23,Yes
+Grocery,Indore,Female,17,Teen,-13153.09,24337.81,5247.44,16538.0,Yes
+Merchandise,Indore,Male,58,Senior,5324.63,22572.96,8879.45,8024.0,Yes
+Merchandise,Mumbai,Male,24,Young Adult,7335.9,11078.5,19919.43,11758.26,Yes
+Grocery,Delhi,Female,53,Senior,18235.22,19531.0,2701.61,12322.23,No
+,Delhi,Male,48,Middle Age,5093.07,9703.0,,16767.6,No
+Merchandise,Kolkata,Female,31,Adult,12713.92,14045.87,17391.65,7125.46,No
+Merchandise,Mumbai,Male,45,Middle Age,9891.09,12268.08,3387.77,15393.06,Yes
+Grocery,Chennai,Female,43,Middle Age,9864.26,736.9,14681.3,9639.72,Yes
+Merchandise,Delhi,Male,48,Middle Age,18412.56,19316.9,21144.23,7825.69,No
+Merchandise,Chennai,Male,62,Senior,18059.24,11669.49,17767.67,7956.16,No
+Grocery,Delhi,Male,36,Middle Age,10262.96,8514.35,4295.88,2258.25,Yes
+Grocery,Chennai,Male,26,Adult,15897.72,2138.98,14367.23,9604.17,No
+Grocery,Kolkata,Female,19,Young Adult,7260.97,7330.06,14279.45,-3301.69,Yes
+Merchandise,Kolkata,Male,27,Adult,10954.35,1572.92,11263.86,10232.01,Yes
+Merchandise,Lucknow,Male,42,Middle Age,3566.04,16836.25,9457.09,9712.11,No
+Grocery,Jaipur,,41,Middle Age,6263.11,12582.93,15834.05,1404.61,No
+Grocery,Lucknow,Male,35,Adult,10412.99,19541.76,9185.96,-11404.26,Yes
+Grocery,Lucknow,Male,47,Middle Age,11154.85,5845.45,6878.99,17832.25,Yes
+Merchandise,Bangalore,Male,60,Senior,14900.42,24916.5,2488.72,2629.06,Yes
+Grocery,Lucknow,Female,63,Senior,17523.08,18954.68,18019.6,8661.89,Yes
+Merchandise,Pune,Female,44,Middle Age,16064.24,17887.29,11094.21,8095.96,Yes
+Grocery,Mumbai,Female,25,Young Adult,,20240.31,14549.72,16329.16,Yes
+Grocery,Bangalore,Male,27,Adult,10570.09,7219.67,21358.25,11093.61,No
+Merchandise,Delhi,Female,-1,Teen,19411.15,23371.12,,16809.11,Yes
+Grocery,Chennai,Male,42,Middle Age,12540.91,16251.67,21574.58,7312.44,No
+Grocery,Chennai,Female,54,Senior,15353.44,3491.29,3894.27,8910.31,Yes
+Merchandise,,Female,47,Middle Age,11368.08,16171.96,5492.34,6256.43,Yes
+Grocery,,Female,60,Senior,14371.66,941.81,14373.44,11645.48,No
+Merchandise,Indore,Female,47,Middle Age,6344.66,,-12542.78,10054.17,No
+Grocery,Kolkata,Male,16,Teen,8048.58,17674.5,10221.05,5890.39,Yes
+Grocery,Pune,Female,23,Young Adult,10734.74,6202.66,18466.26,16477.92,No
+Merchandise,Lucknow,Female,46,Middle Age,5566.27,15356.39,8404.82,7406.41,Yes
+,Indore,Female,43,Middle Age,14814.6,,-13208.49,4072.82,No
+Merchandise,Mumbai,Female,19,Young Adult,13553.33,20121.08,21476.6,8798.93,Yes
+Merchandise,Delhi,Female,37,Middle Age,769.14,21719.72,,,No
+Grocery,Delhi,Male,21,Young Adult,,23981.07,4310.04,3092.18,Yes
+Grocery,Jaipur,Female,28,Adult,,14851.42,-11301.95,13179.16,No
+Merchandise,Indore,Female,53,Senior,5900.53,17944.5,14822.81,2783.08,Yes
+Grocery,Bangalore,Female,43,Middle Age,17822.45,14247.81,9950.45,6970.29,No
+Grocery,Jaipur,Female,21,Young Adult,,9828.98,4847.56,2283.26,Yes
+Grocery,Mumbai,Male,47,Middle Age,2954.07,6731.14,3469.62,,Yes
+Merchandise,Lucknow,Male,52,Senior,13396.68,24460.14,8977.1,10289.53,Yes
+,Indore,Male,17,Teen,8483.16,6751.44,11339.37,10063.51,No
+Grocery,Pune,Female,27,Adult,19464.2,9800.58,13209.91,14335.36,Yes
+Grocery,Pune,Female,55,Senior,16639.06,8262.12,21990.33,4754.56,Yes
+Grocery,Kolkata,Female,53,Senior,7939.61,21908.75,12503.34,4726.54,No
+Merchandise,Lucknow,Female,15,Teen,3013.26,14605.91,21547.01,10567.86,No
+Grocery,Bangalore,Male,57,Senior,11651.52,2439.56,13351.31,16568.61,Yes
+Grocery,Jaipur,Male,16,Teen,9991.09,23493.81,-12469.55,15235.97,Yes
+Grocery,Mumbai,Female,35,Adult,1676.17,2728.93,4362.3,8793.04,Yes
+Merchandise,Jaipur,Female,40,Middle Age,,7821.6,15868.05,,Yes
+Grocery,Hyderabad,Male,46,Middle Age,5323.94,11272.94,-3678.45,14438.37,Yes
+Grocery,Pune,Female,53,Senior,17457.48,6717.43,10312.12,,Yes
+Merchandise,Hyderabad,Female,35,Adult,13748.05,8562.98,11979.7,5001.37,No
+Grocery,Kolkata,Male,26,Adult,7175.12,11148.87,20135.51,8440.09,Yes
+,Bangalore,Male,43,Middle Age,4914.79,17868.08,16495.96,17279.82,Yes
+Merchandise,Bangalore,Male,54,Senior,2185.56,14292.47,12759.03,16142.52,Yes
+Grocery,Delhi,Male,59,Senior,18994.69,1926.31,8623.43,11668.06,No
+Grocery,Delhi,Male,44,Middle Age,15706.94,10014.73,10805.62,15491.65,No
+Merchandise,Kolkata,Male,150,Senior,1088.66,20269.45,12371.43,1675.79,No
+Merchandise,Chennai,Female,21,Young Adult,6434.78,21362.49,11346.45,17106.28,Yes
+Merchandise,Hyderabad,Male,23,Young Adult,14207.65,641.9,13326.57,15346.25,No
+Grocery,Mumbai,Female,38,Middle Age,9565.77,14331.55,11171.12,17252.78,No
+Merchandise,Pune,Female,21,Young Adult,1393.85,19808.44,11854.25,2212.02,Yes
+Grocery,Indore,Female,49,Middle Age,10219.88,10980.23,21368.24,5628.47,No
+Merchandise,Pune,Female,45,Middle Age,7942.13,15523.84,4702.76,,No
+Merchandise,Chennai,Male,29,Adult,9296.27,9532.57,13054.61,4047.76,No
+Grocery,Pune,Male,61,Senior,17770.53,24650.68,12313.43,4595.51,No
+Grocery,Chennai,Male,21,Young Adult,13752.84,17263.53,19298.43,6702.73,No
+Merchandise,Hyderabad,Male,29,Adult,16762.26,19869.21,4480.28,17564.48,Yes
+Grocery,Pune,Female,43,Middle Age,17930.38,18418.42,13073.82,3131.61,No
+Grocery,Indore,Male,25,Young Adult,9187.18,15008.4,7412.81,7710.25,No
+Merchandise,Chennai,Male,30,Adult,6945.52,18705.13,3200.14,1778.67,Yes
+Merchandise,Hyderabad,Female,53,Senior,3096.66,20123.77,17629.57,2612.05,Yes
+Merchandise,Mumbai,Male,17,Teen,17500.42,9890.71,5382.57,16333.26,No
+Grocery,Mumbai,Male,58,Senior,10529.76,7009.97,18851.34,4797.34,Yes
+Grocery,Bangalore,Male,57,Senior,19471.73,5481.13,21367.34,15018.96,Yes
+Grocery,Delhi,Female,40,Middle Age,-9398.12,11133.77,6660.95,5197.39,Yes
+Grocery,Chennai,Female,19,Young Adult,13954.48,,16214.0,720.42,No
+Grocery,Kolkata,Female,31,Adult,12436.39,16904.09,14504.06,12333.11,Yes
+Grocery,Lucknow,Male,43,Middle Age,9954.57,4448.55,6270.5,7775.6,Yes
+Grocery,Delhi,Female,45,Middle Age,6613.08,11563.53,20312.31,12555.94,No
+Grocery,Mumbai,Female,59,Senior,18860.73,21550.39,12613.95,5027.0,Yes
+Merchandise,Delhi,Male,32,Adult,12382.41,15850.25,562.64,13714.78,Yes
+Merchandise,Jaipur,Female,28,Adult,16699.51,17966.46,2029.08,17664.34,No
+Merchandise,Chennai,Male,61,Senior,17615.89,21586.38,16907.05,7869.76,No
+Grocery,Mumbai,Female,50,Middle Age,1580.75,10231.1,13135.93,2772.05,Yes
+Merchandise,Lucknow,Female,41,Middle Age,9924.12,18801.42,14244.98,5450.25,Yes
+Merchandise,Chennai,Male,17,Teen,15821.26,7087.38,15590.19,,Yes
+Merchandise,Pune,Male,53,Senior,12732.53,8454.8,11083.13,5352.4,No
+Grocery,Lucknow,Female,49,Middle Age,18873.25,,16078.02,,No
+Merchandise,Kolkata,Male,19,Young Adult,19280.34,,18612.77,,No
+Grocery,Indore,Female,24,Young Adult,6186.31,4097.6,,,Yes
+Merchandise,Kolkata,Female,42,Middle Age,7665.88,2066.92,21571.23,5794.73,No
+Grocery,Hyderabad,Female,56,Senior,9917.35,14257.48,19739.77,11482.47,No
+Merchandise,Kolkata,Female,41,Middle Age,19413.41,8810.53,4023.09,1987.63,No
+Merchandise,Jaipur,Male,-1,Teen,4510.88,-19942.94,2041.59,12969.89,Yes
+Grocery,Indore,Female,22,Young Adult,17104.92,10155.59,3751.65,9252.28,No
+Merchandise,Kolkata,Male,58,Senior,18267.24,24057.41,5894.87,,No
+Grocery,Mumbai,Female,40,Middle Age,14761.55,22574.11,8312.05,13065.69,Yes
+Grocery,Delhi,Male,26,,,21118.31,2384.93,7647.18,Yes
+Merchandise,Indore,Female,37,,9603.87,20332.61,3859.66,8192.26,Yes
+Grocery,Kolkata,Female,61,Senior,15724.41,3636.75,9755.09,2529.92,No
+Grocery,Hyderabad,Female,32,Adult,9699.35,5048.28,21753.54,17124.43,Yes
+Grocery,Jaipur,Female,17,,3689.11,13339.57,15478.43,6748.33,Yes
+Grocery,Chennai,Female,42,Middle Age,,15090.34,18132.96,8069.44,No
+Grocery,Mumbai,Female,38,Middle Age,6760.86,14565.39,4316.8,15740.78,Yes
+Merchandise,Mumbai,Female,150,Senior,19950.17,14221.32,18359.07,16673.4,No
+Merchandise,Chennai,Male,40,Middle Age,18042.87,12294.23,7530.77,11892.34,Yes
+Merchandise,Kolkata,Female,51,Senior,5424.6,3951.36,8500.71,11623.22,Yes
+Merchandise,Pune,Male,-1,Teen,12470.74,10691.59,18801.15,9175.19,No
+Grocery,Indore,Female,48,Middle Age,17493.61,10339.16,15808.21,10319.56,No
+Merchandise,Pune,Male,33,Adult,4834.99,14143.15,15914.12,4608.59,Yes
+Grocery,Mumbai,Male,41,Middle Age,9766.3,,21523.35,10588.44,No
+Grocery,Hyderabad,Female,42,Middle Age,13258.99,,7759.97,16916.62,No
+Merchandise,Mumbai,Female,22,Young Adult,14047.17,12663.24,15361.02,8648.64,Yes
+Grocery,Chennai,Male,33,Adult,2409.72,17290.79,6360.42,2061.83,Yes
+Merchandise,Hyderabad,Female,51,Senior,18231.84,17065.72,1850.75,11582.85,Yes
+Grocery,,Female,53,Senior,9637.99,22621.8,,2800.08,No
+Merchandise,,Male,22,Young Adult,5348.46,,13936.77,13779.9,No
+Grocery,Indore,Male,34,Adult,,,12915.28,15703.47,Yes
+Merchandise,Hyderabad,Male,-1,Teen,,-18592.05,13404.11,13403.01,Yes
+Merchandise,Delhi,Male,43,Middle Age,17624.95,-13935.54,8226.07,15512.11,Yes
+Merchandise,Delhi,Female,41,Middle Age,3066.79,24883.54,8285.57,15349.48,No
+Merchandise,Delhi,Male,59,Senior,13930.14,15771.07,15620.67,9598.62,No
+Merchandise,Indore,Male,59,Senior,11083.07,,-10277.41,5493.73,Yes
+Merchandise,Kolkata,Male,32,Adult,17769.16,-7381.34,,9548.68,Yes
+Merchandise,Mumbai,Male,19,Young Adult,1538.48,,4917.44,9331.43,Yes
+Merchandise,Indore,Female,58,Senior,15055.79,19945.41,3608.92,3241.85,Yes
+Grocery,Lucknow,Female,55,Senior,19902.61,1252.55,1896.68,6733.65,No
+Grocery,Bangalore,Male,27,Adult,7066.57,19642.18,18823.25,9481.07,No
+Grocery,Jaipur,Female,63,Senior,3295.75,999.16,14249.58,2039.7,No
+Grocery,Pune,Female,25,Young Adult,8403.93,9982.59,8850.21,15861.35,Yes
+Merchandise,Hyderabad,Male,52,Senior,19832.7,5958.45,20522.64,10989.66,No
+Grocery,Mumbai,Female,55,Senior,12947.35,21552.23,1526.69,1965.88,Yes
+Grocery,Chennai,Female,35,Adult,1861.42,20058.37,3572.38,2238.86,No
+Grocery,Bangalore,Male,37,Middle Age,5097.43,8568.4,,9036.46,No
+Merchandise,Bangalore,Male,33,Adult,14935.98,1033.23,18967.82,6414.05,Yes
+Grocery,Bangalore,Male,25,Young Adult,3655.83,-12523.15,14993.7,1571.73,No
+Merchandise,Jaipur,Female,57,Senior,17480.85,4650.4,13695.33,8380.84,No
+Merchandise,Delhi,Male,59,Senior,3717.54,,17403.38,10804.74,Yes
+Grocery,Hyderabad,Male,42,Middle Age,,10517.09,5151.95,4840.35,No
+Grocery,Lucknow,Female,56,Senior,9672.54,24717.36,9968.11,8600.08,Yes
+Grocery,Indore,Female,43,Middle Age,,,4658.86,7558.93,Yes
+Merchandise,Mumbai,Female,26,Adult,8155.98,20430.19,4769.14,6864.6,Yes
+Merchandise,Kolkata,Female,16,Teen,15922.72,2673.25,15276.0,17378.77,Yes
+Grocery,Chennai,Male,52,Senior,5373.52,18433.89,18457.78,6131.81,No
+Merchandise,Delhi,Female,45,Middle Age,7002.1,13530.09,6569.69,3682.16,Yes
+Grocery,Bangalore,Male,61,Senior,10737.75,15797.3,3905.58,8131.49,Yes
+Merchandise,Hyderabad,Male,53,Senior,3971.45,19500.03,21428.68,5474.89,No
+Grocery,Jaipur,Male,25,Young Adult,4467.83,7264.96,11243.72,8054.47,No
+Merchandise,Lucknow,Male,20,Young Adult,4325.99,12382.8,1516.35,1989.76,Yes
+Merchandise,Delhi,Male,23,Young Adult,992.39,12350.88,15542.51,,No
+Merchandise,Bangalore,Female,25,Young Adult,1282.99,2347.14,8200.23,11029.09,Yes
+Merchandise,Chennai,Male,43,Middle Age,2511.32,12212.19,8262.24,3876.43,No
+Merchandise,Kolkata,Female,62,Senior,8651.25,22800.94,1712.51,7905.43,Yes
+Merchandise,Lucknow,Male,38,Middle Age,7047.38,11103.54,3258.55,5753.1,Yes
+Merchandise,Mumbai,Male,45,Middle Age,18897.99,14774.85,9257.14,3396.61,Yes
+Grocery,Kolkata,Male,57,Senior,16249.48,2723.05,6987.28,11471.44,Yes
+Merchandise,Hyderabad,Female,61,Senior,2946.5,13360.58,5752.62,4231.4,Yes
+Grocery,Delhi,,35,Adult,15919.42,11618.48,12016.59,11126.18,No
+Merchandise,Kolkata,Female,42,Middle Age,1408.12,3730.24,13521.37,7330.82,No
+Merchandise,Jaipur,Male,41,Middle Age,15708.22,17800.77,8600.96,14224.69,No
+Merchandise,Kolkata,Male,35,Adult,5595.0,9630.14,10479.3,,No
+Merchandise,Delhi,Male,56,Senior,-2694.37,18361.35,18426.38,10613.78,No
+Grocery,Kolkata,Male,39,Middle Age,3668.92,6241.42,21735.09,14134.98,No
+Merchandise,Lucknow,Male,23,,5747.36,23334.86,2662.55,649.13,Yes
+Grocery,Delhi,Female,15,Teen,15692.13,12592.29,21500.6,17898.24,No
+Grocery,Indore,Female,32,Adult,18386.31,16890.52,6827.88,6867.07,No
+Merchandise,Indore,Male,33,Adult,13449.43,4534.32,21332.39,4792.0,No
+Merchandise,Mumbai,Male,38,Middle Age,15349.8,7854.78,10639.59,11612.01,No
+Merchandise,Mumbai,Male,46,Middle Age,15646.69,24943.38,19405.84,12522.5,No
+Merchandise,Bangalore,Male,33,Adult,4004.95,23025.16,6621.35,772.59,No
+Merchandise,Delhi,Female,50,Middle Age,7096.07,793.63,21505.81,10616.33,Yes
+,Lucknow,Male,48,Middle Age,6841.2,24310.7,5688.99,-14829.14,Yes
+Grocery,Mumbai,Female,39,Middle Age,17393.93,20351.72,7366.25,12168.67,Yes
+Merchandise,Kolkata,Female,36,Middle Age,11782.98,19323.36,17555.57,12197.01,Yes
+Grocery,Kolkata,Female,59,Senior,19101.24,6265.24,5266.74,10988.76,Yes
+Merchandise,Lucknow,Female,15,Teen,6166.09,23019.52,584.63,3432.0,Yes
+Merchandise,Bangalore,Male,58,Senior,,3138.82,3285.28,,No
+Grocery,Chennai,Male,50,Middle Age,17953.97,4185.4,10973.58,12231.12,No
+Merchandise,Delhi,Male,22,Young Adult,14024.57,20658.54,18354.62,6091.63,Yes
+Merchandise,Mumbai,Female,29,Adult,13708.3,21068.05,3645.27,8088.73,Yes
+Grocery,Bangalore,Female,28,Adult,-4256.99,23039.77,19936.88,13020.53,Yes
+Grocery,Delhi,Female,54,Senior,2883.12,10945.95,18075.05,1200.38,No
+Merchandise,Lucknow,Female,29,Adult,18894.53,1082.72,726.36,17894.54,No
+Merchandise,Lucknow,Female,62,Senior,,17721.35,18432.43,2198.52,No
+Merchandise,Lucknow,Female,61,Senior,15995.15,19792.3,,13809.14,No
+Grocery,Jaipur,Male,25,Young Adult,11058.35,12104.98,21414.23,6372.26,Yes
+Grocery,Jaipur,Male,32,Adult,18109.99,21460.08,1108.11,13083.66,Yes
+Grocery,Indore,Female,35,Adult,19642.19,2256.96,12538.18,,Yes
+Grocery,Pune,Male,36,Middle Age,5345.83,10544.53,1370.76,3246.22,No
+Grocery,Lucknow,Male,52,Senior,,2966.63,21240.16,8684.09,No
+Merchandise,Bangalore,Male,60,Senior,4988.87,14631.18,20465.49,3221.28,No
+Merchandise,Hyderabad,Male,27,Adult,18797.24,4389.05,,17694.95,No
+Grocery,Bangalore,Male,59,Senior,7479.64,18187.42,3386.53,5680.3,Yes
+Grocery,Indore,Male,54,Senior,4886.38,7664.4,5755.87,6201.44,No
+Merchandise,Bangalore,Male,43,Middle Age,2591.99,2389.51,21845.42,,No
+Merchandise,Kolkata,Male,55,Senior,13865.24,5566.2,4415.56,12352.14,No
+Grocery,Lucknow,Female,62,Senior,10539.06,16124.86,5378.3,6864.18,Yes
+Merchandise,Lucknow,Male,42,Middle Age,11285.66,,19809.28,13217.29,Yes
+Grocery,Mumbai,Female,60,Senior,19894.42,20940.21,8713.95,13036.02,No
+Grocery,Jaipur,Male,37,Middle Age,12057.22,-12113.13,20816.56,6010.99,No
+Merchandise,Bangalore,Male,30,Adult,11931.23,18465.79,5316.59,14717.3,No
+Merchandise,Delhi,,42,Middle Age,6959.16,3315.23,6818.44,16855.13,Yes
+Merchandise,Chennai,Female,47,Middle Age,16835.68,19040.7,11663.79,12194.09,No
+Merchandise,Hyderabad,Female,22,Young Adult,7507.14,4161.79,2750.57,13304.42,Yes
+Merchandise,Kolkata,Male,19,Young Adult,15548.56,746.88,11365.8,13907.44,Yes
+Merchandise,Indore,Female,20,Young Adult,11364.56,23875.18,11640.75,17908.06,No
+Merchandise,Chennai,Male,150,Senior,1817.33,20269.05,10449.41,7763.02,No
+Grocery,Bangalore,Female,26,Adult,15230.25,16913.33,14198.21,10330.27,No
+Merchandise,Bangalore,Female,16,Teen,7218.94,14868.0,9133.79,11817.06,Yes
+Grocery,Jaipur,Male,39,Middle Age,7215.08,4876.94,13950.77,17487.23,Yes
+Merchandise,Kolkata,Male,50,Middle Age,10252.75,14941.0,12941.14,8579.11,Yes
+Grocery,,Female,35,Adult,5526.03,6355.0,4801.51,13696.24,No
+Grocery,Delhi,Male,51,Senior,19787.55,11909.41,4164.43,8713.43,No
+Merchandise,Kolkata,,34,Adult,13716.51,10081.75,,8612.22,Yes
+Grocery,Bangalore,Female,55,Senior,16359.27,803.2,1483.03,9380.19,No
+Merchandise,Bangalore,Female,30,Adult,17564.88,7333.31,3081.16,8874.43,No
+Merchandise,Mumbai,Female,45,Middle Age,3462.83,23726.88,5951.85,11056.68,Yes
+Grocery,Mumbai,Male,23,Young Adult,16393.54,20764.15,12495.56,2102.64,Yes
+Merchandise,Kolkata,Male,22,Young Adult,12213.48,,13055.8,1784.37,No
+Merchandise,Lucknow,Male,20,Young Adult,5498.88,22174.96,20509.86,2622.95,Yes
+Merchandise,Hyderabad,Female,33,Adult,16658.27,6324.95,948.86,11248.74,Yes
+Grocery,Indore,Male,26,Adult,17954.5,3213.57,7519.04,3998.4,No
+Merchandise,Kolkata,Female,23,Young Adult,6736.81,9916.56,20917.45,4996.45,Yes
+Merchandise,Chennai,Male,51,Senior,12342.92,10414.32,18755.18,12889.37,No
+Merchandise,Pune,Male,45,Middle Age,1939.49,14963.2,6960.89,13329.81,No
+Merchandise,Jaipur,Male,44,Middle Age,,14699.93,7447.58,17503.94,Yes
+Merchandise,Bangalore,Male,35,Adult,13830.94,23015.51,15124.46,1545.97,No
+Merchandise,Indore,Male,20,Young Adult,17933.5,12785.27,-19952.5,14948.07,No
+Grocery,Chennai,Male,52,Senior,18332.61,20185.77,6269.21,8208.2,Yes
+Grocery,Delhi,Female,22,Young Adult,9982.93,8785.73,752.32,12418.75,No
+Merchandise,Mumbai,Female,23,Young Adult,18803.81,6795.84,,1253.22,Yes
+Merchandise,Lucknow,Female,47,Middle Age,5982.99,9704.97,18221.45,7903.71,No
+Merchandise,Mumbai,Female,33,Adult,15336.61,10619.9,12755.09,11932.97,Yes
+Merchandise,Bangalore,Male,38,Middle Age,11207.77,12227.19,4087.52,9109.03,Yes
+Merchandise,Mumbai,Female,21,Young Adult,8630.49,,10895.45,6316.96,No
+Grocery,Jaipur,Male,44,Middle Age,17846.31,8936.15,5128.87,10205.81,No
+Merchandise,Indore,Female,55,Senior,13236.85,18479.35,10029.88,10977.46,No
+Grocery,Hyderabad,Male,25,Young Adult,17831.48,20491.31,2635.24,13486.28,No
+Merchandise,Lucknow,Male,41,Middle Age,14014.33,18338.9,7171.87,5083.36,Yes
+Grocery,Bangalore,Female,59,Senior,2213.49,-4298.53,14952.07,13367.08,Yes
+Merchandise,Mumbai,Male,62,Senior,8943.4,12290.63,16020.11,5536.82,Yes
+Merchandise,Kolkata,Male,33,Adult,3921.67,2551.39,14377.89,16733.94,Yes
+Merchandise,Hyderabad,Female,35,Adult,7387.15,9292.0,,-17006.62,Yes
+Merchandise,Delhi,Male,50,Middle Age,9045.51,15814.87,10559.28,-3094.27,Yes
+Merchandise,Jaipur,Female,53,Senior,3811.99,1768.61,15368.74,8975.63,No
+Grocery,Lucknow,Male,-1,Teen,15816.19,16556.32,13142.15,6375.92,No
+Grocery,Hyderabad,Female,36,Middle Age,6718.76,3200.04,21276.59,9136.92,No
+Grocery,Delhi,Female,41,Middle Age,17973.02,20900.67,10887.2,1048.76,Yes
+Merchandise,Mumbai,Male,63,Senior,3983.15,21468.63,2091.78,8771.95,Yes
+,Hyderabad,Female,63,Senior,,16310.94,15649.84,4625.68,No
+Merchandise,Delhi,Male,56,Senior,9526.74,10221.42,13027.22,10826.76,No
+Merchandise,Hyderabad,Female,31,Adult,13421.26,18905.25,1471.9,4760.68,Yes
+Grocery,Bangalore,Female,47,Middle Age,14880.01,1406.9,-11127.69,13766.1,No
+Grocery,Bangalore,Female,58,Senior,4601.42,,5544.74,2538.53,No
+Merchandise,Mumbai,Male,31,Adult,13190.96,18626.28,20499.23,11407.63,No
+Grocery,Chennai,Male,18,,15239.97,8581.64,3336.97,12752.93,No
+Grocery,Mumbai,Male,52,Senior,10066.0,23992.54,12029.39,14311.21,Yes
+Grocery,Chennai,Female,19,Young Adult,-7858.75,16398.72,7299.88,6278.11,Yes
+Grocery,Indore,Male,39,Middle Age,19141.54,685.12,,6810.53,Yes
+Grocery,Chennai,Male,45,Middle Age,10347.32,11967.9,19369.39,3982.83,No
+Grocery,Lucknow,Female,-1,Teen,14220.75,-782.63,17975.15,9697.42,No
+Merchandise,Lucknow,Female,54,Senior,2601.42,6481.51,18796.15,17053.72,Yes
+Grocery,Mumbai,Female,48,Middle Age,15958.02,6737.76,3069.24,,No
+,Indore,Female,26,Adult,3910.26,16100.04,1894.87,3435.79,No
+Grocery,Pune,Male,44,Middle Age,11908.0,17912.17,14638.59,9118.85,Yes
+Merchandise,Indore,Female,20,Young Adult,15769.69,4925.88,1465.03,8739.71,No
+Merchandise,Pune,Female,42,Middle Age,8704.11,1264.44,12182.61,7655.43,Yes
+Merchandise,Indore,Male,54,Senior,,6351.54,16672.92,12358.64,No
+Merchandise,Delhi,Male,17,Teen,-2777.38,1660.59,16536.43,17650.71,Yes
+Grocery,Kolkata,Female,15,Teen,3960.2,24772.08,18846.75,2012.92,Yes
+Grocery,Kolkata,Male,64,Senior,10001.68,5827.33,18417.09,13830.1,No
+Merchandise,Lucknow,Female,28,Adult,17022.83,9163.85,10065.95,16331.22,Yes
+Merchandise,Kolkata,Male,58,Senior,9996.33,13067.29,7118.37,1195.32,No
+Merchandise,Mumbai,Male,60,Senior,18704.96,18682.6,19690.94,5800.56,Yes
+Merchandise,Lucknow,Female,53,Senior,3539.74,1564.03,12426.75,12566.33,Yes
+Merchandise,Hyderabad,Male,33,Adult,16532.36,24538.49,15805.32,10417.2,Yes
+Merchandise,Indore,Male,41,Middle Age,12029.51,18905.54,12202.08,11802.01,Yes
+Merchandise,Chennai,Female,20,,8264.18,6867.52,3614.91,16516.97,Yes
+Merchandise,Chennai,Male,150,Senior,11856.23,20748.63,,17910.19,Yes
+Merchandise,Delhi,Male,54,Senior,6000.82,24092.36,,2409.99,No
+Merchandise,Lucknow,Female,39,Middle Age,1813.71,1391.79,21934.93,,No
+Merchandise,Jaipur,Male,30,Adult,11720.57,10537.86,12518.65,12822.43,No
+Merchandise,Jaipur,Male,58,Senior,9587.21,-18148.52,20397.4,,Yes
+Merchandise,Lucknow,Male,42,Middle Age,14547.79,7452.5,3546.5,4882.61,Yes
+Merchandise,Bangalore,Female,16,Teen,16066.3,16178.12,16212.01,3881.21,No
+Merchandise,Kolkata,Female,57,Senior,12228.64,24318.59,19899.11,11258.89,Yes
+Grocery,Indore,Female,49,Middle Age,17186.56,8489.12,18756.19,10457.09,No
+Grocery,Delhi,Female,49,Middle Age,9908.26,19579.15,12799.27,15568.07,No
+Grocery,,Male,47,Middle Age,7090.68,7641.93,1312.05,16557.13,No
+Grocery,Delhi,Male,56,Senior,524.23,3201.64,10015.4,8726.94,No
+,Delhi,Female,52,Senior,2358.23,6115.34,11594.93,1823.62,Yes
+Grocery,Jaipur,Male,31,Adult,2718.27,14614.56,1969.81,15122.42,Yes
+Grocery,Pune,Male,47,Middle Age,10033.18,8408.68,3288.26,9939.48,Yes
+Grocery,Hyderabad,Male,56,Senior,9750.82,2689.94,8545.6,11353.23,No
+Merchandise,Lucknow,Female,16,Teen,14288.61,22076.68,21220.93,11399.27,Yes
+Grocery,Mumbai,Male,28,Adult,13461.67,-5148.31,19955.63,16951.59,No
+Merchandise,Mumbai,Female,150,Senior,16933.38,17457.62,4602.28,13903.15,Yes
+Merchandise,Bangalore,Male,39,Middle Age,13676.43,10441.47,6104.88,4875.76,Yes
+Merchandise,Chennai,Female,45,Middle Age,1928.93,6068.1,18926.78,8709.53,No
+Grocery,Bangalore,Female,19,Young Adult,8388.78,22875.48,2552.72,3363.03,Yes
+Merchandise,Mumbai,Female,15,Teen,15996.18,16573.72,7392.36,10321.47,Yes
+Grocery,Mumbai,Female,31,Adult,15555.0,2497.84,13102.65,11854.29,No
+Grocery,Bangalore,Male,62,Senior,,14960.3,21789.81,,No
+Grocery,Bangalore,Male,42,Middle Age,5531.66,5189.32,6667.01,13792.45,No
+Grocery,Lucknow,Female,35,Adult,15670.14,8899.01,11493.01,12923.4,Yes
+Grocery,Jaipur,Male,25,Young Adult,10136.77,7751.86,15532.07,6736.65,No
+Grocery,Lucknow,Male,23,Young Adult,11747.08,10672.81,1168.41,13208.97,Yes
+Merchandise,Chennai,Male,58,Senior,14755.54,14233.17,20197.94,8713.22,No
+Grocery,Mumbai,Male,28,Adult,9866.51,1574.62,17845.53,11683.83,No
+Grocery,Jaipur,Male,150,Senior,12944.92,14112.78,20933.11,16969.23,No
+Merchandise,Hyderabad,Male,36,Middle Age,7031.07,4068.87,18619.4,6856.37,Yes
+Merchandise,Kolkata,Male,150,Senior,3569.15,648.71,2206.6,2948.67,Yes
+,Jaipur,Male,46,Middle Age,4599.11,16380.58,-20313.08,13145.26,No
+Merchandise,Lucknow,Female,51,Senior,13064.15,18450.82,18361.75,2365.2,Yes
+Grocery,Lucknow,Female,28,Adult,16671.24,7978.07,17351.69,,Yes
+Grocery,Chennai,Female,43,Middle Age,18756.41,22588.8,-8525.39,14611.45,No
+Grocery,Jaipur,Female,49,Middle Age,5975.72,9085.6,535.07,-5131.92,No
+Merchandise,Delhi,Female,29,Adult,13373.78,7580.98,12298.1,10470.42,No
+Merchandise,Mumbai,Male,55,Senior,14332.01,14051.48,2222.89,17391.1,No
+Merchandise,Delhi,Male,32,Adult,4665.57,15889.64,6959.98,13606.55,Yes
+Grocery,Delhi,Male,24,Young Adult,8762.44,5489.4,18179.91,1369.46,Yes
+Grocery,Jaipur,Female,16,Teen,-15559.82,,19928.39,2652.53,No
+Merchandise,Indore,Female,41,Middle Age,5739.86,12508.63,21013.67,3503.82,Yes
+Grocery,Pune,Female,60,Senior,3795.64,11499.02,5648.27,10988.87,Yes
+Merchandise,Delhi,Male,48,Middle Age,14178.48,19595.12,1564.27,17154.06,No
+Grocery,Mumbai,Male,39,Middle Age,10391.72,24998.25,17466.54,10866.28,Yes
+Merchandise,Bangalore,Female,31,Adult,3083.39,5745.75,5226.06,12762.41,No
+Merchandise,Indore,Male,60,Senior,9069.15,15163.88,5864.86,13456.52,No
+Grocery,Delhi,Female,52,Senior,16818.5,3179.87,7701.5,13293.78,No
+Merchandise,Pune,Male,18,Young Adult,1616.14,14675.07,12739.47,2472.04,No
+Merchandise,Bangalore,Male,150,Senior,14246.48,23935.3,14994.21,4492.06,No
+Merchandise,Delhi,Male,34,Adult,16282.04,9469.43,6612.0,15203.36,Yes
+Grocery,Jaipur,Male,25,Young Adult,8941.88,5027.29,3436.05,15452.33,Yes
+,Jaipur,Female,47,Middle Age,6242.98,9643.48,14376.47,3118.04,Yes
+Grocery,Bangalore,Female,21,Young Adult,2439.85,9935.98,16448.56,3551.96,Yes
+Merchandise,Pune,Female,59,Senior,17231.05,12745.1,10102.49,8185.21,No
+Merchandise,Kolkata,Male,-1,Teen,2128.15,15504.7,21994.51,8048.42,Yes
+Merchandise,Delhi,Male,25,Young Adult,9306.06,23564.25,20268.55,14665.27,Yes
+Merchandise,Hyderabad,Female,40,Middle Age,19411.47,12033.88,14764.3,17041.14,No
+Grocery,Lucknow,Female,43,Middle Age,17392.1,12953.17,3743.25,17767.49,Yes
+Merchandise,Lucknow,Male,62,Senior,2935.62,13445.32,19149.88,15510.53,No
+Merchandise,,Female,34,Adult,-15882.76,3861.65,15426.04,8003.97,Yes
+Merchandise,Mumbai,Female,54,Senior,5841.71,17070.69,18245.16,13201.07,Yes
+Grocery,Lucknow,Female,58,Senior,,18872.14,872.56,3643.68,No
+Merchandise,Delhi,Female,21,Young Adult,16366.61,13450.66,3895.55,17353.57,No
+Grocery,Hyderabad,Male,36,Middle Age,19320.3,6980.46,14381.56,2831.33,No
+Merchandise,Jaipur,Male,22,Young Adult,8104.05,24084.37,8080.91,4571.64,No
+Grocery,Indore,Female,55,Senior,15914.4,18249.68,1188.46,7791.0,Yes
+Merchandise,Hyderabad,Female,40,Middle Age,11106.26,5595.25,4553.49,2984.07,Yes
+Grocery,Delhi,Female,24,Young Adult,11161.28,,13334.52,9283.32,Yes
+Grocery,Delhi,Male,-1,Teen,18733.89,16833.66,-15384.57,,Yes
+Grocery,Indore,Female,19,Young Adult,3605.86,10574.22,6253.49,1759.43,Yes
+Merchandise,Bangalore,Male,48,Middle Age,16406.42,16816.47,9682.49,15281.85,No
+Grocery,Jaipur,Female,18,Young Adult,13216.22,20546.06,17669.34,3582.74,No
+Merchandise,Pune,Female,27,Adult,7878.65,4900.28,16730.82,10055.55,Yes
+Grocery,Mumbai,Male,52,Senior,11163.22,3976.88,15369.88,10454.55,Yes
+Merchandise,Mumbai,Female,52,Senior,16498.09,2538.99,3401.67,11231.58,Yes
+Grocery,Mumbai,Male,17,Teen,11433.87,24272.07,1329.33,8397.08,No
+Merchandise,Hyderabad,Female,24,Young Adult,1342.42,7953.33,15316.34,5602.41,No
+Merchandise,Kolkata,Female,51,Senior,3724.42,5603.02,18471.45,1507.29,Yes
+Merchandise,Pune,Female,32,Adult,11281.02,12051.35,20609.51,17891.33,No
+Merchandise,Chennai,Female,59,Senior,18241.16,9174.57,1022.61,12264.23,Yes
+Grocery,Indore,Female,59,Senior,6956.98,5619.9,7545.65,6305.17,No
+Grocery,Hyderabad,Female,22,Young Adult,15903.71,11023.97,9266.37,7894.37,No
+,,Male,18,Young Adult,10184.13,3715.25,11772.87,10366.0,Yes
+Grocery,Chennai,Female,62,Senior,17007.56,5465.57,17432.05,1144.08,No
+Grocery,Indore,Male,63,Senior,4458.32,5492.41,21735.27,1704.33,Yes
+Grocery,Mumbai,Female,28,Adult,14676.81,20416.93,952.54,14634.3,Yes
+Merchandise,,Male,15,Teen,2476.18,15667.29,1002.04,,Yes
+Grocery,Delhi,Female,48,Middle Age,19016.79,1525.57,13308.09,4139.59,No
+Merchandise,Delhi,Female,50,Middle Age,5381.67,12490.68,21001.9,629.99,Yes
+Grocery,Indore,Male,60,Senior,17857.74,-2693.24,20999.2,4962.81,Yes
+Merchandise,Mumbai,Male,16,Teen,10469.8,21466.12,9292.88,12881.24,Yes
+Grocery,Bangalore,Male,19,Young Adult,15433.79,1978.88,20259.78,6314.11,Yes
+Merchandise,Indore,Male,50,Middle Age,19570.12,17054.42,12789.42,9171.68,No
+Merchandise,Hyderabad,Male,-1,Teen,11244.42,3336.74,20399.19,9556.41,Yes
+Merchandise,Bangalore,Male,52,Senior,16128.27,3759.52,2589.39,3401.39,Yes
+Merchandise,Indore,Male,15,Teen,5895.58,8034.44,-6371.02,4246.25,Yes
+Merchandise,Delhi,Female,53,Senior,14980.66,22059.99,5771.45,4060.03,Yes
+Merchandise,Indore,Female,62,Senior,15614.66,24594.79,5652.65,16374.61,No
+Grocery,Pune,Female,40,Middle Age,10305.21,4869.91,6863.63,15682.0,Yes
+Grocery,Pune,Female,45,Middle Age,3200.63,22319.0,7814.08,7190.59,No
+Merchandise,Delhi,Female,37,Middle Age,16613.36,11310.75,16834.74,17850.5,Yes
+Grocery,Delhi,Male,18,Young Adult,5811.81,19910.45,17948.2,15641.3,No
+Grocery,Jaipur,Female,22,Young Adult,-11648.21,22191.8,17348.6,15180.36,No
+Merchandise,Indore,Male,49,Middle Age,17695.15,13153.26,20171.37,5467.93,No
+Grocery,Chennai,Male,57,,4265.75,18285.92,8502.47,3349.55,No
+Grocery,Bangalore,Male,59,Senior,12354.9,2763.59,7634.39,8572.01,No
+Merchandise,Hyderabad,Female,50,Middle Age,12568.24,876.53,4412.08,5538.62,Yes
+Merchandise,Pune,Male,31,Adult,9285.22,20839.45,10778.34,8643.66,No
+Merchandise,Delhi,Male,43,Middle Age,9079.87,7085.97,14725.92,12135.64,Yes
+Merchandise,Pune,Female,38,Middle Age,14854.83,20096.37,21610.39,3039.37,Yes
+Merchandise,Lucknow,Female,-1,,13465.53,4396.14,19275.73,5600.92,Yes
+Grocery,Indore,Female,54,Senior,2614.04,24199.46,771.42,12250.95,Yes
+Merchandise,Mumbai,Male,-1,Teen,8320.38,7187.19,8332.9,9997.34,No
+Grocery,Hyderabad,Male,34,Adult,2327.16,15620.5,,2821.23,No
+Grocery,Bangalore,Female,34,Adult,5274.19,12453.38,16448.03,4866.23,Yes
+Grocery,Delhi,Male,47,Middle Age,-6329.51,960.9,14811.92,15694.54,No
+Grocery,Indore,Male,44,Middle Age,12481.45,16022.12,8610.39,13694.78,Yes
+Grocery,Lucknow,Male,62,Senior,13512.22,16499.78,7619.53,6326.09,No
+Merchandise,Delhi,Female,39,Middle Age,15703.7,2217.63,19418.43,5664.16,Yes
+Merchandise,Mumbai,Male,23,Young Adult,,2441.32,17701.49,1796.57,No
+Grocery,Kolkata,Female,44,Middle Age,531.21,18063.23,2904.07,1683.98,No
+Grocery,Lucknow,Male,33,Adult,13156.43,7016.32,11756.09,11541.0,Yes
+Grocery,Mumbai,Male,40,Middle Age,2856.69,18250.53,3413.12,12979.57,Yes
+Grocery,Mumbai,Male,48,Middle Age,2041.17,20584.56,14477.41,1441.8,Yes
+Grocery,Delhi,Male,44,Middle Age,7495.29,15718.87,21504.19,2044.43,Yes
+Merchandise,Delhi,Female,56,Senior,12954.81,16074.75,7632.42,12911.42,Yes
+Grocery,Hyderabad,Female,54,Senior,18882.09,20174.36,10249.53,13647.87,Yes
+Grocery,,Male,64,Senior,11006.01,15083.79,5130.46,676.59,No
+Merchandise,Indore,Female,57,Senior,3076.49,4743.41,11857.67,10873.3,No
+Merchandise,Jaipur,Female,32,Adult,1343.61,14184.81,5622.23,14960.35,Yes
+Merchandise,Kolkata,Female,21,Young Adult,10013.61,3215.09,15337.91,2626.95,Yes
+Grocery,Hyderabad,Male,33,Adult,7433.33,16023.97,3004.7,8411.7,Yes
+Merchandise,Pune,Male,56,Senior,14810.37,6697.12,1661.9,2422.65,Yes
+Merchandise,Delhi,Female,47,Middle Age,3710.64,6462.63,7860.82,16514.62,No
+Grocery,Lucknow,Male,52,Senior,,16877.1,888.01,13124.15,Yes
+Grocery,Pune,Female,24,Young Adult,19097.32,23446.0,18728.85,3933.37,No
+Merchandise,Pune,Male,48,Middle Age,10961.36,4616.78,6370.34,2911.74,Yes
+Merchandise,Indore,Male,-1,Teen,10106.05,1627.49,5727.5,16597.62,Yes
+Merchandise,Hyderabad,Male,19,Young Adult,1056.78,14432.14,2064.77,5467.9,No
+Merchandise,Mumbai,Female,37,Middle Age,8856.73,1127.43,18059.24,3935.06,No
+Grocery,Jaipur,Male,56,Senior,6134.29,,,4638.59,No
+Merchandise,Hyderabad,Female,-1,Teen,5698.92,11341.92,3575.45,8385.54,Yes
+Merchandise,Kolkata,Male,56,Senior,13367.78,22967.0,11786.37,14867.16,No
+Merchandise,Mumbai,Male,27,,5732.11,18387.03,15075.91,7164.17,No
+Grocery,Bangalore,Male,150,Senior,12402.84,1496.26,9384.89,12036.71,Yes
+Grocery,Bangalore,Male,50,Middle Age,6527.2,7152.13,700.14,-2411.46,No
+Merchandise,Bangalore,Male,27,Adult,17795.87,13993.55,704.9,1948.12,Yes
+Grocery,Bangalore,Female,53,Senior,18202.45,23261.36,10024.16,10721.53,Yes
+Grocery,Bangalore,Male,29,Adult,4320.13,21511.72,10423.84,1205.77,Yes
+Merchandise,Chennai,Male,33,,2051.81,5313.92,2762.58,1439.76,Yes
+Grocery,Lucknow,Male,51,Senior,13138.12,14557.61,7272.43,2518.93,No
+Merchandise,Indore,Male,63,Senior,9708.21,12498.26,595.49,,No
+Grocery,Hyderabad,Female,20,Young Adult,9604.04,11087.93,19113.21,17504.34,Yes
+Grocery,Kolkata,Female,64,Senior,14237.77,3938.24,18682.24,5726.68,Yes
+Grocery,Delhi,Male,61,Senior,15324.2,23542.02,4876.29,12281.85,Yes
+Grocery,Chennai,Male,50,Middle Age,2102.43,10835.98,14492.01,15146.45,No
+Grocery,Bangalore,Male,29,Adult,5425.66,-4167.32,18441.25,,Yes
+Merchandise,Mumbai,Male,53,Senior,18244.84,19219.77,8187.27,,Yes
+Merchandise,Mumbai,Female,21,Young Adult,4432.79,903.46,18542.47,7641.79,No
+Grocery,Indore,Male,44,Middle Age,13826.63,1674.2,8072.14,15055.1,Yes
+Grocery,Pune,Male,26,Adult,5065.67,3980.31,11263.01,6653.73,Yes
+Grocery,Pune,Male,38,Middle Age,3954.59,3403.94,16063.91,3535.92,Yes
+Merchandise,Delhi,Female,46,Middle Age,19419.34,19326.69,-13062.09,2172.7,Yes
+Merchandise,Chennai,Female,61,Senior,11643.32,,18697.79,8378.92,Yes
+Grocery,Indore,Male,27,Adult,16416.68,3280.83,5384.63,13468.71,No
+Merchandise,Jaipur,Female,34,Adult,18055.2,5920.45,9569.92,13262.42,No
+Grocery,Chennai,Female,34,Adult,11839.55,7526.16,981.6,3467.09,No
+Grocery,Lucknow,Female,17,Teen,16015.2,19100.41,18553.35,5478.82,No
+Merchandise,Chennai,Male,62,Senior,10952.59,4927.23,7834.4,14667.93,No
+Grocery,Pune,Female,34,Adult,5995.44,7636.19,18556.52,14974.07,Yes
+Merchandise,Jaipur,Female,43,Middle Age,18211.66,13626.85,13385.03,15382.27,No
+Merchandise,Hyderabad,Female,42,Middle Age,9813.3,9686.75,13263.46,16229.29,Yes
+Merchandise,Pune,Female,61,Senior,6950.21,11577.38,11599.99,8948.42,No
+,Mumbai,Female,36,Middle Age,1937.19,13283.95,632.41,9347.11,No
+Grocery,Lucknow,Male,44,Middle Age,11411.12,11548.03,21357.92,,No
+Grocery,Hyderabad,Male,39,Middle Age,4205.24,5868.33,2667.21,5181.33,Yes
+Grocery,Pune,Female,53,Senior,529.37,12449.98,17544.11,15586.65,No
+Grocery,Kolkata,Male,36,Middle Age,946.28,12873.6,19518.48,2619.76,Yes
+Grocery,Indore,Male,46,Middle Age,9091.27,8958.1,6639.51,15622.82,Yes
+Grocery,Kolkata,Female,30,Adult,895.74,11784.4,-3888.29,9973.32,No
+Grocery,Mumbai,Male,22,Young Adult,17420.41,14559.63,10864.86,16257.64,Yes
+Grocery,Mumbai,Female,39,Middle Age,11348.74,3347.4,11732.24,4260.1,Yes
+Grocery,Lucknow,Male,24,Young Adult,18471.66,5134.24,8105.48,2877.68,No
+Grocery,Delhi,Female,35,Adult,,11561.91,18199.34,11909.37,Yes
+,Chennai,Female,16,Teen,6087.25,16961.73,10522.71,1972.78,Yes
+Merchandise,Indore,Female,19,Young Adult,5165.71,21096.05,12162.05,15873.76,No
+Grocery,Bangalore,Male,27,Adult,13728.9,20174.41,9461.35,17635.27,Yes
+Grocery,Kolkata,Male,33,Adult,9408.09,24945.59,15919.19,-14757.6,Yes
+Grocery,Jaipur,Male,18,Young Adult,14225.85,20846.14,8572.56,6319.67,Yes
+Grocery,Lucknow,Male,15,Teen,9245.11,,17999.78,8196.11,No
+Merchandise,Indore,,45,Middle Age,14788.94,16664.72,19083.6,12913.84,Yes
+Merchandise,Bangalore,Male,-1,Teen,3842.73,21903.27,9470.6,2278.09,Yes
+Merchandise,Jaipur,Male,18,Young Adult,6506.93,13401.28,7552.87,14790.02,Yes
+Grocery,Mumbai,Male,56,Senior,2226.3,6650.99,12595.82,10729.69,No
+Grocery,Mumbai,,43,Middle Age,-8518.17,5423.12,1762.41,15154.86,Yes
+Merchandise,Jaipur,Male,-1,Teen,12951.4,13735.3,-6052.79,6910.65,No
+Merchandise,Pune,Male,57,Senior,13030.79,4824.75,19852.11,12138.35,No
+,Indore,Female,44,Middle Age,-7629.03,13193.29,21377.31,10070.54,Yes
+Merchandise,Hyderabad,Male,52,Senior,2016.57,-23701.76,16187.86,8213.7,No
+Grocery,Delhi,Male,34,Adult,19290.08,1484.76,18558.86,3801.34,No
+Merchandise,Bangalore,Male,35,Adult,15243.06,21663.82,1069.75,9374.6,Yes
+Grocery,Bangalore,Male,21,Young Adult,13360.6,3072.77,6686.78,-12241.46,No
+Grocery,Bangalore,Male,19,Young Adult,3654.89,16987.54,6976.11,-11442.09,No
+Merchandise,Hyderabad,Male,28,Adult,598.41,10414.5,4204.89,15510.9,Yes
+Grocery,Bangalore,Female,50,Middle Age,18487.3,12460.32,2445.89,10007.73,Yes
+Grocery,Lucknow,Female,20,Young Adult,-9986.4,9680.41,6750.96,10610.06,No
+Merchandise,,Male,62,Senior,14866.86,23567.85,5603.91,14886.11,Yes
+Grocery,Indore,Male,30,Adult,4178.25,6551.87,7752.07,17440.97,Yes
+Merchandise,Hyderabad,Female,40,Middle Age,11759.7,6738.25,1008.74,4694.6,Yes
+Merchandise,Mumbai,Female,21,Young Adult,1386.6,22807.39,17851.07,,No
+Merchandise,Delhi,Female,58,Senior,12335.83,20968.82,21973.66,10028.82,Yes
+Grocery,Pune,Male,18,Young Adult,17597.22,1911.06,15764.54,13771.03,Yes
+Grocery,Jaipur,Male,55,Senior,4622.15,20747.48,14156.95,12359.28,No
+Grocery,Chennai,Female,23,Young Adult,15706.31,5688.92,20436.52,17872.1,Yes

@@ -1,0 +1,14 @@
+/cleaned_customer_dataset.csv
+/customer_dataset_cleaned.csv
+/customer_dataset_modified.csv
+/customer_dataset_preprocessed.csv
+/customer_dataset_short.csv
+/decision_tree_model.pkl
+/encoder.pkl
+/linearupdt.ipynb
+/logistic.ipynb
+/notebook.ipynb
+/project.ipynb
+/random_forest_model.pkl
+/sales_model.pkl
+/sales_prediction_model.pkl
